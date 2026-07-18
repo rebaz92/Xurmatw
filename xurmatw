@@ -26,8 +26,11 @@ http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/310494.m3u8
 #EXTINF:-1 group-title="ئەلوان سپۆرت  " tvg-name="Alwan sport 9 4K",Alwan sport 9 4K
 http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/310495.m3u8
 
-#EXTINF:-1 group-title="ئەلوان سپۆرت  " tvg-name="Alwan sport 10 4K",Alwan sport 10 4K
+#EXTINF:-1 group-title="  ئەلوان سپۆرت" tvg-name="Alwan sport 10 4K",Alwan sport 10 4K
 http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/310496.m3u8
 
-#EXTINF:-1 group-title="بەین سپۆرت ماکس",Bein MAX 1 4K
-https://es.egys.gs/live/abdoyasser112/01032783778/419500.m3u8
+#EXTINF:-1 group-title="  بەین سپۆرت ماکس",Bein MAX 1 4K
+https://es.egys.gs/live/abdoyasser112/01032783778/522860.m3u8
+
+#EXTINF:-1 group-title="  بەین سپۆرت ماکس",Bein MAX 2 4K
+https://es.egys.gs/live/abdoyasser112/01032783778/20218.m3u8
