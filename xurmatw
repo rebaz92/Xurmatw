@@ -40,3 +40,15 @@ https://es.egys.gs/live/abdoyasser112/01032783778/294421.m3u8
 
 #EXTINF:-1 group-title="  بێن سپۆرت ماکس",Bein MAX 4 4K
 https://es.egys.gs/live/abdoyasser112/01032783778/557202.m3u8
+
+#EXTINF:-1 group-title="  کوردی وەرزشی",Ava Sport FHD
+http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667734&extension=ts
+
+#EXTINF:-1 group-title="  کوردی وەرزشی",NRT Sport FHD
+https://live20.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8
+
+#EXTINF:-1 group-title="  کوردی وەرزشی",Astera Sport FHD
+http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=638714&extension=ts
+
+#EXTINF:-1 group-title="  کوردی وەرزشی",ASO Sport FHD
+http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667733&extension=ts
