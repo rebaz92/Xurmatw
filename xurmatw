@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="PARWARDA SLEMANI",PARWARDA SLEMANI
+https://parwarda.unitedmixmedia.tv/Parwarda/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="PA:HAWLER",PA:HAWLER
+https://parwarda.unitedmixmedia.tv/Parwardayi_Hawler/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="PA:DUHOK",PA:DUHOK
+https://parwarda.unitedmixmedia.tv/Parwardayi_Duhok/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="PA:ZHIYAR TV",PA:ZHIYAR TV
+http://sknetnet.com:80/lmadazzabi/vdi3lzfm8t/1528021
