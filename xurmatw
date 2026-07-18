@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="PARWARDA SLEMANI",PARWARDA SLEMANI
+#EXTINF:-1 group-title="کوردستان" tvg-name="PARWARDA SLEMANI",PARWARDA SLEMANI
 https://parwarda.unitedmixmedia.tv/Parwarda/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="PA:HAWLER",PA:HAWLER
+#EXTINF:-1 group-title="کوردستان" tvg-name="PA:HAWLER",PA:HAWLER
 https://parwarda.unitedmixmedia.tv/Parwardayi_Hawler/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="PA:DUHOK",PA:DUHOK
