@@ -1,13 +1,3 @@
 #EXTM3U
 #EXTINF:-1 group-title="کەناڵەکانی ڕێباز" tvg-name="Alwan sport 1 4K",Alwan sport 1 4K
-http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/310487.m3u8 
-
-
-#EXTINF:-1 group-title="کوردستان" tvg-name="PA:HAWLER",PA:HAWLER
-https://parwarda.unitedmixmedia.tv/Parwardayi_Hawler/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="PA:DUHOK",PA:DUHOK
-https://parwarda.unitedmixmedia.tv/Parwardayi_Duhok/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="PA:ZHIYAR TV",PA:ZHIYAR TV
-http://sknetnet.com:80/lmadazzabi/vdi3lzfm8t/1528021
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/310487.m3u8
