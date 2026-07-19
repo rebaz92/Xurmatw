@@ -126,7 +126,7 @@ http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=166768
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667685&extension=ts
 
 #EXTINF:-1 group-title="  خێزان",Soran Entertainment HD
-http://avrstream.com:1935/live/SoranEntertainment/tracks-v1a1/mono.m3u8
+http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
 
 
 #EXTINF:-1 group-title="  منداڵان",
