@@ -73,6 +73,7 @@ http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=166773
 #EXTINF:-1 group-title="  کوردی وەرزشی",ASO Sport FHD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667733&extension=ts
 
+#EXTINF:-1 group-title="  کوردی هەواڵ",
 #EXTINF:-1 group-title="  کوردی هەواڵ",Rudaw HD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1666437&extension=ts
 
@@ -111,22 +112,35 @@ http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=166645
 
 
 #EXTINF:-1 group-title="  خێزان",
+#EXTINF:-1 group-title="  خێزان",Amozhgary HD
+http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1666452&extension=ts
+
+#EXTINF:-1 group-title="  خێزان",ZED HD
+http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667684&extension=ts
+
+#EXTINF:-1 group-title="  خێزان",ZED+ HD
+http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667685&extension=ts
 
 
 #EXTINF:-1 group-title="  منداڵان",
+#EXTINF:-1 group-title="  منداڵان",Afarin HD
+http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667741&extension=ts
+
+#EXTINF:-1 group-title="  منداڵان",Afarin Baxcha HD
+http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667742&extension=ts
+
+#EXTINF:-1 group-title="  منداڵان",NRT 3 Kids
+http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1666459&extension=ts
+
+#EXTINF:-1 group-title="  منداڵان",Astera Baby HD
+http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667743&extension=ts
 
 
-#EXTINF:-1 group-title="  ",
+#EXTINF:-1 group-title="  منداڵان",NIGA Kids HD
+http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=638709&extension=ts
 
-
-#EXTINF:-1 group-title="  ",
-
-
-#EXTINF:-1 group-title="  ",
-
-
-#EXTINF:-1 group-title="  ",
-
+#EXTINF:-1 group-title="  منداڵان",Kurdmax Pepule HD
+http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=638746&extension=ts
 
 #EXTINF:-1 group-title="  ",
 
