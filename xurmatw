@@ -45,7 +45,7 @@ https://es.egys.gs/live/abdoyasser112/01032783778/557202.m3u8
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667734&extension=ts
 
 #EXTINF:-1 group-title="  کوردی وەرزشی",NRT Sport FHD
-https://live20.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8
+https://shorter.me/BkaaT
 
 #EXTINF:-1 group-title="  کوردی وەرزشی",Astera Sport FHD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=638714&extension=ts
@@ -115,6 +115,9 @@ http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=166645
 #EXTINF:-1 group-title="  خێزان",Amozhgary HD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1666452&extension=ts
 
+#EXTINF:-1 group-title="  خێزان",Amozhgary Academy HD
+https://app-live.org/live/a267c1b3/index.m3u8
+
 #EXTINF:-1 group-title="  خێزان",ZED HD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667684&extension=ts
 
@@ -135,6 +138,8 @@ http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=166645
 #EXTINF:-1 group-title="  منداڵان",Astera Baby HD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667743&extension=ts
 
+#EXTINF:-1 group-title="  منداڵان",Newline Kids HD
+https://shorter.me/zdxRN
 
 #EXTINF:-1 group-title="  منداڵان",NIGA Kids HD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=638709&extension=ts
