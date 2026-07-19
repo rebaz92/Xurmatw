@@ -50,6 +50,26 @@ https://live20.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8
 #EXTINF:-1 group-title="  کوردی وەرزشی",Astera Sport FHD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=638714&extension=ts
 
+
+#EXTINF:-1 group-title="  کوردی وەرزشی",RENG Sport FHD
+http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667739&extension=ts
+
+#EXTINF:-1 group-title="  کوردی وەرزشی",
+
+
+#EXTINF:-1 group-title="  کوردی وەرزشی",
+
+
+#EXTINF:-1 group-title="  کوردی وەرزشی",
+
+
+#EXTINF:-1 group-title="  کوردی وەرزشی",
+
+
+#EXTINF:-1 group-title="  کوردی وەرزشی",
+
+
+
 #EXTINF:-1 group-title="  کوردی وەرزشی",ASO Sport FHD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667733&extension=ts
 
