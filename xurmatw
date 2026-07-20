@@ -210,7 +210,7 @@ https://app-live.org/live/a267c1b3/index.m3u8
 #EXTINF:-1 tvg-name=" ZED HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lPW9ZzBYGMmaMGPE_z_OdQ1FRcjue8whEZM6V15zgEc_w=s900-c-k-c0x00ffffff-no-rj" group-title="  خێزان", ZED HD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667684&extension=ts
 
- #EXTINF:-1 tvg-name=" ZED+ HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH-dcPQNQWfvaqYKj0uGgWDQqkmle_2wjYkgPYGivqzcRuMQ2O1yf3hZTG&s=10" group-title="  خێران", ZED+ HD
+ #EXTINF:-1 tvg-name=" ZED+ HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH-dcPQNQWfvaqYKj0uGgWDQqkmle_2wjYkgPYGivqzcRuMQ2O1yf3hZTG&s=10" group-title="  خێزان", ZED+ HD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667685&extension=ts
 
 #EXTINF:-1 tvg-name=" Soran Entertainment HD" tvg-logo="https://yt3.googleusercontent.com/fnlOclpn4TPCxmCTF6NryvufnHBa6nuweGFDUoYRXf1byorWRb9ZcAJI0DNNCfY8d_t-phm1=s900-c-k-c0x00ffffff-no-rj" group-title="  خێزان", Soran Entertainment HD
