@@ -245,13 +245,13 @@ http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=638746
 #EXTINF:-1 group-title="  ",
 
 
-#EXTINF:-1 group-title="  دۆکۆمێنتاری",RENG DOCUMENTARY HD
+#EXTINF:-1 tvg-name=" RENG DOCUMENTARY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf4N5nHf3k4uyPQ2kQBqzEgIu8yrQKJjv_vtU3wotJLpZLiDDJv_sQZmZb&s=10" group-title="  دۆکۆمێنتاری", RENG DOCUMENTARY HD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667718&extension=ts
 
 #EXTINF:-1 tvg-name=" BMC  FHD" tvg-logo="https://yt3.googleusercontent.com/IBmzStVLJi0PfpNeUqiMmOGShYjHlBp1otUgUzKEIL_0xMohFPCWPoTmdjAtgYwxGcIK0X1GH54=s900-c-k-c0x00ffffff-no-rj" group-title="  خێزان", BMC  FHD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667692&extension=ts
 
-#EXTINF:-1 group-title="  دۆکۆمێنتاری",ASTERA DOCUMENTARY HD
+#EXTINF:-1 tvg-name=" ASTERA DOCUMENTARY HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/68aa0a88514501.5dd8302908e60.gif" group-title="  دۆکۆمێنتاری", ASTERA DOCUMENTARY HD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667716&extension=ts
 
 #EXTINF:-1 group-title="  ",
