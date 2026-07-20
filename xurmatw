@@ -203,11 +203,11 @@ http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=166644
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1666450&extension=ts
 
 
-#EXTINF:-1 group-title="  خێزان",
-#EXTINF:-1 group-title="  کوردی دینی",Amozhgary HD
+
+#EXTINF:-1 tvg-name=" Amozhgary FHD" tvg-logo="https://pbs.twimg.com/media/CjHShGCXEAAa0iu.png" group-title="  کوردی دینی", Amozhgary FHD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1666452&extension=ts
 
-#EXTINF:-1 group-title="  کوردی دینی",Amozhgary Academy HD
+#EXTINF:-1 tvg-name=" Amozhgary Academy FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWDr59gTIAVmNUyCFzvtxwb1x8Rw-_uDVuc_fFTOP51yHwxeWMfVLxA1g&s=10" group-title="  کوردی دینی", Amozhgary Academy FHD
 https://app-live.org/live/a267c1b3/index.m3u8
 
 #EXTINF:-1 tvg-name=" ZED HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lPW9ZzBYGMmaMGPE_z_OdQ1FRcjue8whEZM6V15zgEc_w=s900-c-k-c0x00ffffff-no-rj" group-title="  خێزان", ZED HD
