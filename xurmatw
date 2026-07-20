@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="  ڕێباز تیڤی" tvg-name="ڕێباز تیڤی"
-https://github.com/rebaz92/my-intro-video/raw/refs/heads/main/km_20260720_720p_30f_20260720_054549.mp4
+#EXTINF:-1 group-title="  ئەلوان سپۆرت" tvg-name="Alwan sport 1 4K",Alwan sport 1 4K
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/310487.m3u8
 
 #EXTINF:-1 group-title="  ئەلوان سپۆرت" tvg-name="Alwan sport 1 4K",Alwan sport 1 4K
 http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/310487.m3u8
