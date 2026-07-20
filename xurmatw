@@ -122,7 +122,7 @@ https://es.egys.gs/live/abdoyasser112/01032783778/530956.m3u8
 #EXTINF:-1 group-title="  بێن سپۆرت ماکس",Bein MAX 4 HD
 https://es.egys.gs/live/abdoyasser112/01032783778/238396.m3u8
 
-#EXTINF:-1 group-title="  کوردی وەرزشی",Ava Sport FHD
+#EXTINF:-1 tvg-name=" AVA Sport FHD" tvg-logo="https://yt3.googleusercontent.com/0pErwVKHOLL4A2SVdzpTcdC1H7-lE7-5-nqacA38xYF16A1_f247dXYkHS6EiQHkSYlVvA8C0Q=s900-c-k-c0x00ffffff-no-rj" group-title="  کوردی وەرزشی", AVA Sport FHD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667734&extension=ts
 
 #EXTINF:-1 group-title="  کوردی وەرزشی",NRT Sport HD
