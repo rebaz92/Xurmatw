@@ -210,8 +210,7 @@ https://app-live.org/live/a267c1b3/index.m3u8
 #EXTINF:-1 group-title="  خێزان",ZED HD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667684&extension=ts
 
-#EXTINF:-1 group-="  خێزان",ZED+ HD
-http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667685&extension=ts
+ 
 
 #EXTINF:-1 group-title="  خێزان",Soran Entertainment HD
 http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
