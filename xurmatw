@@ -64,6 +64,13 @@ http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/284582.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="  ئەلوان سپۆرت HD و SD ",Alwan Sport 1 HD
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181661.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="  ئەلوان سپۆرت HD و SD ",Alwan Sport 01 SD
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181662.ts
+
+
 
 #EXTINF:-1 tvg-id="beinsports1.qa" tvg-name=" BEIN SPORTS 1 4K" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="  بێن سپۆرت", BEIN SPORTS 1 4K
 http://vgr.tahpascal78.space:80/Mogangreece2026/T36YL44/203885
