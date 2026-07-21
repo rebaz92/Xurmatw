@@ -309,6 +309,9 @@ http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=166774
 #EXTINF:-1 group-title="  منداڵان",Newline Kids HD
 https://shorter.me/zdxRN
 
+#EXTINF:-1 group-title="  منداڵان",Kidco
+http://avrstream.com:1935/live/kidcohd/playlist.m3u8
+
 #EXTINF:-1 group-title="  منداڵان",NIGA Kids HD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=638709&extension=ts
 
