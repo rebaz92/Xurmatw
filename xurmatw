@@ -325,11 +325,38 @@ http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=166769
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667716&extension=ts
 
 
-#EXTINF:-1 tvg-name=" SOZ TV MOVIES" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kmqGjcJpxON7MLd_tdTLkfvMaGLHFWxRlGlk2HLMRxAA=s900-c-k-c0x00ffffff-no-rj" group-title="  کوردی فیلم", SOZ TV MOVIES
+#EXTINF:-1 tvg-name=" SOZ TV MOVIES" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kmqGjcJpxON7MLd_tdTLkfvMaGLHFWxRlGlk2HLMRxAA=s900-c-k-c0x00ffffff-no-rj" group-title="  فیلم", SOZ TV MOVIES
 https://live20.bozztv.com/giatv/giatv-sozetv/sozetv/chunks.m3u8
 
 #EXTINF:-1 tvg-name=" RED TV MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_Red_TV_Per%C3%BA.png" group-title="  کوردی فیلم", RED TV MOVIES
 http://avrstream.com:1935/live/REDTV/playlist.m3u8
 
-#EXTINF:-1 tvg-name=" STV MOVIES badini" tvg-logo="https://yt3.googleusercontent.com/jvGMiOVJe3v_DNGaYEgPDF5oVL8pp5fgYo7-ytLCbDTbDvWXq2xoxhKoenq8fZl-Dk46P5fr=s900-c-k-c0x00ffffff-no-rj" group-title="  کوردی فیلم",STV MOVIES badini
+#EXTINF:-1 tvg-name=" STV MOVIES badini" tvg-logo="https://yt3.googleusercontent.com/jvGMiOVJe3v_DNGaYEgPDF5oVL8pp5fgYo7-ytLCbDTbDvWXq2xoxhKoenq8fZl-Dk46P5fr=s900-c-k-c0x00ffffff-no-rj" group-title="  فیلم",STV MOVIES badini
 https://live20.bozztv.com/giatv/giatv-stv/stvone/chunks.m3u8
+
+#EXTINF:-1 tvg-name=" NEW MOVIES" tvg-logo="https://yt3.googleusercontent.com/CHIi-sI8zgtbLFPIXDb3dI-Qzc39OikXHVNLceuqM88sPLHP3eIxVuq5dpoIfxVYTk0W1N8UTA=s900-c-k-c0x00ffffff-no-rj" group-title="  فیلم",NEW MOVIES
+https://cdn.karwan.tv/bnar-movies/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
