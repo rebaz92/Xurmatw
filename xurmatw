@@ -300,6 +300,9 @@ http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=166774
 #EXTINF:-1 group-title="  منداڵان",NRT 3 Kids
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1666459&extension=ts
 
+#EXTINF:-1 group-title="  منداڵان",ONE Kids
+http://217.76.62.187/hls/kids.m3u8
+
 #EXTINF:-1 group-title="  منداڵان",Astera Baby HD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667743&extension=ts
 
