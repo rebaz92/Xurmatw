@@ -128,6 +128,9 @@ http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181668.ts
 
 
 
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name=" Bein Sports News 4K" tvg-logo="http://logo.ottcst.info/BEINSPORTSNEWSHD.png" group-title="BEIN SPORTS 4K", Bein Sports News 4K
+http://saghe.ottct.pro:80/FRATHADAD/IMJRXKXHDZ/1155467
+
 #EXTINF:-1 tvg-id="beinsports1.qa" tvg-name=" BEIN SPORTS 1 4K" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="BEIN SPORTS 4K", BEIN SPORTS 1 4K
 http://vgr.tahpascal78.space:80/Mogangreece2026/T36YL44/203885
 
