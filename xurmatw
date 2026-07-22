@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="REBAZ TV",Intro
-Https://github.com/rebaz92/Xurmatw/blob/main/km_20260720_720p_30f_20260720_054549-_2_.ts.m2ts
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9_028MqcGfbCjchoDk2zeueeGrGS7pO3itA&s" group-title="  بۆ ئارامی مێشک",بۆ ئارامی مێشک
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
