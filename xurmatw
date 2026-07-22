@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9_028MqcGfbCjchoDk2zeueeGrGS7pO3itA&s" group-title="  بۆ ئارامی مێشک",بۆ ئارامی مێشک
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
+
+
+
 #EXTINF:-1 tvg-name=" Solo Sport 1 4K" tvg-logo="https://solosports.b-cdn.net/wp-content/uploads/2018/06/solo_logo.png" group-title="SOLO SPORT 4K", Solo Sport 1 4K
 http://ornek.live:2082/malika.saleh/927319/145266
 
@@ -16,6 +19,8 @@ http://ornek.live:2082/malika.saleh/927319/145269
 
 #EXTINF:-1 tvg-name=" Solo Sport 5 4K" tvg-logo="https://solosports.b-cdn.net/wp-content/uploads/2018/06/solo_logo.png" group-title="SOLO SPORT 4K", Solo Sport 5 4K
 http://ornek.live:2082/malika.saleh/927319/145270
+
+
 
 
 #EXTINF:-1 tvg-name=" Alwan Sport 1 HD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="ALWAN SPORT HD", Alwan Sport 1 HD
@@ -80,6 +85,7 @@ http://eaglevnew.top/live/890608893636/957330157995/765985.ts
 
 
 
+
 #EXTINF:-1 tvg-name=" Alwan Sport 1 4K" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="ALWAN SPORT 4K یەدەگ", Alwan Sport 1 4K
 http://sansatplus.net:88/JXDZMUW9VA/DJNOI3ZKXN/852917
 
@@ -121,6 +127,7 @@ http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181668.ts
 
 
 
+
 #EXTINF:-1 tvg-id="beinsports1.qa" tvg-name=" BEIN SPORTS 1 4K" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="BEIN SPORTS 4K", BEIN SPORTS 1 4K
 http://vgr.tahpascal78.space:80/Mogangreece2026/T36YL44/203885
 
@@ -149,8 +156,14 @@ http://vgr.tahpascal78.space:80/Mogangreece2026/T36YL44/552077
 http://vgr.tahpascal78.space:80/Mogangreece2026/T36YL44/552078
 
 
+
+
 #EXTINF:-1 tvg-id="beinsports1.qa" tvg-name=" BEIN SPORTS 1 4K" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="BEIN SPORTS 4K یەدەگ", BEIN SPORTS 1 4K
 http://almajdtv.xyz:8080/SGxZVUgzUVVhT0JwdDZiSFRSM3Y1dnRLVXhzRXNOTVRvQkxYTE14ZDNLMD0
+
+
+
+
 
 #EXTINF:-1 group-title="BEIN MAX 4K",Bein MAX 1 4K
 https://es.egys.gs/live/abdoyasser112/01032783778/522860.m3u8
@@ -191,6 +204,7 @@ https://es.egys.gs/live/abdoyasser112/01032783778/238396.m3u8
 
 
 
+
 #EXTINF:-1 tvg-name=" AVA Sport FHD" tvg-logo="https://yt3.googleusercontent.com/0pErwVKHOLL4A2SVdzpTcdC1H7-lE7-5-nqacA38xYF16A1_f247dXYkHS6EiQHkSYlVvA8C0Q=s900-c-k-c0x00ffffff-no-rj" group-title="  کوردی وەرزشی", AVA Sport FHD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667734&extension=ts
 
@@ -200,23 +214,19 @@ http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDMWQxQy9WdWlucG5hbkVGYlVDaH
 #EXTINF:-1 tvg-name=" Astera Sport HD" tvg-logo="https://yt3.googleusercontent.com/yK8Z2HsvKjxgEc3mgieHhSJ2y0HbPpM-gjLN6HVxk2hlWrbJEbzhGitU_C44_43jUgBcjdES=s900-c-k-c0x00ffffff-no-rj" group-title="  کوردی وەرزشی", Astera Sport HD
 http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDNUh1WThyUTVTV1lzSUgvSXZoQnp6TT0
 
+#EXTINF:-1 tvg-name=" LD Sport HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSl8nHshPX09y2qUBPv6ikuK25rTFP2o3sgWWFwfcNK9T7y4TSTi3IvV4&s=10" group-title="  کوردی وەرزشی", LD Sport HD
+http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDOTAvaWsvWHViWGljVnpVbGpSVnVPTT0
+
+#EXTINF:-1 tvg-name=" LD Sport HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSl8nHshPX09y2qUBPv6ikuK25rTFP2o3sgWWFwfcNK9T7y4TSTi3IvV4&s=10" group-title="  کوردی وەرزشی", LD Sport HD
+http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDMysraURqUVNrY2VxemN4VjRWYUdQOD0
+
+
 #EXTINF:-1 tvg-name=" RENG Sport HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiaVOVhr9M-rAri229rONI5AgGUWEjozftqzaAdSGGu8p3eNg5f203wPhM&s=10" group-title="  کوردی وەرزشی", RENG Sport HD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667739&extension=ts
 
 #EXTINF:-1 tvg-name=" ASO Sport FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN4GXkPKlwvwHFEFqK24bgWFv3jlV4tea5qQ4Pm3Na2mPPrRw1ypvTR84D&s=10" group-title="  کوردی وەرزشی", ASO Sport FHD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667733&extension=ts
 
-
-#EXTINF:-1 group-title="  کوردی وەرزشی",
-
-
-#EXTINF:-1 group-title="  کوردی وەرزشی",
-
-
-#EXTINF:-1 group-title="  کوردی وەرزشی",
-
-
-#EXTINF:-1 group-title="  کوردی وەرزشی",
 
 
 
