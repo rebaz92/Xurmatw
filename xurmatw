@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="REBAZ TV",بەردەوام نوێکردنەوە
+https://docs.google.com/uc?export=download&id=17tW8WJHzTOv3GAqu5qYSeJVe2nG_8bR5
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9_028MqcGfbCjchoDk2zeueeGrGS7pO3itA&s" group-title="  بۆ ئارامی مێشک",بۆ ئارامی مێشک
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
