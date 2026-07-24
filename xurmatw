@@ -363,40 +363,40 @@ http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDODVWMDg0TzYya0VVUGc5QUtGWU
 #EXTINF:-1 group-title="  کوردی هەواڵ",
 
 #EXTINF:-1 tvg-id="" tvg-name="Rudaw HD" tvg-logo="https://photos.smugmug.com/Rudaw-logo/i-7WVWZvk/0/KpP92MzbzGV2SX3ftc2J6RdbjN27V7GGc6hhgG2FZ/L/unnamed-L.png" group-title="  کوردی هەواڵ",Rudaw HD
-http://forevertv.me:8080/F9nYwbIukJU5Zw/A6XjAFurDBu3c2/432963
+http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDNzFETjdhQlNQN0tiSVlSMlFGK1JzUT0
 
-#EXTINF:-1 group-title="  کوردی هەواڵ",AVA HD
+#EXTINF:-1 tvg-id="" tvg-name="AVA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW8BL2ebhHADUaILRfQnwMa0chSUZot349msgwavJ079ma64oSeWj4zP19&s=10" group-title="  کوردی هەواڵ",AVA HD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1666436&extension=ts
 
-#EXTINF:-1 group-title="  کوردی هەواڵ",NRT News HD
-http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1666440&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="NRT HD" tvg-logo="https://img.utdstc.com/icon/08f/407/08f407a57aca253802765a647fa7c951fa6db10639fab3004efc1050eef6f254:600" group-title="  کوردی هەواڵ",NRT HD
+http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDd09xclJDMmw3Mzh5QjlLSDBad1ZWWT0
 
-#EXTINF:-1 group-title="  کوردی هەواڵ",K24 HD
-http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1666438&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="K24 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB7aiDpMCXd41px75ZY2eAnUt48GjxfsRjW3kFjljZMgsOpCQLy8525xQK&s=10" group-title="  کوردی هەواڵ",K24 HD
+http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDNzhkaWQxdXk1RythdWhCYStacUtnZz0
 
-#EXTINF:-1 group-title="  کوردی هەواڵ",CHANNEL 8 HD
-http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1666439&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="Channel 8 HD" tvg-logo="https://play-lh.googleusercontent.com/L2ti94G0LEg0-46J8Q-HO28H0Pge0W5O1tuaKGj2qhcrHf7U230UsCKsKTChpYZvMIDhZ-1PPEN0D2tcfgo5RQ=w240-h480-rw" group-title="  کوردی هەواڵ",Channel 8 HD
+http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDMDhoOW9VbGVEZUc4cXZZV2VpWkRTQT0
 
-#EXTINF:-1 group-title="  کوردی هەواڵ",KurdSat news HD
-http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1666443&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="KurdSat News HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIM9eLMWd-SXcLnhYqBi5IKT3feFLCmdvQjUzP36i5Ic19tTNTYlyXYu3f&s=10" group-title="  کوردی هەواڵ",KurdSat News HD
+http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDd3ZNbzVabXhGVitDbDVmbjNFTzVkaz0
 
-#EXTINF:-1 group-title="  کوردی هەواڵ",KurdSat TV HD
-http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1666442&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="KurdSat HD" tvg-logo="https://yt3.googleusercontent.com/0B6TAjU4z0dQhMQBrbBDnDfX17391kCrQHlW3XPuotnbCX4UB9qf1yjDkmhEeO39gGpJRB4KlA=s900-c-k-c0x00ffffff-no-rj" group-title="  کوردی هەواڵ",KurdSat HD
+http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDNFIrRUNUYmhJMTZFNStTdEVtMkc1WT0
 
-#EXTINF:-1 group-title="  کوردی هەواڵ",Kurdistan TV HD
+#EXTINF:-1 tvg-id="" tvg-name="Kurdistan TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkShbT4htYPjbqjm56vDN0GHY9TaWmdKfTbOUb46swTTl7tpEVjsrpOG6u&s=10" group-title="  کوردی هەواڵ",Kurdistan TV HD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1666444&extension=ts
 
-#EXTINF:-1 group-title="  کوردی هەواڵ",G.Kurdistan HD
-http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1666445&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="Gali Kurdistan HD" tvg-logo="https://marsaddaily.com/images/gk.png" group-title="  کوردی هەواڵ",Gali Kurdistan HD
+http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDek5ZQjdDcHRha1F2UzNkVDJ0NXdEND0
 
-#EXTINF:-1 group-title="  کوردی هەواڵ",Kirkuk TV HD
+#EXTINF:-1 tvg-id="" tvg-name="Kirkuk HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSezjBsxH5H_hbDvQQmNtQIAHGZMyCuKd_mqw0XZJPQWw&s=10" group-title="  کوردی هەواڵ",Kirkuk HD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1666446&extension=ts
 
-#EXTINF:-1 group-title="  کوردی هەواڵ",PAYAM TV HD
-http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1666449&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="Payam HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzorO5obHvf3MFk_v3fBwO2_UtEWQpzaVh3lKf0bx0Gj0QmXXZYr7nRp8&s=10" group-title="  کوردی هەواڵ",Payam HD
+http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDOWwwQ2hmdTBJajFwVFh3S04wMmY5QT0
 
-#EXTINF:-1 group-title="  کوردی هەواڵ",Speda TV HD
-http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1666450&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="Speda HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Speda_TV_Logo.jpg" group-title="  کوردی هەواڵ",Speda HD
+http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDeVpBaFRMME41SVlBRWdqekd2eXVmdz0
 
 
 
