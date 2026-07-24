@@ -366,7 +366,7 @@ http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDODVWMDg0TzYya0VVUGc5QUtGWU
 http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDNzFETjdhQlNQN0tiSVlSMlFGK1JzUT0
 
 #EXTINF:-1 tvg-id="" tvg-name="AVA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW8BL2ebhHADUaILRfQnwMa0chSUZot349msgwavJ079ma64oSeWj4zP19&s=10" group-title="  کوردی هەواڵ",AVA HD
-http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1666436&extension=ts
+http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NRT HD" tvg-logo="https://img.utdstc.com/icon/08f/407/08f407a57aca253802765a647fa7c951fa6db10639fab3004efc1050eef6f254:600" group-title="  کوردی هەواڵ",NRT HD
 http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDd09xclJDMmw3Mzh5QjlLSDBad1ZWWT0
@@ -390,7 +390,7 @@ http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=166644
 http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDek5ZQjdDcHRha1F2UzNkVDJ0NXdEND0
 
 #EXTINF:-1 tvg-id="" tvg-name="Kirkuk HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSezjBsxH5H_hbDvQQmNtQIAHGZMyCuKd_mqw0XZJPQWw&s=10" group-title="  کوردی هەواڵ",Kirkuk HD
-http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1666446&extension=ts
+https://live.kirkuklive.live/hls/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Payam HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzorO5obHvf3MFk_v3fBwO2_UtEWQpzaVh3lKf0bx0Gj0QmXXZYr7nRp8&s=10" group-title="  کوردی هەواڵ",Payam HD
 http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDOWwwQ2hmdTBJajFwVFh3S04wMmY5QT0
