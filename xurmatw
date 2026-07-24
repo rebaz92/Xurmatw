@@ -384,7 +384,7 @@ http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDd3ZNbzVabXhGVitDbDVmbjNFTz
 http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDNFIrRUNUYmhJMTZFNStTdEVtMkc1WT0
 
 #EXTINF:-1 tvg-id="" tvg-name="Kurdistan TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkShbT4htYPjbqjm56vDN0GHY9TaWmdKfTbOUb46swTTl7tpEVjsrpOG6u&s=10" group-title="  کوردی هەواڵ",Kurdistan TV HD
-http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1666444&extension=ts
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Gali Kurdistan HD" tvg-logo="https://marsaddaily.com/images/gk.png" group-title="  کوردی هەواڵ",Gali Kurdistan HD
 http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDek5ZQjdDcHRha1F2UzNkVDJ0NXdEND0
@@ -401,7 +401,7 @@ http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDeVpBaFRMME41SVlBRWdqekd2eX
 
 
 #EXTINF:-1 tvg-name=" Amozhgary FHD" tvg-logo="https://pbs.twimg.com/media/CjHShGCXEAAa0iu.png" group-title="  کوردی دینی", Amozhgary FHD
-http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1666452&extension=ts
+https://app-live.org/live/3268334b/index.m3u8
 
 #EXTINF:-1 tvg-name=" Amozhgary Academy FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWDr59gTIAVmNUyCFzvtxwb1x8Rw-_uDVuc_fFTOP51yHwxeWMfVLxA1g&s=10" group-title="  کوردی دینی", Amozhgary Academy FHD
 https://app-live.org/live/a267c1b3/index.m3u8
