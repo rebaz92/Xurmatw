@@ -1165,73 +1165,73 @@ http://forevertv.me:8080/F9nYwbIukJU5Zw/A6XjAFurDBu3c2/186857
 
 
 
-#EXTINF:-1 tvg-name=" Amozhgary FHD" tvg-logo="https://pbs.twimg.com/media/CjHShGCXEAAa0iu.png" group-title="  کوردی دینی", Amozhgary FHD
+#EXTINF:-1 tvg-name=" Amozhgary FHD" tvg-logo="https://pbs.twimg.com/media/CjHShGCXEAAa0iu.png" group-title="Kurdish", Amozhgary FHD
 https://app-live.org/live/3268334b/index.m3u8
 
-#EXTINF:-1 tvg-name=" Amozhgary Academy FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWDr59gTIAVmNUyCFzvtxwb1x8Rw-_uDVuc_fFTOP51yHwxeWMfVLxA1g&s=10" group-title="  کوردی دینی", Amozhgary Academy FHD
+#EXTINF:-1 tvg-name=" Amozhgary Academy FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWDr59gTIAVmNUyCFzvtxwb1x8Rw-_uDVuc_fFTOP51yHwxeWMfVLxA1g&s=10" group-title="Kurdish", Amozhgary Academy FHD
 https://app-live.org/live/a267c1b3/index.m3u8
 
-#EXTINF:-1 tvg-name=" ZED HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lPW9ZzBYGMmaMGPE_z_OdQ1FRcjue8whEZM6V15zgEc_w=s900-c-k-c0x00ffffff-no-rj" group-title="  خێزان", ZED HD
+#EXTINF:-1 tvg-name=" ZED HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lPW9ZzBYGMmaMGPE_z_OdQ1FRcjue8whEZM6V15zgEc_w=s900-c-k-c0x00ffffff-no-rj" group-title="Kurdish", ZED HD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667684&extension=ts
 
-#EXTINF:-1 tvg-name=" ZED+ HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH-dcPQNQWfvaqYKj0uGgWDQqkmle_2wjYkgPYGivqzcRuMQ2O1yf3hZTG&s=10" group-title="  خێزان", ZED+ HD
+#EXTINF:-1 tvg-name=" ZED+ HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH-dcPQNQWfvaqYKj0uGgWDQqkmle_2wjYkgPYGivqzcRuMQ2O1yf3hZTG&s=10" group-title="Kurdish", ZED+ HD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667685&extension=ts
 
-#EXTINF:-1 tvg-name=" Soran Entertainment HD" tvg-logo="https://yt3.googleusercontent.com/fnlOclpn4TPCxmCTF6NryvufnHBa6nuweGFDUoYRXf1byorWRb9ZcAJI0DNNCfY8d_t-phm1=s900-c-k-c0x00ffffff-no-rj" group-title="  خێزان", Soran Entertainment HD
+#EXTINF:-1 tvg-name=" Soran Entertainment HD" tvg-logo="https://yt3.googleusercontent.com/fnlOclpn4TPCxmCTF6NryvufnHBa6nuweGFDUoYRXf1byorWRb9ZcAJI0DNNCfY8d_t-phm1=s900-c-k-c0x00ffffff-no-rj" group-title="Kurdish", Soran Entertainment HD
 http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
 
 
 #EXTINF:-1 group-title="  منداڵان",
-#EXTINF:-1 group-title="  منداڵان",Afarin HD
+#EXTINF:-1 group-title="Kids",Afarin HD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667741&extension=ts
 
-#EXTINF:-1 group-title="  منداڵان",Afarin Baxcha HD
+#EXTINF:-1 group-title="Kids",Afarin Baxcha HD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667742&extension=ts
 
-#EXTINF:-1 group-title="  منداڵان",NRT 3 Kids
+#EXTINF:-1 group-title="Kids",NRT 3 Kids
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1666459&extension=ts
 
-#EXTINF:-1 group-title="  منداڵان",ONE Kids
+#EXTINF:-1 group-title="Kids",ONE Kids
 http://217.76.62.187/hls/kids.m3u8
 
-#EXTINF:-1 group-title="  منداڵان",Astera Baby HD
+#EXTINF:-1 group-title="Kids",Astera Baby HD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667743&extension=ts
 
-#EXTINF:-1 group-title="  منداڵان",Newline Kids HD
+#EXTINF:-1 group-title="Kids",Newline Kids HD
 https://shorter.me/zdxRN
 
-#EXTINF:-1 group-title="  منداڵان",Kidco
+#EXTINF:-1 group-title="Kids",Kidco
 http://avrstream.com:1935/live/kidcohd/playlist.m3u8
 
-#EXTINF:-1 group-title="  منداڵان",NIGA Kids HD
+#EXTINF:-1 group-title="Kids",NIGA Kids HD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=638709&extension=ts
 
-#EXTINF:-1 group-title="  منداڵان",Kurdmax Pepule HD
+#EXTINF:-1 group-title="Kids",Kurdmax Pepule HD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=638746&extension=ts
 
 #EXTINF:-1 group-title="  ",
 
 
-#EXTINF:-1 tvg-name=" RENG DOCUMENTARY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf4N5nHf3k4uyPQ2kQBqzEgIu8yrQKJjv_vtU3wotJLpZLiDDJv_sQZmZb&s=10" group-title="  دۆکۆمێنتاری", RENG DOCUMENTARY HD
+#EXTINF:-1 tvg-name=" RENG DOCUMENTARY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf4N5nHf3k4uyPQ2kQBqzEgIu8yrQKJjv_vtU3wotJLpZLiDDJv_sQZmZb&s=10" group-title="DOCUMENTARY", RENG DOCUMENTARY HD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667718&extension=ts
 
-#EXTINF:-1 tvg-name=" BMC  FHD" tvg-logo="https://yt3.googleusercontent.com/IBmzStVLJi0PfpNeUqiMmOGShYjHlBp1otUgUzKEIL_0xMohFPCWPoTmdjAtgYwxGcIK0X1GH54=s900-c-k-c0x00ffffff-no-rj" group-title="  خێزان", BMC  FHD
+#EXTINF:-1 tvg-name=" BMC  FHD" tvg-logo="https://yt3.googleusercontent.com/IBmzStVLJi0PfpNeUqiMmOGShYjHlBp1otUgUzKEIL_0xMohFPCWPoTmdjAtgYwxGcIK0X1GH54=s900-c-k-c0x00ffffff-no-rj" group-title="Kurdish", BMC  FHD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667692&extension=ts
 
-#EXTINF:-1 tvg-name=" ASTERA DOCUMENTARY HD" tvg-logo="https://i.ytimg.com/vi/PEfm7fE6HjE/maxresdefault.jpg" group-title="  دۆکۆمێنتاری", ASTERA DOCUMENTARY HD
+#EXTINF:-1 tvg-name=" ASTERA DOCUMENTARY HD" tvg-logo="https://i.ytimg.com/vi/PEfm7fE6HjE/maxresdefault.jpg" group-title="DOCUMENTARY", ASTERA DOCUMENTARY HD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667716&extension=ts
 
 
-#EXTINF:-1 tvg-name=" SOZ TV MOVIES" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kmqGjcJpxON7MLd_tdTLkfvMaGLHFWxRlGlk2HLMRxAA=s900-c-k-c0x00ffffff-no-rj" group-title="  فیلم", SOZ TV MOVIES
+#EXTINF:-1 tvg-name=" SOZ TV MOVIES" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kmqGjcJpxON7MLd_tdTLkfvMaGLHFWxRlGlk2HLMRxAA=s900-c-k-c0x00ffffff-no-rj" group-title="Movies", SOZ TV MOVIES
 https://live20.bozztv.com/giatv/giatv-sozetv/sozetv/chunks.m3u8
 
-#EXTINF:-1 tvg-name=" RED TV MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_Red_TV_Per%C3%BA.png" group-title="  فیلم", RED TV MOVIES
+#EXTINF:-1 tvg-name=" RED TV MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_Red_TV_Per%C3%BA.png" group-title="Movies", RED TV MOVIES
 http://avrstream.com:1935/live/REDTV/playlist.m3u8
 
-#EXTINF:-1 tvg-name=" STV MOVIES badini" tvg-logo="https://yt3.googleusercontent.com/jvGMiOVJe3v_DNGaYEgPDF5oVL8pp5fgYo7-ytLCbDTbDvWXq2xoxhKoenq8fZl-Dk46P5fr=s900-c-k-c0x00ffffff-no-rj" group-title="  فیلم",STV MOVIES badini
+#EXTINF:-1 tvg-name=" STV MOVIES badini" tvg-logo="https://yt3.googleusercontent.com/jvGMiOVJe3v_DNGaYEgPDF5oVL8pp5fgYo7-ytLCbDTbDvWXq2xoxhKoenq8fZl-Dk46P5fr=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",STV MOVIES badini
 https://live20.bozztv.com/giatv/giatv-stv/stvone/chunks.m3u8
 
-#EXTINF:-1 tvg-name=" NEW MOVIES" tvg-logo="https://yt3.googleusercontent.com/CHIi-sI8zgtbLFPIXDb3dI-Qzc39OikXHVNLceuqM88sPLHP3eIxVuq5dpoIfxVYTk0W1N8UTA=s900-c-k-c0x00ffffff-no-rj" group-title="  فیلم",NEW MOVIES
+#EXTINF:-1 tvg-name=" NEW MOVIES" tvg-logo="https://yt3.googleusercontent.com/CHIi-sI8zgtbLFPIXDb3dI-Qzc39OikXHVNLceuqM88sPLHP3eIxVuq5dpoIfxVYTk0W1N8UTA=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",NEW MOVIES
 https://cdn.karwan.tv/bnar-movies/index.m3u8
 
 
