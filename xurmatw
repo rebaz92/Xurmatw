@@ -2,6 +2,8 @@
 #EXTINF:-1 tvg-id="" tvg-name="نوێکردنەوەی بەردەوام" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9_028MqcGfbCjchoDk2zeueeGrGS7pO3itA&s" group-title="REBAZ TV",نوێکردنەوەی بەردەوام
 https://files.catbox.moe/rafz6l.mp4
 
+#EXTINF:-1 group-title="بۆ ئارامی مێشک و جوانی شاشە", شارۆچکەکانی ئەوروپا
+http://vod.supremetv.live/play/live.php?mac=00:1A:79:86:A4:5E&stream=1505566&extension=ts
 
 
 
