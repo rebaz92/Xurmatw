@@ -1,9 +1,67 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="نوێکردنەوەی بەردەوام" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9_028MqcGfbCjchoDk2zeueeGrGS7pO3itA&s" group-title="REBAZ TV",نوێکردنەوەی بەردەوام
-https://files.catbox.moe/rafz6l.mp4
-
 #EXTINF:-1 group-title="بۆ ئارامی مێشک و جوانی شاشە", شارۆچکەکانی ئەوروپا
 http://vod.supremetv.live/play/live.php?mac=00:1A:79:86:A4:5E&stream=1505566&extension=ts
+
+#EXTINF:-1 group-title="بۆ ئارامی مێشک و جوانی شاشە",تورکیا
+http://vod.supremetv.live/play/live.php?mac=00:1A:79:86:A4:5E&stream=1505563&extension=ts
+
+#EXTINF:-1 group-title="بۆ ئارامی مێشک و جوانی شاشە",ئایسلەندا
+http://vod.supremetv.live/play/live.php?mac=00:1A:79:86:A4:5E&stream=1505558&extension=ts
+
+#EXTINF:-1 group-title="بۆ ئارامی مێشک و جوانی شاشە",مەغرب
+http://vod.supremetv.live/play/live.php?mac=00:1A:79:86:A4:5E&stream=1505557&extension=ts
+
+#EXTINF:-1 group-title="بۆ ئارامی مێشک و جوانی شاشە",دەریا
+http://vod.supremetv.live/play/live.php?mac=00:1A:79:86:A4:5E&stream=1505575&extension=ts
+
+#EXTINF:-1 group-title="بۆ ئارامی مێشک و جوانی شاشە",بەفر و زستان
+http://vod.supremetv.live/play/live.php?mac=00:1A:79:86:A4:5E&stream=1505573&extension=ts
+
+#EXTINF:-1 group-title="بۆ ئارامی مێشک و جوانی شاشە",داستان
+http://vod.supremetv.live/play/live.php?mac=00:1A:79:86:A4:5E&stream=1505572&extension=ts
+
+#EXTINF:-1 group-title="بۆ ئارامی مێشک و جوانی شاشە",داستانەکانی ئەمریکا
+http://vod.supremetv.live/play/live.php?mac=00:1A:79:86:A4:5E&stream=1505565&extension=ts
+
+#EXTINF:-1 group-title="بۆ ئارامی مێشک و جوانی شاشە",گوڵ
+http://vod.supremetv.live/play/live.php?mac=00:1A:79:86:A4:5E&stream=1505571&extension=ts
+
+#EXTINF:-1 group-title="بۆ ئارامی مێشک و جوانی شاشە",سروشتی زەوی
+http://vod.supremetv.live/play/live.php?mac=00:1A:79:86:A4:5E&stream=1505570&extension=ts
+
+#EXTINF:-1 group-title="بۆ ئارامی مێشک و جوانی شاشە",پشودانی سروشتی
+http://vod.supremetv.live/play/live.php?mac=00:1A:79:86:A4:5E&stream=1505569&extension=ts
+
+#EXTINF:-1 group-title="بۆ ئارامی مێشک و جوانی شاشە",بەیانیانی ئارام
+http://vod.supremetv.live/play/live.php?mac=00:1A:79:86:A4:5E&stream=1505568&extension=ts
+
+#EXTINF:-1 group-title="بۆ ئارامی مێشک و جوانی شاشە",ڤێتنام
+http://vod.supremetv.live/play/live.php?mac=00:1A:79:86:A4:5E&stream=1505564&extension=ts
+
+#EXTINF:-1 group-title="بۆ ئارامی مێشک و جوانی شاشە",سوسرا
+http://vod.supremetv.live/play/live.php?mac=00:1A:79:86:A4:5E&stream=1505562&extension=ts
+
+
+#EXTINF:-1 group-title="بۆ ئارامی مێشک و جوانی شاشە",ئیتالیا
+http://vod.supremetv.live/play/live.php?mac=00:1A:79:86:A4:5E&stream=1505561&extension=ts
+
+#EXTINF:-1 group-title="بۆ ئارامی مێشک و جوانی شاشە",ئوسترالیا
+http://vod.supremetv.live/play/live.php?mac=00:1A:79:86:A4:5E&stream=1505560&extension=ts
+
+#EXTINF:-1 group-title="بۆ ئارامی مێشک و جوانی شاشە",نەرویج
+http://vod.supremetv.live/play/live.php?mac=00:1A:79:86:A4:5E&stream=1505559&extension=ts
+
+#EXTINF:-1 group-title="بۆ ئارامی مێشک و جوانی شاشە",
+
+
+#EXTINF:-1 group-title="بۆ ئارامی مێشک و جوانی شاشە",
+
+
+#EXTINF:-1 group-title="بۆ ئارامی مێشک و جوانی شاشە",
+
+
+#EXTINF:-1 group-title="بۆ ئارامی مێشک و جوانی شاشە",
+
 
 
 
