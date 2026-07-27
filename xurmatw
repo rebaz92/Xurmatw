@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 group-title="XURMATW TV",XURMATW TV
+javascript:void(0)
+
+
 #EXTINF:-1 group-title="Bo Arami Meshk", شارۆچکەکانی ئەوروپا
 http://vod.supremetv.live/play/live.php?mac=00:1A:79:86:A4:5E&stream=1505566&extension=ts
 
