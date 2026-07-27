@@ -1075,8 +1075,33 @@ http://forevertv.me:8080/F9nYwbIukJU5Zw/A6XjAFurDBu3c2/433367
 
 
 
-#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports UHD 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN4.png" group-title="beIN Sports UHD 4K ⚽",beIN Sports UHD 4K
+
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports UHD" tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN4.png" group-title="beIN Sports VIP ⚽",beIN Sports UHD 4K
 http://96235-sand.tx-4kott.com:80/live/2493f21902/6b9f460f66/2034168.m3u8
+
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports News 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1411398.png" group-title="beIN Sports VIP ⚽",beIN Sports News 4K
+http://96235-sand.tx-4kott.com:80/live/2493f21902/6b9f460f66/1411398.m3u8
+
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports Free 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1411397.png" group-title="beIN Sports VIP ⚽",beIN Sports Free 4K
+http://96235-sand.tx-4kott.com:80/live/2493f21902/6b9f460f66/1411397.m3u8
+
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 1 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1411383.png" group-title="beIN Sports VIP ⚽",beIN Sports 1 4K
+http://96235-sand.tx-4kott.com:80/live/2493f21902/6b9f460f66/1411383.m3u8
+
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 2 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1411382.png" group-title="beIN Sports VIP ⚽",beIN Sports 2 4K
+http://96235-sand.tx-4kott.com:80/live/2493f21902/6b9f460f66/1411382.m3u8
+
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 3 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1411381.png" group-title="beIN Sports VIP ⚽",beIN Sports 3 4K
+http://96235-sand.tx-4kott.com:80/live/2493f21902/6b9f460f66/1411381.m3u8
+
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 4 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1411380.png" group-title="beIN Sports VIP ⚽",beIN Sports 4 4K
+http://96235-sand.tx-4kott.com:80/live/2493f21902/6b9f460f66/1411380.m3u8
+
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 5 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1411379.png" group-title="beIN Sports VIP ⚽",beIN Sports 5 4K
+http://96235-sand.tx-4kott.com:80/live/2493f21902/6b9f460f66/1411379.m3u8
+
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 6 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1411378.png" group-title="beIN Sports VIP ⚽",beIN Sports 6 4K
+http://96235-sand.tx-4kott.com:80/live/2493f21902/6b9f460f66/1411378.m3u8
 
 
 
