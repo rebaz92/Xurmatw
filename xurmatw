@@ -1,9 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="XURMATW TV" tvg-logo="https://l.arzfun.com/VTp2V",XURMATW TV
+#EXTINF:-1 group-title="Bo Arami Meshk" tvg-logo="https://l.arzfun.com/VTp2V",خورماتوو
 https://dl.apexgram.ir/77183/video-2026-07-27_17-30-38.mp4?hash=cb61dc
 
-
-#EXTINF:-1 group-title="Bo Arami Meshk", شارۆچکەکانی ئەوروپا
+#EXTINF:-1 group-title="Bo Arami Meshk",شارۆچکەکانی ئەوروپا
 http://vod.supremetv.live/play/live.php?mac=00:1A:79:86:A4:5E&stream=1505566&extension=ts
 
 #EXTINF:-1 group-title="Bo Arami Meshk",تورکیا
@@ -42,7 +41,7 @@ http://vod.supremetv.live/play/live.php?mac=00:1A:79:86:A4:5E&stream=1505568&ext
 #EXTINF:-1 group-title="Bo Arami Meshk",ڤێتنام
 http://vod.supremetv.live/play/live.php?mac=00:1A:79:86:A4:5E&stream=1505564&extension=ts
 
-#EXTINF:-1 group-title="Bo Arami Meshk",سوسرا
+#EXTINF:-1 group-title="Bo Arami Meshk",سویسرا
 http://vod.supremetv.live/play/live.php?mac=00:1A:79:86:A4:5E&stream=1505562&extension=ts
 
 #EXTINF:-1 group-title="Bo Arami Meshk",ئیتالیا
