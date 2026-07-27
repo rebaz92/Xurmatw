@@ -1070,7 +1070,8 @@ http://forevertv.me:8080/F9nYwbIukJU5Zw/A6XjAFurDBu3c2/433366
 http://forevertv.me:8080/F9nYwbIukJU5Zw/A6XjAFurDBu3c2/433367
 
 
-
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports UHD 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN4.png" group-title="beIN Sports UHD 4K ⚽",beIN Sports UHD 4K
+http://96235-sand.tx-4kott.com:80/live/2493f21902/6b9f460f66/2034168.m3u8
 #EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports News 4K" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.NEWS.png" group-title="beIN Sports 4K ⚽",beIN Sports News 4K
 http://forevertv.me:8080/F9nYwbIukJU5Zw/A6XjAFurDBu3c2/142770
 #EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="beIN SPORTS 1 4K" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS1.png" group-title="beIN Sports 4K ⚽",beIN SPORTS 1 4K
