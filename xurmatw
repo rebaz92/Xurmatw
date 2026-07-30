@@ -67,38 +67,39 @@ http://vod.supremetv.live/play/live.php?mac=00:1A:79:86:A4:5E&stream=1505559&ext
 
 #EXTINF:-1 tvg-id="" tvg-name="Rudaw HD" tvg-logo="https://photos.smugmug.com/Rudaw-logo/i-7WVWZvk/0/KpP92MzbzGV2SX3ftc2J6RdbjN27V7GGc6hhgG2FZ/L/unnamed-L.png" group-title="Kurdi Hawal",Rudaw HD
 https://live.rudaw.net/hls/rudaw-tv/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="AVA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW8BL2ebhHADUaILRfQnwMa0chSUZot349msgwavJ079ma64oSeWj4zP19&s=10" group-title="Kurdi Hawal",AVA HD
 http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NRT HD" tvg-logo="https://img.utdstc.com/icon/08f/407/08f407a57aca253802765a647fa7c951fa6db10639fab3004efc1050eef6f254:600" group-title="Kurdi Hawal",NRT HD
-http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDd09xclJDMmw3Mzh5QjlLSDBad1ZWWT0
+https://live20.bozztv.com/giatv/giatv-nrt/nrt/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="K24 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB7aiDpMCXd41px75ZY2eAnUt48GjxfsRjW3kFjljZMgsOpCQLy8525xQK&s=10" group-title="Kurdi Hawal",K24 HD
-http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDNzhkaWQxdXk1RythdWhCYStacUtnZz0
+https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Channel 8 HD" tvg-logo="https://play-lh.googleusercontent.com/L2ti94G0LEg0-46J8Q-HO28H0Pge0W5O1tuaKGj2qhcrHf7U230UsCKsKTChpYZvMIDhZ-1PPEN0D2tcfgo5RQ=w240-h480-rw" group-title="Kurdi Hawal",Channel 8 HD
-http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDMDhoOW9VbGVEZUc4cXZZV2VpWkRTQT0
+https://live.channel8.com/Channel8-Kurdish/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="KurdSat News HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIM9eLMWd-SXcLnhYqBi5IKT3feFLCmdvQjUzP36i5Ic19tTNTYlyXYu3f&s=10" group-title="Kurdi Hawal",KurdSat News HD
-http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDd3ZNbzVabXhGVitDbDVmbjNFTzVkaz0
+https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="KurdSat HD" tvg-logo="https://yt3.googleusercontent.com/0B6TAjU4z0dQhMQBrbBDnDfX17391kCrQHlW3XPuotnbCX4UB9qf1yjDkmhEeO39gGpJRB4KlA=s900-c-k-c0x00ffffff-no-rj" group-title="Kurdi Hawal",KurdSat HD
-http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDNFIrRUNUYmhJMTZFNStTdEVtMkc1WT0
+https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD-avc1_2500000=10002.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Kurdistan TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkShbT4htYPjbqjm56vDN0GHY9TaWmdKfTbOUb46swTTl7tpEVjsrpOG6u&s=10" group-title="Kurdi Hawal",Kurdistan TV HD
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Gali Kurdistan HD" tvg-logo="https://marsaddaily.com/images/gk.png" group-title="Kurdi Hawal",Gali Kurdistan HD
-http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDek5ZQjdDcHRha1F2UzNkVDJ0NXdEND0
+https://live.host247.net/gk/gksat/chunklist_w615970821.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Kirkuk HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSezjBsxH5H_hbDvQQmNtQIAHGZMyCuKd_mqw0XZJPQWw&s=10" group-title="Kurdi Hawal",Kirkuk HD
 https://live.kirkuklive.live/hls/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Payam HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzorO5obHvf3MFk_v3fBwO2_UtEWQpzaVh3lKf0bx0Gj0QmXXZYr7nRp8&s=10" group-title="Kurdi Hawal",Payam HD
-http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDOWwwQ2hmdTBJajFwVFh3S04wMmY5QT0
+https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Speda HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Speda_TV_Logo.jpg" group-title="Kurdi Hawal",Speda HD
-http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDeVpBaFRMME41SVlBRWdqekd2eXVmdz0
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/324587.ts
 
 
 
