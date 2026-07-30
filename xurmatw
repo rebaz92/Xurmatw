@@ -66,8 +66,7 @@ http://vod.supremetv.live/play/live.php?mac=00:1A:79:86:A4:5E&stream=1505559&ext
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Rudaw HD" tvg-logo="https://photos.smugmug.com/Rudaw-logo/i-7WVWZvk/0/KpP92MzbzGV2SX3ftc2J6RdbjN27V7GGc6hhgG2FZ/L/unnamed-L.png" group-title="Kurdi Hawal",Rudaw HD
-http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDNzFETjdhQlNQN0tiSVlSMlFGK1JzUT0
-
+https://live.rudaw.net/hls/rudaw-tv/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AVA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW8BL2ebhHADUaILRfQnwMa0chSUZot349msgwavJ079ma64oSeWj4zP19&s=10" group-title="Kurdi Hawal",AVA HD
 http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
 
