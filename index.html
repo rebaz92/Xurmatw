@@ -1,0 +1,171 @@
+mini 3.6 Flash
+Ran for 20s
+lightbulb
+Thought for 20 seconds
+فەرموو، ئەمەش کۆدی تهواوی پڕۆژەی REBAZ TVیە لەناو یەک فایلی خاوێنی HTMLدا (سود لە Tailwind CSS CDN و HLS.js و Lucide Icons وەردەگرێت) کە دەتوانیت بە شێوەی سەربەخۆ لە هەر وێبگەڕێکدا بیکەیتەوە و ڕاستەوخۆ کار دەکات:
+code
+Html
+<!DOCTYPE html>
+<html lang="ckb" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>REBAZ TV - پەخشی ڕاستەوخۆ</title>
+  
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- HLS.js for Live Streaming -->
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+  
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@300;400;600;700;800;900&display=swap');
+    body {
+      font-family: 'Vazirmatn', sans-serif;
+    }
+  </style>
+</head>
+<body class="bg-stone-950 text-stone-100 min-h-screen">
+
+  <div class="max-w-4xl mx-auto p-3 sm:p-5 flex flex-col gap-4">
+    
+    <!-- Video Player Section -->
+    <div id="playerContainer" class="hidden flex-col gap-2">
+      <div class="relative w-full aspect-video bg-black rounded-3xl overflow-hidden border-2 border-amber-400/80 shadow-2xl">
+        <video id="videoPlayer" class="w-full h-full object-contain" controls autoplay playsinline></video>
+      </div>
+      <button onclick="closePlayer()" class="w-full py-3 px-4 rounded-2xl bg-[#091122] border border-stone-700/80 text-stone-100 hover:text-amber-400 hover:border-amber-500/60 font-bold text-sm transition-all flex items-center justify-center gap-2 cursor-pointer shadow-lg">
+        داخستنی پەخش
+      </button>
+    </div>
+
+    <!-- Hero Card Banner -->
+    <div class="relative overflow-hidden rounded-3xl border-2 border-amber-400/80 bg-[#070b14] p-5 shadow-2xl flex items-center justify-between">
+      <div class="flex items-center gap-4">
+        <div class="w-14 h-14 rounded-2xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center">
+          <i data-lucide="tv" class="w-8 h-8 text-amber-400"></i>
+        </div>
+        <div>
+          <h1 class="text-2xl font-black tracking-wider text-amber-400">REBAZ TV</h1>
+          <p class="text-xs text-stone-400">سەکۆی تەلەڤزیۆنی ڕاستەوخۆ</p>
+        </div>
+      </div>
+      <div class="bg-amber-500 text-stone-950 px-4 py-2 rounded-2xl font-black text-sm shadow-md">
+        کوردستان
+      </div>
+    </div>
+
+    <!-- Category Filter Buttons -->
+    <div class="flex items-center gap-2 overflow-x-auto pb-2 scrollbar-none" id="categoryFilters"></div>
+
+    <!-- Search Bar -->
+    <div class="relative">
+      <input type="text" id="searchInput" oninput="renderChannels()" placeholder="گەڕان بۆ کەناڵ..." class="w-full bg-[#0d1527] border border-stone-800 rounded-2xl py-3 pr-10 pl-4 text-xs text-stone-100 placeholder-stone-500 focus:outline-none focus:border-amber-500 transition-all">
+      <i data-lucide="search" class="w-4 h-4 text-stone-400 absolute right-3.5 top-3.5"></i>
+    </div>
+
+    <!-- Channel Cards Grid -->
+    <div id="channelGrid" class="grid grid-cols-1 sm:grid-cols-2 gap-3"></div>
+
+  </div>
+
+  <script>
+    const DEFAULT_CHANNELS = [
+      { id: '1', name: 'RUDAW TV', url: 'https://demo.unified-streaming.com/k8s/live/stable/out/v1/f1ab1af03e184126a1005a81e8992ef2/index.m3u8', group: 'هەواڵ', logo: 'https://rudaw.net/Content/images/rudaw-logo.png', resolution: '1080p HD' },
+      { id: '2', name: 'K24 TV', url: 'https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8', group: 'هەواڵ', logo: 'https://www.kurdistan24.net/Content/images/k24-logo.png', resolution: '1080p HD' },
+      { id: '3', name: 'BEIN SPORT NEWS', url: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4', group: 'وەرزش', logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BeIN_Sports_logo.svg/512px-BeIN_Sports_logo.svg.png', resolution: '1080p HD' },
+      { id: '4', name: 'BEIN SPORT 1', url: 'https://rbmn-live.akamaized.net/hls/live/591070/GEO_RBMN_PLAYOUT_01_RBMN/master.m3u8', group: 'وەرزش', logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BeIN_Sports_logo.svg/512px-BeIN_Sports_logo.svg.png', resolution: '4K Ultra HD' },
+      { id: '5', name: 'REBAZ CINEMA', url: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4', group: 'سەرگەرمی', logo: 'https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=200&auto=format&fit=crop&q=80', resolution: '1080p HD' },
+      { id: '6', name: 'ZAROK TV', url: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4', group: 'منداڵان', logo: 'https://images.unsplash.com/photo-1566492031773-4f4e44671857?w=200&auto=format&fit=crop&q=80', resolution: '720p HD' },
+      { id: '7', name: 'KURDISTAN QURAN', url: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4', group: 'ئاینی', logo: 'https://images.unsplash.com/photo-1585036156171-384164a8c675?w=200&auto=format&fit=crop&q=80', resolution: '1080p HD' }
+    ];
+
+    const CATEGORIES = ['All', 'وەرزش', 'هەواڵ', 'سەرگەرمی', 'منداڵان', 'ئاینی'];
+    let selectedCategory = 'All';
+    let currentHls = null;
+
+    function renderCategories() {
+      const container = document.getElementById('categoryFilters');
+      container.innerHTML = CATEGORIES.map(cat => `
+        <button onclick="setCategory('${cat}')" class="px-4 py-2 rounded-2xl text-xs font-bold transition-all whitespace-nowrap cursor-pointer ${selectedCategory === cat ? 'bg-amber-500 text-stone-950 shadow-md' : 'bg-[#0d1527] border border-stone-800 text-stone-400 hover:text-stone-200'}">
+          ${cat === 'All' ? 'هەموو' : cat}
+        </button>
+      `).join('');
+    }
+
+    function setCategory(cat) {
+      selectedCategory = cat;
+      renderCategories();
+      renderChannels();
+    }
+
+    function renderChannels() {
+      const query = document.getElementById('searchInput').value.toLowerCase();
+      const grid = document.getElementById('channelGrid');
+
+      const filtered = DEFAULT_CHANNELS.filter(ch => {
+        const matchesCat = selectedCategory === 'All' || ch.group === selectedCategory;
+        const matchesSearch = ch.name.toLowerCase().includes(query);
+        return matchesCat && matchesSearch;
+      });
+
+      grid.innerHTML = filtered.map(ch => `
+        <div onclick="playChannel('${ch.url}')" class="flex items-center justify-between p-3.5 rounded-2xl bg-[#091122] border border-stone-800/80 hover:border-amber-500/60 transition-all cursor-pointer shadow-md group">
+          <div class="flex items-center gap-3 min-w-0 flex-1">
+            <div class="w-10 h-10 rounded-xl bg-stone-900 border border-stone-800 overflow-hidden flex items-center justify-center shrink-0">
+              <img src="${ch.logo}" alt="${ch.name}" class="w-full h-full object-cover" onerror="this.style.display='none'">
+            </div>
+            <div class="min-w-0 flex-1">
+              <h3 class="font-extrabold text-sm sm:text-[15px] tracking-wide truncate text-stone-100 group-hover:text-amber-400 transition-colors">${ch.name}</h3>
+              <div class="flex items-center gap-2 mt-0.5">
+                <span class="text-[10px] px-2 py-0.5 rounded-md bg-stone-900 border border-stone-800 text-stone-400">${ch.group}</span>
+                <span class="text-[10px] px-2 py-0.5 rounded-md bg-stone-900 border border-stone-800 text-amber-300 font-mono">${ch.resolution}</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      `).join('');
+    }
+
+    function playChannel(url) {
+      const container = document.getElementById('playerContainer');
+      const video = document.getElementById('videoPlayer');
+      container.classList.remove('hidden');
+      container.classList.add('flex');
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+
+      if (currentHls) {
+        currentHls.destroy();
+      }
+
+      if (Hls.isSupported() && url.endsWith('.m3u8')) {
+        currentHls = new Hls();
+        currentHls.loadSource(url);
+        currentHls.attachMedia(video);
+        currentHls.on(Hls.Events.MANIFEST_PARSED, () => video.play());
+      } else {
+        video.src = url;
+        video.play();
+      }
+    }
+
+    function closePlayer() {
+      const container = document.getElementById('playerContainer');
+      const video = document.getElementById('videoPlayer');
+      video.pause();
+      if (currentHls) {
+        currentHls.destroy();
+        currentHls = null;
+      }
+      container.classList.add('hidden');
+      container.classList.remove('flex');
+    }
+
+    // Initialize
+    renderCategories();
+    renderChannels();
+    lucide.createIcons();
+  </script>
+</body>
+</html>
