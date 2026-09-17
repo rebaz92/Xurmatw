@@ -9,7 +9,7 @@ http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
 https://live20.bozztv.com/giatv/giatv-nrt/nrt/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="K24 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB7aiDpMCXd41px75ZY2eAnUt48GjxfsRjW3kFjljZMgsOpCQLy8525xQK&s=10" group-title="Kurdi Hawal",K24 HD
-https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
+https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Channel 8 HD" tvg-logo="https://play-lh.googleusercontent.com/L2ti94G0LEg0-46J8Q-HO28H0Pge0W5O1tuaKGj2qhcrHf7U230UsCKsKTChpYZvMIDhZ-1PPEN0D2tcfgo5RQ=w240-h480-rw" group-title="Kurdi Hawal",Channel 8 HD
 https://live.channel8.com/Channel8-Kurdish/index.m3u8
@@ -33,7 +33,7 @@ https://live.kirkuklive.live/hls/stream/index.m3u8
 https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Speda HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Speda_TV_Logo.jpg" group-title="Kurdi Hawal",Speda HD
-http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/324587.ts
+https://speda1.site/upload/images/spedahd.m3u8
 
 
 
