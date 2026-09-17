@@ -38,6 +38,100 @@ http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/324587.ts
 
 
 
+#EXTINF:-1 tvg-name="Ava Media" group-title="General",ku | Ava Media
+https://ava2.store/upload/ava.m3u8
+#EXTINF:-1 tvg-name="Shar TV" group-title="General",ku | Shar TV
+http://avrstream.com:1935/live/SHARTV/playlist.m3u8
+#EXTINF:-1 tvg-name="Avar TV" group-title="General",ku | Avar TV
+https://avr.host247.net/live/AvarTv/playlist.m3u8
+#EXTINF:-1 tvg-name="Kurdsat HD" group-title="General",ku | Kurdsat HD
+https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
+#EXTINF:-1 tvg-name="Welat TV" group-title="General",ku | Welat TV
+https://stream.badinan.xyz/welat/tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Bahra TV" group-title="General",ku | Bahra TV
+http://51.89.152.180:80/live/BahraHD/chunks.m3u8
+#EXTINF:-1 tvg-name="Bangawaz TV" group-title="General",ku | Bangawaz TV
+http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8
+#EXTINF:-1 tvg-name="Bask Plus+" group-title="General",ku | Bask Plus+
+http://baskhd2.ddns.net:1935/live/basktv/playlist.m3u8
+#EXTINF:-1 tvg-name="Bask HD" group-title="General",ku | Bask HD
+http://baskhd.ddns.net:40/live/baskhd/yusfstore.m3u8
+#EXTINF:-1 tvg-name="Eurokurd" group-title="General",ku | Eurokurd
+http://baskhd.ddns.net:40/live/Eurokurd/index.m3u8
+#EXTINF:-1 tvg-name="Halabja TV" group-title="General",ku | Halabja TV
+http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
+#EXTINF:-1 tvg-name="Garyan TV" group-title="General",ku | Garyan TV
+https://live20.bozztv.com/giatv/giatv-halabja88garyan/halabja88garyan/chunks.m3u8
+#EXTINF:-1 tvg-name="GK+ TV" group-title="General",ku | GK+ TV
+https://live.host247.net/gk/gkplus/playlist.m3u8
+#EXTINF:-1 tvg-name="iKurd" group-title="General",ku | iKurd
+https://lbgo.bozztv.com/ssh101/ssh101/kurd26/playlist.m3u8
+#EXTINF:-1 tvg-name="Peshang TV" group-title="General",ku | Peshang TV
+https://stream.forcaroo.com/stream/hls/desktop.m3u8
+#EXTINF:-1 tvg-name="Spi TV" group-title="General",ku | Spi TV
+https://183.bozztv.com/giatv/giatv-spitv_HD/spitv_HD/playlist.m3u8
+#EXTINF:-1 tvg-name="Red TV" group-title="General",ku | Red TV
+http://avrstream.com:1935/live/REDTV/playlist.m3u8
+#EXTINF:-1 tvg-name="Kurd7" group-title="General",ku | Kurd7
+http://avrstream.com:1935/live/Kurd7HD/playlist.m3u8
+#EXTINF:-1 tvg-name="Hormzyar TV" group-title="General",ku | Hormzyar TV
+http://avrstream.com:1935/live/HormzyarHD/playlist.m3u8
+#EXTINF:-1 tvg-name="Gewher TV" group-title="General",ku | Gewher TV
+https://cdn.karwan.tv/gewher-tv/embed.html
+#EXTINF:-1 tvg-name="Waar TV" group-title="General",ku | Waar TV
+https://live.kwikmotion.com/waarmedialive/waarmedia.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TRT Kurdi" group-title="General",ku | TRT Kurdi
+https://tv-trtkurdi.medya.trt.com.tr/master_1440.m3u8
+#EXTINF:-1 tvg-name="Family AVA TV" group-title="General",ku | Family AVA TV
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Kurdistan TV" group-title="General",ku | Kurdistan TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Khak TV" group-title="General",ku | Khak TV
+http://bblserver.ddns.net:1935/stream/khakhd/playlist.m3u8
+#EXTINF:-1 tvg-name="Payam TV" group-title="General",ku | Payam TV
+https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
+#EXTINF:-1 tvg-name="4 Kurd TV" group-title="General",ku | 4 Kurd TV
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Alternative Sharay TV" group-title="General",ku | Alternative Sharay TV
+https://hlspackager.akamaized.net/live/DB/ALTERNATIVE_SHORAI_TV/HLS/ALTERNATIVE_SHORAI_TV-avc1_1500000=10001.m3u8
+#EXTINF:-1 tvg-name="Can TV" group-title="General",ku | Can TV
+https://livetv.canbroadcast.com:7443/canlican/tv.m3u8
+#EXTINF:-1 tvg-name="Cira TV" group-title="General",ku | Cira TV
+https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8
+#EXTINF:-1 tvg-name="Dengê Zelal TV" group-title="General",ku | Dengê Zelal TV
+https://dengetv.ozelip.com:3143/live/dengelive.m3u8
+#EXTINF:-1 tvg-name="IRIB Kurdistan" group-title="General",fa / ku | IRIB Kurdistan
+https://live-azd1111.telewebion.com/ek/kordestan/live/576p/index.m3u8
+#EXTINF:-1 tvg-name="IRIB Mahabad" group-title="General",fa / ku | IRIB Mahabad
+https://live-azd1119.telewebion.com/ek/mahabad/live/576p/index.m3u8
+#EXTINF:-1 tvg-name="IRIB Ilam" group-title="General",fa / ku | IRIB Ilam
+https://live-azd1115.telewebion.com/ek/ilam/live/576p/index.m3u8
+#EXTINF:-1 tvg-name="IRIB Kermanshah" group-title="General",fa / ku | IRIB Kermanshah (Zagros)
+https://live-azd1121.telewebion.com/ek/zagros/live/576p/index.m3u8
+#EXTINF:-1 tvg-name="JIN TV" group-title="General",ku | JIN TV
+https://live.jintv.org/medialive/jintv.m3u8
+#EXTINF:-1 tvg-name="Komala TV" group-title="General",ku | Komala TV
+https://live.tvkomala.com/live/komala/chunks.m3u8?nimblesessionid=23999082
+#EXTINF:-1 tvg-name="Kurd Channel TV" group-title="General",ku | Kurd Channel TV
+https://northtelecom.live/KURD.m3u8
+#EXTINF:-1 tvg-name="MMN Show" group-title="General",ku | MMN Show
+http://mmn.mypsx.net:1935/live/mmnhddshow/playlist.m3u8
+#EXTINF:-1 tvg-name="MMN Documentary" group-title="General",ku | MMN Documentary / Clip
+http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8
+#EXTINF:-1 tvg-name="Shna Documentary" group-title="General",ku | Shna Documentary
+https://lbgo.bozztv.com/ssh101/ssh101/shna12345/chunks.m3u8?lb_backend_hint=7
+#EXTINF:-1 tvg-name="Mix TV Kurdy" group-title="General",ku | Mix TV Kurdy
+http://avrstream.com:1935/live/Mix-kurdy/playlist.m3u8
+#EXTINF:-1 tvg-name="NaqshiMedia" group-title="General",ku | NaqshiMedia
+http://naqshi-media.com:1935/live/NaqshiMedia/playlist.m3u8
+#EXTINF:-1 tvg-name="Rehber TV" group-title="General",ku | Rehber TV
+https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Soran Entertainment" group-title="General",ku | Soran Entertainment
+http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
+#EXTINF:-1 tvg-name="Baha Entertainment" group-title="General",ku | Baha Entertainment
+http://baskhd.ddns.net:40/live/baskhd/yusfstore.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Duhok Sports HD" tvg-logo="https://logo.0964750.xyz/logo/logos/duhoksport.png" group-title="Kurdistan sports A",Duhok Sports HD
 http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDMTVscElhSFhuQzl3RWkzVVRCcWtPOD0
