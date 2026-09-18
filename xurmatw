@@ -304,26 +304,6 @@ http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181668.ts
 
 
 
-
-#EXTINF:-1 tvg-name=" Solo Sport 1 4K" tvg-logo="https://solosports.b-cdn.net/wp-content/uploads/2018/06/solo_logo.png" group-title="SOLO SPORT 4K", Solo Sport 1 4K
-http://ornek.live:2082/malika.saleh/927319/145266
-
-#EXTINF:-1 tvg-name=" Solo Sport 2 4K" tvg-logo="https://solosports.b-cdn.net/wp-content/uploads/2018/06/solo_logo.png" group-title="SOLO SPORT 4K", Solo Sport 2 4K
-http://ornek.live:2082/malika.saleh/927319/145267
-
-#EXTINF:-1 tvg-name=" Solo Sport 3 4K" tvg-logo="https://solosports.b-cdn.net/wp-content/uploads/2018/06/solo_logo.png" group-title="SOLO SPORT 4K", Solo Sport 3 4K
-http://ornek.live:2082/malika.saleh/927319/145268
-
-#EXTINF:-1 tvg-name=" Solo Sport 4 4K" tvg-logo="https://solosports.b-cdn.net/wp-content/uploads/2018/06/solo_logo.png" group-title="SOLO SPORT 4K", Solo Sport 4 4K
-http://ornek.live:2082/malika.saleh/927319/145269
-
-#EXTINF:-1 tvg-name=" Solo Sport 5 4K" tvg-logo="https://solosports.b-cdn.net/wp-content/uploads/2018/06/solo_logo.png" group-title="SOLO SPORT 4K", Solo Sport 5 4K
-http://ornek.live:2082/malika.saleh/927319/145270
-
-
-
-
-
 #EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports UHD" tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN4.png" group-title="beIN Sports VIP",beIN Sports UHD 4K
 http://96235-sand.tx-4kott.com:80/live/2493f21902/6b9f460f66/2034168.m3u8
 
@@ -350,6 +330,24 @@ http://96235-sand.tx-4kott.com:80/live/2493f21902/6b9f460f66/1411379.m3u8
 
 #EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 6 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1411378.png" group-title="beIN Sports VIP",beIN Sports 6 4K
 http://96235-sand.tx-4kott.com:80/live/2493f21902/6b9f460f66/1411378.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name=" Solo Sport 1 4K" tvg-logo="https://solosports.b-cdn.net/wp-content/uploads/2018/06/solo_logo.png" group-title="SOLO SPORT 4K", Solo Sport 1 4K
+http://ornek.live:2082/malika.saleh/927319/145266
+
+#EXTINF:-1 tvg-name=" Solo Sport 2 4K" tvg-logo="https://solosports.b-cdn.net/wp-content/uploads/2018/06/solo_logo.png" group-title="SOLO SPORT 4K", Solo Sport 2 4K
+http://ornek.live:2082/malika.saleh/927319/145267
+
+#EXTINF:-1 tvg-name=" Solo Sport 3 4K" tvg-logo="https://solosports.b-cdn.net/wp-content/uploads/2018/06/solo_logo.png" group-title="SOLO SPORT 4K", Solo Sport 3 4K
+http://ornek.live:2082/malika.saleh/927319/145268
+
+#EXTINF:-1 tvg-name=" Solo Sport 4 4K" tvg-logo="https://solosports.b-cdn.net/wp-content/uploads/2018/06/solo_logo.png" group-title="SOLO SPORT 4K", Solo Sport 4 4K
+http://ornek.live:2082/malika.saleh/927319/145269
+
+#EXTINF:-1 tvg-name=" Solo Sport 5 4K" tvg-logo="https://solosports.b-cdn.net/wp-content/uploads/2018/06/solo_logo.png" group-title="SOLO SPORT 4K", Solo Sport 5 4K
+http://ornek.live:2082/malika.saleh/927319/145270
 
 
 
