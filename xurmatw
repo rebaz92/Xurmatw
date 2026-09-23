@@ -243,22 +243,22 @@ http://mhiptv.com:8080/live/hk030/6985423976/241378.ts
 http://mhiptv.com:8080/live/hk030/6985423976/241379.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ALWAN SPORT 5 4K" tvg-logo="" group-title="ALWAN SPORT 4K A",ALWAN SPORT 5 4K
-http://mhiptv.com:8080/live/hk030/6985423976/241379.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="ALWAN SPORT 6 4K" tvg-logo="" group-title="ALWAN SPORT 4K A",ALWAN SPORT 6 4K
 http://mhiptv.com:8080/live/hk030/6985423976/241380.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ALWAN SPORT 7 4K" tvg-logo="" group-title="ALWAN SPORT 4K A",ALWAN SPORT 7 4K
+#EXTINF:-1 tvg-id="" tvg-name="ALWAN SPORT 6 4K" tvg-logo="" group-title="ALWAN SPORT 4K A",ALWAN SPORT 6 4K
 http://mhiptv.com:8080/live/hk030/6985423976/241381.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ALWAN SPORT 8 4K" tvg-logo="" group-title="ALWAN SPORT 4K A",ALWAN SPORT 8 4K
+#EXTINF:-1 tvg-id="" tvg-name="ALWAN SPORT 7 4K" tvg-logo="" group-title="ALWAN SPORT 4K A",ALWAN SPORT 7 4K
 http://mhiptv.com:8080/live/hk030/6985423976/241382.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ALWAN SPORT 9 4K" tvg-logo="" group-title="ALWAN SPORT 4K A",ALWAN SPORT 9 4K
+#EXTINF:-1 tvg-id="" tvg-name="ALWAN SPORT 8 4K" tvg-logo="" group-title="ALWAN SPORT 4K A",ALWAN SPORT 8 4K
 http://mhiptv.com:8080/live/hk030/6985423976/241383.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ALWAN SPORT 10 4K" tvg-logo="" group-title="ALWAN SPORT 4K A",ALWAN SPORT 10 4K
+#EXTINF:-1 tvg-id="" tvg-name="ALWAN SPORT 9 4K" tvg-logo="" group-title="ALWAN SPORT 4K A",ALWAN SPORT 9 4K
 http://mhiptv.com:8080/live/hk030/6985423976/241384.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ALWAN SPORT 10 4K" tvg-logo="" group-title="ALWAN SPORT 4K A",ALWAN SPORT 10 4K
+http://mhiptv.com:8080/live/hk030/6985423976/241385.ts
 
 
 
