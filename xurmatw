@@ -156,26 +156,29 @@ http://mhiptv.com:8080/live/hk030/6985423976/288276.ts
 
 
 
-#EXTINF:-1 tvg-name=" AVA Sport FHD" tvg-logo="https://yt3.googleusercontent.com/0pErwVKHOLL4A2SVdzpTcdC1H7-lE7-5-nqacA38xYF16A1_f247dXYkHS6EiQHkSYlVvA8C0Q=s900-c-k-c0x00ffffff-no-rj" group-title="Kurdistan sports B", AVA Sport FHD
+#EXTINF:-1 tvg-name=" AVA Sport FHD" tvg-logo="https://yt3.googleusercontent.com/0pErwVKHOLL4A2SVdzpTcdC1H7-lE7-5-nqacA38xYF16A1_f247dXYkHS6EiQHkSYlVvA8C0Q=s900-c-k-c0x00ffffff-no-rj" group-title="Kurdistan sports", AVA Sport FHD
 http://dreamteev.xyz/live/Abdillahmaison/BMAUAWX/1328374.ts
 
-#EXTINF:-1 tvg-name=" NRT Sport HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSl8nHshPX09y2qUBPv6ikuK25rTFP2o3sgWWFwfcNK9T7y4TSTi3IvV4&s=10" group-title="Kurdistan sports B", NRT Sport HD
+#EXTINF:-1 tvg-name=" NRT Sport HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSl8nHshPX09y2qUBPv6ikuK25rTFP2o3sgWWFwfcNK9T7y4TSTi3IvV4&s=10" group-title="Kurdistan sports", NRT Sport HD
 http://dreamteev.xyz/live/Abdillahmaison/BMAUAWX/805984.ts
 
-#EXTINF:-1 tvg-name=" Astera Sport HD" tvg-logo="https://yt3.googleusercontent.com/yK8Z2HsvKjxgEc3mgieHhSJ2y0HbPpM-gjLN6HVxk2hlWrbJEbzhGitU_C44_43jUgBcjdES=s900-c-k-c0x00ffffff-no-rj" group-title="Kurdistan sports B", Astera Sport HD
+#EXTINF:-1 tvg-name=" Astera Sport HD" tvg-logo="https://yt3.googleusercontent.com/yK8Z2HsvKjxgEc3mgieHhSJ2y0HbPpM-gjLN6HVxk2hlWrbJEbzhGitU_C44_43jUgBcjdES=s900-c-k-c0x00ffffff-no-rj" group-title="Kurdistan sports", Astera Sport HD
 http://sans7.org:88/02095188864772/jsmuKOEvzgSTt0M/190026
 
-#EXTINF:-1 tvg-name=" LD Sport HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyEiyl2PhECUtt6XquVyXgqps306DA5zTE4LHr-UjlWEPd0NfXU5k2Huz_&s=10" group-title="Kurdistan sports B", LD Sport HD
+#EXTINF:-1 tvg-name=" Gewher Sport HD" tvg-logo="" group-title="Kurdistan sports", Gewher Sport HD
+https://iptv-link.short.gy/Gewher_Sport.m3u8
+
+#EXTINF:-1 tvg-name=" LD Sport HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyEiyl2PhECUtt6XquVyXgqps306DA5zTE4LHr-UjlWEPd0NfXU5k2Huz_&s=10" group-title="Kurdistan sports", LD Sport HD
 http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDOTAvaWsvWHViWGljVnpVbGpSVnVPTT0
 
-#EXTINF:-1 tvg-name=" LD Sport Chek HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTEeLmITaTUdGNcIomeFqJaohzfMny39eymmm0IPm99Ws8ivQ-o4z0PaI&s=10" group-title="Kurdistan sports B", LD Sport Chek HD
+#EXTINF:-1 tvg-name=" LD Sport Chek HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTEeLmITaTUdGNcIomeFqJaohzfMny39eymmm0IPm99Ws8ivQ-o4z0PaI&s=10" group-title="Kurdistan sports", LD Sport Chek HD
 http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDMysraURqUVNrY2VxemN4VjRWYUdQOD0
 
 
-#EXTINF:-1 tvg-name=" RENG Sport HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiaVOVhr9M-rAri229rONI5AgGUWEjozftqzaAdSGGu8p3eNg5f203wPhM&s=10" group-title="Kurdistan sports B", RENG Sport HD
+#EXTINF:-1 tvg-name=" RENG Sport HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiaVOVhr9M-rAri229rONI5AgGUWEjozftqzaAdSGGu8p3eNg5f203wPhM&s=10" group-title="Kurdistan sports", RENG Sport HD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667739&extension=ts
 
-#EXTINF:-1 tvg-name=" ASO Sport FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN4GXkPKlwvwHFEFqK24bgWFv3jlV4tea5qQ4Pm3Na2mPPrRw1ypvTR84D&s=10" group-title="Kurdistan sports B", ASO Sport FHD
+#EXTINF:-1 tvg-name=" ASO Sport FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN4GXkPKlwvwHFEFqK24bgWFv3jlV4tea5qQ4Pm3Na2mPPrRw1ypvTR84D&s=10" group-title="Kurdistan sports", ASO Sport FHD
 http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDODVWMDg0TzYya0VVUGc5QUtGWUNFTT0
 
 
