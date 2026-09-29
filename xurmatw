@@ -39,65 +39,65 @@ https://speda1.site/upload/images/spedahd.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="AR:KU- Ava HD" tvg-logo="https://i.imgur.com/jZZ0iln.png" group-title="کوردی ناوخۆیی",AR:KU- Ava HD
+#EXTINF:-1 tvg-id="" tvg-name="Ava HD" tvg-logo="https://i.imgur.com/jZZ0iln.png" group-title="کوردی ناوخۆیی",Ava HD
 http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/142240
-#EXTINF:-1 tvg-id="" tvg-name="AR:KU- SHAMS TV 4K" tvg-logo="https://i.imgur.com/9b7OoE6.jpg" group-title="کوردی ناوخۆیی",AR:KU- SHAMS TV 4K
+#EXTINF:-1 tvg-id="" tvg-name="SHAMS TV 4K" tvg-logo="https://i.imgur.com/9b7OoE6.jpg" group-title="کوردی ناوخۆیی",SHAMS TV 4K
 http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/124013
-#EXTINF:-1 tvg-id="" tvg-name="AR:KU-NRT 1" tvg-logo="http://karwan.tv/images/tvlogo/nalia-tv.png" group-title="کوردی ناوخۆیی",AR:KU-NRT 1
+#EXTINF:-1 tvg-id="" tvg-name="NRT 1" tvg-logo="http://karwan.tv/images/tvlogo/nalia-tv.png" group-title="کوردی ناوخۆیی",NRT 1
 http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/2025
-#EXTINF:-1 tvg-id="" tvg-name="AR:KU-NRT 2" tvg-logo="http://karwan.tv/images/tvlogo/nalia-tv-2.png" group-title="کوردی ناوخۆیی",AR:KU-NRT 2
+#EXTINF:-1 tvg-id="" tvg-name="NRT 2" tvg-logo="http://karwan.tv/images/tvlogo/nalia-tv-2.png" group-title="کوردی ناوخۆیی",NRT 2
 http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/2024
-#EXTINF:-1 tvg-id="" tvg-name="AR:KU-PAYAM TV HD" tvg-logo="" group-title="کوردی ناوخۆیی",AR:KU-PAYAM TV HD
+#EXTINF:-1 tvg-id="" tvg-name="PAYAM TV HD" tvg-logo="" group-title="کوردی ناوخۆیی",PAYAM TV HD
 http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/2270
-#EXTINF:-1 tvg-id="" tvg-name="AR:KU-Rojava TV" tvg-logo="" group-title="کوردی ناوخۆیی",AR:KU-Rojava TV
+#EXTINF:-1 tvg-id="" tvg-name="Rojava TV" tvg-logo="" group-title="کوردی ناوخۆیی",Rojava TV
 http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/2312
-#EXTINF:-1 tvg-id="" tvg-name="AR:KU-Ronahi TV" tvg-logo="https://i.imgur.com/Beh6tpv.png" group-title="کوردی ناوخۆیی",AR:KU-Ronahi TV
+#EXTINF:-1 tvg-id="" tvg-name="Ronahi TV" tvg-logo="https://i.imgur.com/Beh6tpv.png" group-title="کوردی ناوخۆیی",Ronahi TV
 http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/2311
-#EXTINF:-1 tvg-id="" tvg-name="AR:KU-RUDAW TV" tvg-logo="" group-title="کوردی ناوخۆیی",AR:KU-RUDAW TV
+#EXTINF:-1 tvg-id="" tvg-name="RUDAW TV" tvg-logo="" group-title="کوردی ناوخۆیی",RUDAW TV
 http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/2303
-#EXTINF:-1 tvg-id="" tvg-name="AR:KU-Sahar Kurdish" tvg-logo="" group-title="کوردی ناوخۆیی",AR:KU-Sahar Kurdish
+#EXTINF:-1 tvg-id="" tvg-name="Sahar Kurdish" tvg-logo="" group-title="کوردی ناوخۆیی",Sahar Kurdish
 http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/2301
-#EXTINF:-1 tvg-id="" tvg-name="AR:KU-SPEDA TV" tvg-logo="" group-title="کوردی ناوخۆیی",AR:KU-SPEDA TV
+#EXTINF:-1 tvg-id="" tvg-name="SPEDA TV" tvg-logo="" group-title="کوردی ناوخۆیی",SPEDA TV
 http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/2293
-#EXTINF:-1 tvg-id="" tvg-name="AR:KU-SUROYO TV" tvg-logo="https://i.imgur.com/AFgtojm.png" group-title="کوردی ناوخۆیی",AR:KU-SUROYO TV
+#EXTINF:-1 tvg-id="" tvg-name="SUROYO TV" tvg-logo="https://i.imgur.com/AFgtojm.png" group-title="کوردی ناوخۆیی",SUROYO TV
 http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/2292
-#EXTINF:-1 tvg-id="" tvg-name="AR:KU-TRT KURDI" tvg-logo="" group-title="کوردی ناوخۆیی",AR:KU-TRT KURDI
+#EXTINF:-1 tvg-id="" tvg-name="TRT KURDI" tvg-logo="" group-title="کوردی ناوخۆیی",TRT KURDI
 http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/6979
-#EXTINF:-1 tvg-id="" tvg-name="AR:KU-UTV" tvg-logo="" group-title="کوردی ناوخۆیی",AR:KU-UTV
+#EXTINF:-1 tvg-id="" tvg-name="UTV" tvg-logo="" group-title="کوردی ناوخۆیی",UTV
 http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/6978
-#EXTINF:-1 tvg-id="" tvg-name="AR:KU-WAAR" tvg-logo="" group-title="کوردی ناوخۆیی",AR:KU-WAAR
+#EXTINF:-1 tvg-id="" tvg-name="WAAR" tvg-logo="" group-title="کوردی ناوخۆیی",WAAR
 http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/6973
-#EXTINF:-1 tvg-id="" tvg-name="AR:KU-Zagros TV" tvg-logo="https://i.imgur.com/NSSkC0b.png" group-title="کوردی ناوخۆیی",AR:KU-Zagros TV
+#EXTINF:-1 tvg-id="" tvg-name="Zagros TV" tvg-logo="https://i.imgur.com/NSSkC0b.png" group-title="کوردی ناوخۆیی",Zagros TV
 http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/2061
-#EXTINF:-1 tvg-id="" tvg-name="AR:KU-ZAROK TV" tvg-logo="http://www.zarok.tv/files/intrologo.png" group-title="کوردی ناوخۆیی",AR:KU-ZAROK TV
+#EXTINF:-1 tvg-id="" tvg-name="ZAROK TV" tvg-logo="http://www.zarok.tv/files/intrologo.png" group-title="کوردی ناوخۆیی",ZAROK TV
 http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/6976
-#EXTINF:-1 tvg-id="" tvg-name="AR:KU-Aro Kids HD" tvg-logo="" group-title="کوردی ناوخۆیی",AR:KU-Aro Kids HD
+#EXTINF:-1 tvg-id="" tvg-name="Aro Kids HD" tvg-logo="" group-title="کوردی ناوخۆیی",Aro Kids HD
 http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/2317
-#EXTINF:-1 tvg-id="" tvg-name="AR:KU-Aryen TV" tvg-logo="" group-title="کوردی ناوخۆیی",AR:KU-Aryen TV
+#EXTINF:-1 tvg-id="" tvg-name="Aryen TV" tvg-logo="" group-title="کوردی ناوخۆیی",Aryen TV
 http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/6984
-#EXTINF:-1 tvg-id="" tvg-name="AR:KU-CIRA TV" tvg-logo="" group-title="کوردی ناوخۆیی",AR:KU-CIRA TV
+#EXTINF:-1 tvg-id="" tvg-name="CIRA TV" tvg-logo="" group-title="کوردی ناوخۆیی",CIRA TV
 http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/2280
-#EXTINF:-1 tvg-id="" tvg-name="AR:KU-Gali Kurdistan" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvt21dJ2tr7To8IFGr20e0YeHbKzeC1fGNLSCIqXTRGiUJnWZA" group-title="کوردی ناوخۆیی",AR:KU-Gali Kurdistan
+#EXTINF:-1 tvg-id="" tvg-name="Gali Kurdistan" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvt21dJ2tr7To8IFGr20e0YeHbKzeC1fGNLSCIqXTRGiUJnWZA" group-title="کوردی ناوخۆیی",Gali Kurdistan
 http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/2355
-#EXTINF:-1 tvg-id="" tvg-name="AR:KU-ISHTAR TV" tvg-logo="" group-title="کوردی ناوخۆیی",AR:KU-ISHTAR TV
+#EXTINF:-1 tvg-id="" tvg-name="ISHTAR TV" tvg-logo="" group-title="کوردی ناوخۆیی",ISHTAR TV
 http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/6982
-#EXTINF:-1 tvg-id="" tvg-name="AR:KU-K24 ᴴᴰ" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4g6862b0Iq_0oS8XAG0vXWg0bqD8dW35Pj70UWpNHmNt11naz" group-title="کوردی ناوخۆیی",AR:KU-K24 ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="K24 ᴴᴰ" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4g6862b0Iq_0oS8XAG0vXWg0bqD8dW35Pj70UWpNHmNt11naz" group-title="کوردی ناوخۆیی",K24 ᴴᴰ
 http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/2350
-#EXTINF:-1 tvg-id="" tvg-name="AR:KU-Kurdistan TV" tvg-logo="http://i.imgur.com/WYtp2nO.jpg" group-title="کوردی ناوخۆیی",AR:KU-Kurdistan TV
+#EXTINF:-1 tvg-id="" tvg-name="Kurdistan TV" tvg-logo="http://i.imgur.com/WYtp2nO.jpg" group-title="کوردی ناوخۆیی",Kurdistan TV
 http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/2349
-#EXTINF:-1 tvg-id="" tvg-name="AR:KU-KURDMAX" tvg-logo="https://i.imgur.com/bPMP0Xy.png" group-title="کوردی ناوخۆیی",AR:KU-KURDMAX
+#EXTINF:-1 tvg-id="" tvg-name="KURDMAX" tvg-logo="https://i.imgur.com/bPMP0Xy.png" group-title="کوردی ناوخۆیی",KURDMAX
 http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/2347
-#EXTINF:-1 tvg-id="" tvg-name="AR:KU-Kurdmax Show TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAqUsxMcmlcx2-cWeOsgb4HcAOZiRPSaI7E2ytgiOMPuutPO3E" group-title="کوردی ناوخۆیی",AR:KU-Kurdmax Show TV
+#EXTINF:-1 tvg-id="" tvg-name="Kurdmax Show TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAqUsxMcmlcx2-cWeOsgb4HcAOZiRPSaI7E2ytgiOMPuutPO3E" group-title="کوردی ناوخۆیی",Kurdmax Show TV
 http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/2348
-#EXTINF:-1 tvg-id="" tvg-name="AR:KU-Kurdsat HD" tvg-logo="https://i.imgur.com/T817Uha.png" group-title="کوردی ناوخۆیی",AR:KU-Kurdsat HD
+#EXTINF:-1 tvg-id="" tvg-name="Kurdsat HD" tvg-logo="https://i.imgur.com/T817Uha.png" group-title="کوردی ناوخۆیی",Kurdsat HD
 http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/2346
-#EXTINF:-1 tvg-id="" tvg-name="AR:KU-Kurdsat News HD" tvg-logo="https://i.imgur.com/Qv2NOyQ.png" group-title="کوردی ناوخۆیی",AR:KU-Kurdsat News HD
+#EXTINF:-1 tvg-id="" tvg-name="Kurdsat News HD" tvg-logo="https://i.imgur.com/Qv2NOyQ.png" group-title="کوردی ناوخۆیی",Kurdsat News HD
 http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/2345
-#EXTINF:-1 tvg-id="" tvg-name="AR:KU-MED MUZIK" tvg-logo="" group-title="کوردی ناوخۆیی",AR:KU-MED MUZIK
+#EXTINF:-1 tvg-id="" tvg-name="MED MUZIK" tvg-logo="" group-title="کوردی ناوخۆیی",MED MUZIK
 http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/6977
-#EXTINF:-1 tvg-id="" tvg-name="AR:KU-Speda  Drama" tvg-logo="https://i.imgur.com/xG6uGL7.jpg" group-title="کوردی ناوخۆیی",AR:KU-Speda  Drama
+#EXTINF:-1 tvg-id="" tvg-name="Speda  Drama" tvg-logo="https://i.imgur.com/xG6uGL7.jpg" group-title="کوردی ناوخۆیی",Speda  Drama
 http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/6981
-#EXTINF:-1 tvg-id="" tvg-name="AR:KU-Nohadra TV" tvg-logo="http://nohdralive.com/wp-content/uploads/2016/11/mylogo.png" group-title="کوردی ناوخۆیی",AR:KU-Nohadra TV
+#EXTINF:-1 tvg-id="" tvg-name="Nohadra TV" tvg-logo="http://nohdralive.com/wp-content/uploads/2016/11/mylogo.png" group-title="کوردی ناوخۆیی",Nohadra TV
 http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/21806
 #EXTINF:-1 tvg-id="" tvg-name="LOCAL: ZNAR 4K" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: ZNAR 4K
 http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54164
