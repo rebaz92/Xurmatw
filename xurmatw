@@ -39,246 +39,367 @@ https://speda1.site/upload/images/spedahd.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="SHAMS TV 4K" tvg-logo="https://i.imgur.com/9b7OoE6.jpg" group-title="کوردی ناوخۆیی",SHAMS TV 4K
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/124013
-#EXTINF:-1 tvg-id="" tvg-name="NRT 1" tvg-logo="http://karwan.tv/images/tvlogo/nalia-tv.png" group-title="کوردی ناوخۆیی",NRT 1
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/2025
-#EXTINF:-1 tvg-id="" tvg-name="NRT 2" tvg-logo="http://karwan.tv/images/tvlogo/nalia-tv-2.png" group-title="کوردی ناوخۆیی",NRT 2
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/2024
-#EXTINF:-1 tvg-id="" tvg-name="PAYAM TV HD" tvg-logo="" group-title="کوردی ناوخۆیی",PAYAM TV HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/2270
-#EXTINF:-1 tvg-id="" tvg-name="Rojava TV" tvg-logo="" group-title="کوردی ناوخۆیی",Rojava TV
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/2312
-#EXTINF:-1 tvg-id="" tvg-name="Ronahi TV" tvg-logo="https://i.imgur.com/Beh6tpv.png" group-title="کوردی ناوخۆیی",Ronahi TV
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/2311
-#EXTINF:-1 tvg-id="" tvg-name="RUDAW TV" tvg-logo="" group-title="کوردی ناوخۆیی",RUDAW TV
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/2303
-#EXTINF:-1 tvg-id="" tvg-name="Sahar Kurdish" tvg-logo="" group-title="کوردی ناوخۆیی",Sahar Kurdish
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/2301
-#EXTINF:-1 tvg-id="" tvg-name="SPEDA TV" tvg-logo="" group-title="کوردی ناوخۆیی",SPEDA TV
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/2293
-#EXTINF:-1 tvg-id="" tvg-name="SUROYO TV" tvg-logo="https://i.imgur.com/AFgtojm.png" group-title="کوردی ناوخۆیی",SUROYO TV
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/2292
-#EXTINF:-1 tvg-id="" tvg-name="TRT KURDI" tvg-logo="" group-title="کوردی ناوخۆیی",TRT KURDI
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/6979
-#EXTINF:-1 tvg-id="" tvg-name="UTV" tvg-logo="" group-title="کوردی ناوخۆیی",UTV
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/6978
-#EXTINF:-1 tvg-id="" tvg-name="WAAR" tvg-logo="" group-title="کوردی ناوخۆیی",WAAR
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/6973
-#EXTINF:-1 tvg-id="" tvg-name="Zagros TV" tvg-logo="https://i.imgur.com/NSSkC0b.png" group-title="کوردی ناوخۆیی",Zagros TV
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/2061
-#EXTINF:-1 tvg-id="" tvg-name="ZAROK TV" tvg-logo="http://www.zarok.tv/files/intrologo.png" group-title="کوردی ناوخۆیی",ZAROK TV
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/6976
-#EXTINF:-1 tvg-id="" tvg-name="Aro Kids HD" tvg-logo="" group-title="کوردی ناوخۆیی",Aro Kids HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/2317
-#EXTINF:-1 tvg-id="" tvg-name="Aryen TV" tvg-logo="" group-title="کوردی ناوخۆیی",Aryen TV
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/6984
-#EXTINF:-1 tvg-id="" tvg-name="CIRA TV" tvg-logo="" group-title="کوردی ناوخۆیی",CIRA TV
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/2280
-#EXTINF:-1 tvg-id="" tvg-name="Gali Kurdistan" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvt21dJ2tr7To8IFGr20e0YeHbKzeC1fGNLSCIqXTRGiUJnWZA" group-title="کوردی ناوخۆیی",Gali Kurdistan
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/2355
-#EXTINF:-1 tvg-id="" tvg-name="ISHTAR TV" tvg-logo="" group-title="کوردی ناوخۆیی",ISHTAR TV
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/6982
-#EXTINF:-1 tvg-id="" tvg-name="K24 ᴴᴰ" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4g6862b0Iq_0oS8XAG0vXWg0bqD8dW35Pj70UWpNHmNt11naz" group-title="کوردی ناوخۆیی",K24 ᴴᴰ
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/2350
-#EXTINF:-1 tvg-id="" tvg-name="Kurdistan TV" tvg-logo="http://i.imgur.com/WYtp2nO.jpg" group-title="کوردی ناوخۆیی",Kurdistan TV
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/2349
-#EXTINF:-1 tvg-id="" tvg-name="KURDMAX" tvg-logo="https://i.imgur.com/bPMP0Xy.png" group-title="کوردی ناوخۆیی",KURDMAX
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/2347
-#EXTINF:-1 tvg-id="" tvg-name="Kurdmax Show TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAqUsxMcmlcx2-cWeOsgb4HcAOZiRPSaI7E2ytgiOMPuutPO3E" group-title="کوردی ناوخۆیی",Kurdmax Show TV
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/2348
-#EXTINF:-1 tvg-id="" tvg-name="Kurdsat HD" tvg-logo="https://i.imgur.com/T817Uha.png" group-title="کوردی ناوخۆیی",Kurdsat HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/2346
-#EXTINF:-1 tvg-id="" tvg-name="Kurdsat News HD" tvg-logo="https://i.imgur.com/Qv2NOyQ.png" group-title="کوردی ناوخۆیی",Kurdsat News HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/2345
-#EXTINF:-1 tvg-id="" tvg-name="MED MUZIK" tvg-logo="" group-title="کوردی ناوخۆیی",MED MUZIK
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/6977
-#EXTINF:-1 tvg-id="" tvg-name="Speda  Drama" tvg-logo="https://i.imgur.com/xG6uGL7.jpg" group-title="کوردی ناوخۆیی",Speda  Drama
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/6981
-#EXTINF:-1 tvg-id="" tvg-name="Nohadra TV" tvg-logo="http://nohdralive.com/wp-content/uploads/2016/11/mylogo.png" group-title="کوردی ناوخۆیی",Nohadra TV
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/21806
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: ZNAR 4K" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: ZNAR 4K
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54164
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: Aro Family" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: Aro Family
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54165
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: ZED+ HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: ZED+ HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54166
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: ZED TV HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: ZED TV HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54167
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: ZAXO SPORT 4K" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: ZAXO SPORT 4K
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54168
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: ZAXO 4K" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: ZAXO 4K
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54169
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: ZAROK SORANI" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: ZAROK SORANI
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54170
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: WAAR TV HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: WAAR TV HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54171
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: U2 TV" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: U2 TV
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54172
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: U TV HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: U TV HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54173
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: TASAWF 4K" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: TASAWF 4K
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54175
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: STERK TV" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: STERK TV
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54176
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: SPEDA TV HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: SPEDA TV HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54177
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: SIMA" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: SIMA
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54179
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: SHAISTA TV HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: SHAISTA TV HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54182
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: SAUDI SUNNAH" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: SAUDI SUNNAH
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54185
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: SAHAR TV" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: SAHAR TV
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54186
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: RUDAW TV HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: RUDAW TV HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54187
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: ROZHGAR 4K" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: ROZHGAR 4K
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54188
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: RONAHI TV" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: RONAHI TV
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54189
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: RENG HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: RENG HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54190
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: RENG DOCUMENT HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: RENG DOCUMENT HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54193
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: RASAN HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: RASAN HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54194
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: RANYA HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: RANYA HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54195
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: QALAT HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: QALAT HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54196
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: PAYAM TV" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: PAYAM TV
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54197
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: NUBAR TV" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: NUBAR TV
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54198
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: NRT2 SORANI HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: NRT2 SORANI HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54199
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: NRT SPORT HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: NRT SPORT HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54200
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: NRT 4 HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: NRT 4 HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54201
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: NRT 3 KIDS HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: NRT 3 KIDS HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54202
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: NRT 1 TV 4K" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: NRT 1 TV 4K
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54203
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: NOOR 4K" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: NOOR 4K
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54204
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: NISHTIMANI MN 4K" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: NISHTIMANI MN 4K
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54205
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: NIGA MOVIES HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: NIGA MOVIES HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54206
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: NIGA KIDS HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: NIGA KIDS HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54207
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: NIGA FAMILY HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: NIGA FAMILY HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54208
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: NEWLINE 2 HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: NEWLINE 2 HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54209
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: NEWLINE 1 HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: NEWLINE 1 HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54210
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: NEW MAX KIDS 4K" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: NEW MAX KIDS 4K
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54211
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: NEW MAX BOX" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: NEW MAX BOX
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54212
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: NET TV HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: NET TV HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54213
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: MMN Kids" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: MMN Kids
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54215
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: MINARA TV" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: MINARA TV
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54216
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: MIHRAB" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: MIHRAB
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54217
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: MED MUSIC TV" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: MED MUSIC TV
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54218
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: LIFE TV" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: LIFE TV
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54221
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: LD SPORT HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: LD SPORT HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54223
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: KURDSHOW HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: KURDSHOW HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54225
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: KURDSAT TV HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: KURDSAT TV HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54226
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: KURDMAX SHOW HD SORANI" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: KURDMAX SHOW HD SORANI
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54227
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: KURDMAX SHOW HD KURMANJI" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: KURDMAX SHOW HD KURMANJI
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54228
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: KURDMAX HD SORANI" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: KURDMAX HD SORANI
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54229
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: KURDMAX HD KURMANJI" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: KURDMAX HD KURMANJI
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54230
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: KURDISTAN TV HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: KURDISTAN TV HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54231
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: KURDCINEMA ACTION HD3" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: KURDCINEMA ACTION HD3
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54232
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: KURDCINEMA ACTION HD2" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: KURDCINEMA ACTION HD2
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54233
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: KURD MOVIES 4K" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: KURD MOVIES 4K
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54234
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: KURD CINEMA HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: KURD CINEMA HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54235
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: KRD WWE HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: KRD WWE HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54236
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: KRD LD Family HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: KRD LD Family HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54237
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: KRD CARTOON 2 HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: KRD CARTOON 2 HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54238
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: KOMALL HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: KOMALL HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54239
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: KANI 4K" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: KANI 4K
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54241
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: K24 HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: K24 HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54243
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: IRAQIA KURD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: IRAQIA KURD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54246
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: Euro Kurd HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: Euro Kurd HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54250
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: DUHOK TV" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: DUHOK TV
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54251
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: DUHOK SPORT 4K" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: DUHOK SPORT 4K
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54252
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: DIMAN HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: DIMAN HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54253
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: DERWAZE 4K" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: DERWAZE 4K
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54255
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: DERIN 4K" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: DERIN 4K
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54256
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: DASINYA SPORT" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: DASINYA SPORT
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54257
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: CIRA TV" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: CIRA TV
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54260
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: BMC" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: BMC
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54261
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: BASK 4K" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: BASK 4K
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54262
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: BANGAWAZ" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: BANGAWAZ
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54263
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: BAHA ENTERTAINMENT 4K" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: BAHA ENTERTAINMENT 4K
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54264
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: BABOLY HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: BABOLY HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54265
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: AVA MEDIA" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: AVA MEDIA
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54267
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: ASTERA SPORT HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: ASTERA SPORT HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54268
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: ASTERA SHOW HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: ASTERA SHOW HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54269
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: ASTERA MOVIES HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: ASTERA MOVIES HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54271
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: ASTERA FAMILY HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: ASTERA FAMILY HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54272
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: ASTERA DOCUMENTARY" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: ASTERA DOCUMENTARY
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54273
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: ASTERA BABY HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: ASTERA BABY HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54274
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: ASMAN TV HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: ASMAN TV HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54276
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: ARYEN TV" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: ARYEN TV
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54277
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: ARO KIDS HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: ARO KIDS HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54278
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: ARO DRAMA HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: ARO DRAMA HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54279
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL: AMOZHGARY TV HD" tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Kurdistan-Flag.png" group-title="کوردی ناوخۆیی",LOCAL: AMOZHGARY TV HD
-http://server.shamelforu.com:8080/00:7d:3b:2d:03:a9/13319074206351/54280
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Shams tv" group-title="کوردی ناوخۆیی",|KRD| Shams tv
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/1951032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Rudaw TV ᴴᴰ ku" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Rudaw TV ᴴᴰ ku
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129980.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| K24 ᴴᴰ ku" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| K24 ᴴᴰ ku
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129979.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| AVA TV ku" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| AVA TV ku
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129968.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| CHANNEL 8" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| CHANNEL 8
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/606601.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Kurdsat TV ᴴᴰ ku" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Kurdsat TV ᴴᴰ ku
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129973.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Kurdsat News ᴴᴰ ku" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Kurdsat News ᴴᴰ ku
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129974.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Gali Kurdistan TV" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Gali Kurdistan TV
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129965.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD|  KIRKUK TV" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD|  KIRKUK TV
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/29289.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| NRT 1 ᴴᴰ ku" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| NRT 1 ᴴᴰ ku
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129978.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| KURDMAX ᵁᴴᴰ KUR" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| KURDMAX ᵁᴴᴰ KUR
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312633.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| KURDMAX ᵁᴴᴰ SOR" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| KURDMAX ᵁᴴᴰ SOR
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312634.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| NRT 2 ᴴᴰ ku Sorani" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| NRT 2 ᴴᴰ ku Sorani
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129977.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Khak ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Khak ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312594.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Sahar Kurdi TV" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Sahar Kurdi TV
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129955.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| FOX ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| FOX ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/456267.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD|  Kurd TV" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD|  Kurd TV
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129887.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| KurdMax Kurmanji ᴴᴰ ku" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| KurdMax Kurmanji ᴴᴰ ku
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129971.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| ATV KURD ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| ATV KURD ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD|  Reng TV ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD|  Reng TV ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129919.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Euro Kurd ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Euro Kurd ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280470.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD|  NewLine 1 ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD|  NewLine 1 ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129899.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD|  NewLine 2 ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD|  NewLine 2 ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD|  Speda Drama ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD|  Speda Drama ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129929.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD|  Biaban Family ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD|  Biaban Family ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129817.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD|  Derwaze TV ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD|  Derwaze TV ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129832.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD|  Duhok TV" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD|  Duhok TV
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129835.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| DUHOK TV" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| DUHOK TV
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312582.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD|  Duhok Sports ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD|  Duhok Sports ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129834.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD|  Helhelok TV" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD|  Helhelok TV
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129841.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD|  Ishtar ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD|  Ishtar ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129848.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| ZOOM" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| ZOOM
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/1073891.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD|  Kurd Show ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD|  Kurd Show ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129883.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD|  Minara ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD|  Minara ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129888.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD|  Niga Family ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD|  Niga Family ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129906.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| XABIR ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| XABIR ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/456279.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KRD| Medya Haber ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",KRD| Medya Haber ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/197297.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD|  Rasan ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD|  Rasan ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129915.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD|  Reng Document ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD|  Reng Document ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129916.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD|  Srusht ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD|  Srusht ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129931.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KU| Amozhgary ᴴᴰ KU." tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KU| Amozhgary ᴴᴰ KU.
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/86267.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KU| Waar TV ᴴᴰ KU." tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KU| Waar TV ᴴᴰ KU.
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/86275.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| BINER ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| BINER ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/456258.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| DIMEN ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| DIMEN ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/456262.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| MINBIJ TV" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| MINBIJ TV
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/6421.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD|  PAYAM" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD|  PAYAM
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/29295.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| MINHRAB ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| MINHRAB ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280442.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD|  WAAR ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD|  WAAR ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/29296.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Payam TV ku" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Payam TV ku
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129957.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD|  RONAHI TV" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD|  RONAHI TV
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/29297.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Ronahi TV ku" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Ronahi TV ku
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129951.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Sterk TV" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Sterk TV
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/58615.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Sterk TV ku" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Sterk TV ku
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129953.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Amozhgary TV ᴴᴰ ku" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Amozhgary TV ᴴᴰ ku
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129960.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| AMOZHGARY TV ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| AMOZHGARY TV ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280454.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Aryen TV ku" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Aryen TV ku
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129952.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| AVA Entertainment" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| AVA Entertainment
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129967.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Bangawaz TV ku" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Bangawaz TV ku
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Cira TV ku" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Cira TV ku
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129950.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Iraqia Kurdish TV" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Iraqia Kurdish TV
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129956.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Jin ᴴᴰ ku" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Jin ᴴᴰ ku
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129938.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Komal TV" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Komal TV
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129940.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Kurdistan TV ᴴᴰ ku" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Kurdistan TV ᴴᴰ ku
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129963.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| KurdMax Show ᴴᴰ ku Sorani" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| KurdMax Show ᴴᴰ ku Sorani
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129970.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| NRT 4 ᴴᴰ ku" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| NRT 4 ᴴᴰ ku
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129975.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| AMED TV" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| AMED TV
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/456254.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| ASO SPORT TV" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| ASO SPORT TV
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/456256.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| FIRST KIDS ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| FIRST KIDS ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/456266.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Kurdistan TV" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Kurdistan TV
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/31214.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Rojava ᴴᴰ ku" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Rojava ᴴᴰ ku
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129939.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| QALAM TV" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| QALAM TV
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312553.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| K24 Documentary ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| K24 Documentary ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312554.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| KU - NET ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| KU - NET ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312555.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| ᵁᴴᴰURD ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| ᵁᴴᴰURD ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312556.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Aro Family" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Aro Family
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312560.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Azhin ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Azhin ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312565.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Barin Family ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Barin Family ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312567.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Barin ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Barin ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312568.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Barin Quran ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Barin Quran ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312570.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| BEFRIN ᴴᴰ (ONLY LIVE)" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| BEFRIN ᴴᴰ (ONLY LIVE)
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312571.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| BK4 ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| BK4 ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312572.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Dasinya TV ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Dasinya TV ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312579.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Delal TV ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Delal TV ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312580.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Eman TV" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Eman TV
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312583.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| First ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| First ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312584.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| iRaqia Kurdi ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| iRaqia Kurdi ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312590.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Kalapor Tv" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Kalapor Tv
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312592.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| KTV ᵁᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| KTV ᵁᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312620.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| KURD TV ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| KURD TV ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312623.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Kurdistan 24 ᵁᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Kurdistan 24 ᵁᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312629.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| KURDISTAN ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| KURDISTAN ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312630.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Life ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Life ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312635.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| MMN Action ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| MMN Action ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312638.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| MMN Clipᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| MMN Clipᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312641.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| MMN Drama ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| MMN Drama ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312642.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| MMN Radio Turk ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| MMN Radio Turk ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312645.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| MMN Showᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| MMN Showᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312646.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Newline Sport ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Newline Sport ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312651.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Nishtimani Mn ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Nishtimani Mn ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312659.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| NISHTIMANY MN" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| NISHTIMANY MN
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312660.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| NOHADRA ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| NOHADRA ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312661.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Nubar Sport  ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Nubar Sport  ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312664.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| NUJEN TV" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| NUJEN TV
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312666.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| PIROOZ TV ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| PIROOZ TV ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312670.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| QALAM AYINI ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| QALAM AYINI ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312672.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| QALAT ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| QALAT ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312675.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| RASOULALLAH TV" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| RASOULALLAH TV
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312676.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| ROJHELAT TV" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| ROJHELAT TV
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312681.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| ROUH ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| ROUH ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312682.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| SIMA DOCUMENTARY ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| SIMA DOCUMENTARY ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312686.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| SIMA ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| SIMA ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312687.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| SOZ ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| SOZ ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312689.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| SOZ QURAN TV" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| SOZ QURAN TV
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312690.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| SUBORO TV" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| SUBORO TV
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312691.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| SUROYO TV" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| SUROYO TV
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312693.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Suryoyo Sat" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Suryoyo Sat
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/496351.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| U TV" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| U TV
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312694.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| WASELA QURAN ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| WASELA QURAN ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312726.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| WWE ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| WWE ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312727.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| ZNAR ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| ZNAR ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312733.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| EZDAN TV" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| EZDAN TV
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312737.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| GELI KURDISTAN TV ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| GELI KURDISTAN TV ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312738.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| LIFE ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| LIFE ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312740.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| SADA TV" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| SADA TV
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312744.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| SIMA ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| SIMA ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312746.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KRD| KNN ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",KRD| KNN ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/185937.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Speda TV ᴴᴰ ku" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Speda TV ᴴᴰ ku
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129959.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Kani TV" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Kani TV
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/150570.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| K4U  TV" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| K4U  TV
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/150589.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| TRT Kurdi ku" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| TRT Kurdi ku
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129945.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Waar TV ᴴᴰ ku" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Waar TV ᴴᴰ ku
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129964.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Zagros TV ᴴᴰ ku" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Zagros TV ᴴᴰ ku
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129962.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| KURDSHOW ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| KURDSHOW ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280482.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| IMN Kurdish" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| IMN Kurdish
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280415.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Kurd Channels ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Kurd Channels ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280413.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Kurd Max ᵁᴴᴰ ◉" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Kurd Max ᵁᴴᴰ ◉
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280409.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| ZHYAR" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| ZHYAR
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280498.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| U TV ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| U TV ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280495.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| SAUDI SUNNAH" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| SAUDI SUNNAH
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280493.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| MIHRAD" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| MIHRAD
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280488.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| MMN QURAN ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| MMN QURAN ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280485.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| LIVEDREAM ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| LIVEDREAM ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280484.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| KRD WWE ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| KRD WWE ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| KRD LD Family ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| KRD LD Family ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280479.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| DIMAN ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| DIMAN ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280476.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| BABOLY ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| BABOLY ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280474.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| DAHEN TV" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| DAHEN TV
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280468.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| CIRA TV" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| CIRA TV
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280467.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| BMC" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| BMC
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280466.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| AVA MEDIA" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| AVA MEDIA
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280463.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| ASMAN TV ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| ASMAN TV ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280455.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| NEW MAX BOX" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| NEW MAX BOX
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280444.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| ZNAR ᵁᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| ZNAR ᵁᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280443.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| TASAWF ᵁᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| TASAWF ᵁᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280441.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| LAWAN ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| LAWAN ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280438.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| NOOR ᵁᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| NOOR ᵁᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280436.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| RANYA ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| RANYA ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280434.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| ZAXO ᵁᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| ZAXO ᵁᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280432.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| DERIN ᵁᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| DERIN ᵁᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280429.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| ARO DRAMA ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| ARO DRAMA ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280427.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| JAMAWAR" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| JAMAWAR
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280426.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| BASK ᵁᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| BASK ᵁᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280425.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Aryan TV ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Aryan TV ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280422.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| KNN ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| KNN ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280412.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Bangwaz ᵁᴴᴰ ◉" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Bangwaz ᵁᴴᴰ ◉
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280411.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| A TV ᵁᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| A TV ᵁᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280410.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Kurdistan 24 ᵁᴴᴰ ◉" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Kurdistan 24 ᵁᴴᴰ ◉
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280408.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| LD SPORT ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| LD SPORT ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280502.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| ASTERA SPORT ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| ASTERA SPORT ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280462.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| SEE SPORT 1 ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| SEE SPORT 1 ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/456277.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| SEE SPORT 2 ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| SEE SPORT 2 ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/456278.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| SEE SPORT 3 ᵁᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| SEE SPORT 3 ᵁᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280440.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| NRT SPORT ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| NRT SPORT ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280437.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| ZAXO SPORT ᵁᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| ZAXO SPORT ᵁᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280431.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| ASTERA SHOW ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| ASTERA SHOW ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280461.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| ASTERA FAMILY ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| ASTERA FAMILY ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280458.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| ASTERA DOCUMENTARY" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| ASTERA DOCUMENTARY
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/280457.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Astera Culture ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Astera Culture ᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312563.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AVA ᵁᴴᴰ KURDISTAN" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",AVA ᵁᴴᴰ KURDISTAN
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/50217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| WAAR ᵁᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| WAAR ᵁᴴᴰ
+http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/50178.m3u8
 
 
 
