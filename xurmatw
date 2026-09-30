@@ -38,8 +38,7 @@ https://speda1.site/upload/images/spedahd.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Ava Media" group-title="کوردی ناوخۆیی",ku | Ava Media
-https://ava2.store/upload/ava.m3u8
+
 #EXTINF:-1 tvg-name="Shar TV" group-title="کوردی ناوخۆیی",ku | Shar TV
 http://avrstream.com:1935/live/SHARTV/playlist.m3u8
 #EXTINF:-1 tvg-name="Avar TV" group-title="کوردی ناوخۆیی",ku | Avar TV
