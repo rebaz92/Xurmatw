@@ -134,24 +134,44 @@ http://baskhd.ddns.net:40/live/baskhd/yusfstore.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Rebaz Sport 1" tvg-logo="https://solosports.b-cdn.net/wp-content/uploads/2018/06/solo_logo.png" group-title="REBAZ SPORTS 4k", Rebaz Sport 1
+#EXTINF:-1 tvg-name="Rebaz Sport 1" tvg-logo="https://solosports.b-cdn.net/wp-content/uploads/2018/06/solo_logo.png" group-title="REBAZ SPORTS 4K A", Rebaz Sport 1
 http://mhiptv.com:8080/live/hk030/6985423976/288307.ts
 
-#EXTINF:-1 tvg-name="Rebaz Sport 2" tvg-logo="https://solosports.b-cdn.net/wp-content/uploads/2018/06/solo_logo.png" group-title="REBAZ SPORTS 4k", Rebaz Sport 2
+#EXTINF:-1 tvg-name="Rebaz Sport 2" tvg-logo="https://solosports.b-cdn.net/wp-content/uploads/2018/06/solo_logo.png" group-title="REBAZ SPORTS 4K A", Rebaz Sport 2
 http://mhiptv.com:8080/live/hk030/6985423976/288304.ts
 
-#EXTINF:-1 tvg-name="Rebaz Sport 3" tvg-logo="https://solosports.b-cdn.net/wp-content/uploads/2018/06/solo_logo.png" group-title="REBAZ SPORTS 4k", Rebaz Sport 3
+#EXTINF:-1 tvg-name="Rebaz Sport 3" tvg-logo="https://solosports.b-cdn.net/wp-content/uploads/2018/06/solo_logo.png" group-title="REBAZ SPORTS 4K A", Rebaz Sport 3
 http://mhiptv.com:8080/live/hk030/6985423976/288300.ts
 
-#EXTINF:-1 tvg-name="Rebaz Sport 4" tvg-logo="https://solosports.b-cdn.net/wp-content/uploads/2018/06/solo_logo.png" group-title="REBAZ SPORTS 4k", Rebaz Sport 4
+#EXTINF:-1 tvg-name="Rebaz Sport 4" tvg-logo="https://solosports.b-cdn.net/wp-content/uploads/2018/06/solo_logo.png" group-title="REBAZ SPORTS 4K A", Rebaz Sport 4
 http://mhiptv.com:8080/live/hk030/6985423976/288285.ts
 
-#EXTINF:-1 tvg-name="Rebaz Sport 5" tvg-logo="https://solosports.b-cdn.net/wp-content/uploads/2018/06/solo_logo.png" group-title="REBAZ SPORTS 4k", Rebaz Sport 5
+#EXTINF:-1 tvg-name="Rebaz Sport 5" tvg-logo="https://solosports.b-cdn.net/wp-content/uploads/2018/06/solo_logo.png" group-title="REBAZ SPORTS 4K A", Rebaz Sport 5
 http://mhiptv.com:8080/live/hk030/6985423976/288281.ts
 
-#EXTINF:-1 tvg-name="Rebaz WWE" tvg-logo="https://solosports.b-cdn.net/wp-content/uploads/2018/06/solo_logo.png" group-title="REBAZ SPORTS 4k", Rebaz WWE
+#EXTINF:-1 tvg-name="Rebaz WWE" tvg-logo="https://solosports.b-cdn.net/wp-content/uploads/2018/06/solo_logo.png" group-title="REBAZ SPORTS 4K A", Rebaz WWE
 http://mhiptv.com:8080/live/hk030/6985423976/288276.ts
 
+
+
+
+#EXTINF:-1 tvg-name="Rebaz Sport 1" tvg-logo="https://solosports.b-cdn.net/wp-content/uploads/2018/06/solo_logo.png" group-title="REBAZ SPORTS 4K B", Rebaz Sport 1
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/250000
+
+#EXTINF:-1 tvg-name="Rebaz Sport 2" tvg-logo="https://solosports.b-cdn.net/wp-content/uploads/2018/06/solo_logo.png" group-title="REBAZ SPORTS 4K B", Rebaz Sport 2
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/250004
+
+#EXTINF:-1 tvg-name="Rebaz Sport 3" tvg-logo="https://solosports.b-cdn.net/wp-content/uploads/2018/06/solo_logo.png" group-title="REBAZ SPORTS 4K B", Rebaz Sport 3
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/250008
+
+#EXTINF:-1 tvg-name="Rebaz Sport 4" tvg-logo="https://solosports.b-cdn.net/wp-content/uploads/2018/06/solo_logo.png" group-title="REBAZ SPORTS 4K B", Rebaz Sport 4
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/250012
+
+#EXTINF:-1 tvg-name="Rebaz Sport 5" tvg-logo="https://solosports.b-cdn.net/wp-content/uploads/2018/06/solo_logo.png" group-title="REBAZ SPORTS 4K B", Rebaz Sport 5
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/250016
+
+#EXTINF:-1 tvg-name="Rebaz WWE" tvg-logo="https://solosports.b-cdn.net/wp-content/uploads/2018/06/solo_logo.png" group-title="REBAZ SPORTS 4K B", Rebaz WWE
+http://sts.mydroon.com:8080/9127491274/QDXDbuLzFDYaYbD/250028
 
 
 
