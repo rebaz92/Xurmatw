@@ -38,369 +38,143 @@ https://speda1.site/upload/images/spedahd.m3u8
 
 
 
-
+#EXTM3U
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Soran tv
+http://avrstream.com:1935/live/SoranEntertainment/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Bangawaz tv
+http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Halabja tv
+http://halabjatv.ddns.net:40/live/halabjatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Sada tv
+http://sada-hd.ddns.net:40/live/sadatv/index.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Avar tv
+http://avrstream.com:1935/live/AvarTv/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Euro tv
+http://baskhd.ddns.net:40/live/Eurokurd/index.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Rwdaw tv
+https://live.rudaw.net/hls/rudaw-tv/master.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Kanaal 8
+https://live.channel8.com/Channel8-Kurdish/index.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",One tv
+https://lbgo.bozztv.com/ssh101/ssh101/oneplus4k/chunks.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",One kids
+https://lbgo.bozztv.com/ssh101/ssh101/onekids4k/chunks.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDSAT NEWS
+https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Kerkuk tv
+https://live.kirkuklive.live/hls/stream/index.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Mirna tv
+http://161.97.123.126:8081/stream/mirna/master.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Welat tv
+https://stream.badinan.xyz/welat/tv/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",4 Kurd
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Walla tv
+https://live20.bozztv.com/giatv/giatv-wallatv88/wallatv88/chunks.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Hormzyar tv
+http://avrstream.com:1935/live/HormzyarHD/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Barin tv
+http://baskhd.ddns.net:40/live/BarinfamilyHD/mono.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Baring Quran
+http://baskhd.ddns.net:40/live/QURANHDTV/mono.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Infinity tv
+https://cdn.karwan.tv/infinity-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Mix Kurdi
+http://avrstream.com:1935/live/Mix-kurdy/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Gawhar tv
+https://cdn.karwan.tv/gewher-tv/index.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Ranya tv
+https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Dangi Zullal
+https://dengetv.ozelip.com:3143/live/dengelive.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Shar tv
+http://avrstream.com:1935/live/SHARTV/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Soz tv
+https://live20.bozztv.com/giatv/giatv-sozetv/sozetv/chunks.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Gawhar sport
+https://cdn.karwan.tv/gewher-sport/index.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Bask tv
+http://baskhd2.ddns.net:1935/live/basktv/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Afarin tv
+http://afarintv.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Afarin buxche
+http://afarintv2.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Znar kids
+https://live20.bozztv.com/giatv/giatv-znarkids/znarkids/chunks.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Spi kids
+https://live20.bozztv.com/giatv/giatv-spikids4k2025/spikids4k2025/chunks.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Garantie tv
+https://live20.bozztv.com/giatv/giatv-halabja88garyan/halabja88garyan/chunks.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Kanali Azhalan
+https://live20.bozztv.com/giatv/giatv-animalbox/animalbox/chunks.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Znar tv
+https://live20.bozztv.com/giatv/giatv-znar/znar/chunks.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Derin tv
+http://baskhd.ddns.net:40/live/Derin/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",GK tv
+https://live.host247.net//gk//gksat//chunklist_w950982176.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Kurdistan tv
+https://5a3ed7a72ed4b.streamlock.net//live//SMIL:myStream.smil//chunklist_w1791118443_b1700000_sleng_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",MMN news
+http://mmn.mypsx.net:1935//live//mmnhdnews//playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",MMN Quran
+http://mmn.mypsx.net:1935//live//mmnhdquran//playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Amozhgary 1
+https://app-live.org//live//3268334b//index.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Amozhgary 2
+https://app-live.org//live//a267c1b3//index.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",MMN Show
+http://mmn.mypsx.net:1935//live//mmnhddshow//playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",MMN Movie
+http://mmn.mypsx.net:1935//live//mmnhdmovies//playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",MMN Dukomentary
+http://mmn.mypsx.net:1935//live//mmnhddocumentary//playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",MMN Action
+http://mmn.mypsx.net:1935//live//mmnhdaction//playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Sterk tv
+https://hlspackager.akamaized.net//live//DB//STERK_TV//HLS//STERK_TV.m3u8
 #EXTINF:-1 group-title="کوردی ناوخۆیی",Shams tv
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/1951032.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Rudaw TV ᴴᴰ ku
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129980.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",K24 ᴴᴰ ku
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129979.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",AVA TV ku
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129968.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",CHANNEL 8
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/606601.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Kurdsat TV ᴴᴰ ku
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129973.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Kurdsat News ᴴᴰ ku
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129974.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Gali Kurdistan TV
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129965.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KIRKUK TV
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/29289.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NRT 1 ᴴᴰ ku
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129978.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDMAX ᵁᴴᴰ KUR
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312633.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDMAX ᵁᴴᴰ SOR
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312634.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NRT 2 ᴴᴰ ku Sorani
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129977.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Khak ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312594.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Sahar Kurdi TV
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129955.ts
-#EXTINF:-1 tvg-id="" tvg-name="Gewher HD" tvg-logo="" group-title="کوردی ناوخۆیی",|KRD| Gewher TV
-https://iptv-link.short.gy/Gewher.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی",FOX ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/456267.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Kurd TV
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129887.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KurdMax Kurmanji ᴴᴰ ku
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129971.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ATV KURD ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312564.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Reng TV ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129919.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Euro Kurd ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280470.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NewLine 1 ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129899.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NewLine 2 ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129900.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Speda Drama ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129929.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Biaban Family ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129817.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Derwaze TV ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129832.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Duhok TV
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129835.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",DUHOK TV
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312582.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Duhok Sports ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129834.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Helhelok TV
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129841.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Ishtar ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129848.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ZOOM
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/1073891.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Kurd Show ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129883.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Minara ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129888.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Niga Family ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129906.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",XABIR ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/456279.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Medya Haber ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/197297.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Rasan ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129915.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Reng Document ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129916.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Srusht ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129931.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Amozhgary ᴴᴰ KU.
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/86267.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Waar TV ᴴᴰ KU.
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/86275.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",BINER ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/456258.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",DIMEN ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/456262.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",MINBIJ TV
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/6421.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",PAYAM
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/29295.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",MINHRAB ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280442.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",WAAR ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/29296.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Payam TV ku
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129957.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",RONAHI TV
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/29297.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Ronahi TV ku
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129951.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Sterk TV
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/58615.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Sterk TV ku
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129953.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Amozhgary TV ᴴᴰ ku
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129960.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",AMOZHGARY TV ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280454.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Aryen TV ku
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129952.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",AVA Entertainment
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129967.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Bangawaz TV ku
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129958.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Cira TV ku
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129950.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Iraqia Kurdish TV
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129956.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Jin ᴴᴰ ku
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129938.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Komal TV
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129940.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Kurdistan TV ᴴᴰ ku
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129963.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KurdMax Show ᴴᴰ ku Sorani
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129970.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NRT 4 ᴴᴰ ku
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129975.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",AMED TV
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/456254.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ASO SPORT TV
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/456256.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",FIRST KIDS ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/456266.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Kurdistan TV
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/31214.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Rojava ᴴᴰ ku
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129939.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",QALAM TV
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312553.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",K24 Documentary ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312554.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KU - NET ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312555.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ᵁᴴᴰURD ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312556.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Aro Family
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312560.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Azhin ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312565.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Barin Family ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312567.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Barin ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312568.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Barin Quran ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312570.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",BEFRIN ᴴᴰ (ONLY LIVE)
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312571.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",BK4 ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312572.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Dasinya TV ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312579.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Delal TV ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312580.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Eman TV
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312583.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",First ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312584.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",iRaqia Kurdi ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312590.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Kalapor Tv
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312592.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KTV ᵁᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312620.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KURD TV ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312623.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Kurdistan 24 ᵁᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312629.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDISTAN ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312630.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Life ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312635.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",MMN Action ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312638.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",MMN Clipᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312641.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",MMN Drama ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312642.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",MMN Radio Turk ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312645.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",MMN Showᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312646.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Newline Sport ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312651.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Nishtimani Mn ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312659.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NISHTIMANY MN
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312660.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NOHADRA ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312661.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Nubar Sport  ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312664.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NUJEN TV
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312666.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",PIROOZ TV ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312670.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",QALAM AYINI ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312672.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",QALAT ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312675.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",RASOULALLAH TV
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312676.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ROJHELAT TV
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312681.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ROUH ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312682.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",SIMA DOCUMENTARY ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312686.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",SIMA ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312687.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",SOZ ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312689.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",SOZ QURAN TV
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312690.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",SUBORO TV
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312691.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",SUROYO TV
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312693.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Suryoyo Sat
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/496351.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",U TV
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312694.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",WASELA QURAN ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312726.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",WWE ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312727.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ZNAR ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312733.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",EZDAN TV
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312737.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",GELI KURDISTAN TV ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312738.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",LIFE ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312740.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",SADA TV
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312744.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",SIMA ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312746.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KNN ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/185937.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Speda TV ᴴᴰ ku
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129959.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Kani TV
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/150570.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",K4U  TV
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/150589.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",TRT Kurdi ku
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129945.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Waar TV ᴴᴰ ku
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129964.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Zagros TV ᴴᴰ ku
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/129962.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDSHOW ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280482.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",IMN Kurdish
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280415.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Kurd Channels ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280413.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Kurd Max ᵁᴴᴰ ◉
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280409.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ZHYAR
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280498.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",U TV ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280495.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",SAUDI SUNNAH
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280493.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",MIHRAD
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280488.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",MMN QURAN ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280485.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",LIVEDREAM ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280484.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KRD WWE ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280480.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KRD LD Family ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280479.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",DIMAN ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280476.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",BABOLY ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280474.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",DAHEN TV
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280468.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",CIRA TV
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280467.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",BMC
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280466.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",AVA MEDIA
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280463.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ASMAN TV ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280455.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NEW MAX BOX
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280444.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ZNAR ᵁᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280443.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",TASAWF ᵁᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280441.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",LAWAN ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280438.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NOOR ᵁᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280436.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",RANYA ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280434.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ZAXO ᵁᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280432.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",DERIN ᵁᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280429.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ARO DRAMA ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280427.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",JAMAWAR
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280426.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",BASK ᵁᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280425.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Aryan TV ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280422.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KNN ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280412.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Bangwaz ᵁᴴᴰ ◉
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280411.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",A TV ᵁᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280410.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Kurdistan 24 ᵁᴴᴰ ◉
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280408.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",LD SPORT ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280502.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ASTERA SPORT ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280462.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",SEE SPORT 1 ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/456277.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",SEE SPORT 2 ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/456278.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",SEE SPORT 3 ᵁᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280440.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NRT SPORT ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280437.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ZAXO SPORT ᵁᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280431.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ASTERA SHOW ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280461.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ASTERA FAMILY ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280458.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ASTERA DOCUMENTARY
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/280457.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Astera Culture ᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/312563.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",AVA ᵁᴴᴰ KURDISTAN
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/50217.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",WAAR ᵁᴴᴰ
-http://dramatv4k.xyz:8080/live/maataoui_901883/2Ijh8Dno/50178.ts
+https://stream.shams.tv/hls/0/stream.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Waar tv
+https://live.kwikmotion.com//waarmedialive//waarmedia.smil//waarmediapublish//waarmedia_source//chunks.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Iraqiya Kurdi
+https://imn-live.esite-lab.com//hls//iraqia-kurdish.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",MMN Sport
+http://mmn.mypsx.net:1935//live//mmnhdsport//playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Komal tv
+https://lbgo.bozztv.com/ssh101/ssh101/onetvkomall/chunks.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Zagros tv
+https://5a3ed7a72ed4b.streamlock.net//zagrostv//SMIL:myStream.smil//playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Zarok tv
+https://zindisorani.zaroktv.com.tr/hls/0/stream.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Trt Kurdi
+https://tv-trtkurdi.medya.trt.com.tr//master_720.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Ava tv
+http://hlspackager.akamaized.net:80/live/DB/AVA_TV/HLS/AVA_TV-avc1_2500000=10002.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Khak tv
+http://khakhd.ddns.net:1935/stream/khakhd/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Shna tv
+http://shnatv.ddns.net:1935/live/shnatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Rawshan tv
+http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Dunya tv
+http://dunyahd.ddns.net:80/live/DunyaHd/index.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",IMK tv
+http://imkhd.ddns.net:1935/live/imkhd/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",IMK Quran
+http://avrstream.com:1935/live/IMKQURANHD/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Mihrab tv
+http://baskhd.ddns.net:40/live/MihrabTV/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Ala tv
+http://avrstream.com:1935/live/ala-hd/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Kidko kids
+http://avrstream.com:1935/live/kidcohd/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Red tv
+http://avrstream.com:1935/live/REDTV/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Ashti tv
+http://avrstream.com:1935/live/AshtiTV/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",رسول الله
+http://avrstream.com:1935/live/rasoulallahtv/tracks-v1a1/mono.m3u8
 
 
 
