@@ -38,7 +38,7 @@ https://speda1.site/upload/images/spedahd.m3u8
 
 
 
-#EXTM3U
+
 #EXTINF:-1 group-title="کوردی ناوخۆیی",Soran tv
 http://avrstream.com:1935/live/SoranEntertainment/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="کوردی ناوخۆیی",Bangawaz tv
@@ -95,14 +95,6 @@ https://live20.bozztv.com/giatv/giatv-sozetv/sozetv/chunks.m3u8
 https://cdn.karwan.tv/gewher-sport/index.m3u8
 #EXTINF:-1 group-title="کوردی ناوخۆیی",Bask tv
 http://baskhd2.ddns.net:1935/live/basktv/playlist.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Afarin tv
-http://afarintv.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Afarin buxche
-http://afarintv2.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Znar kids
-https://live20.bozztv.com/giatv/giatv-znarkids/znarkids/chunks.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Spi kids
-https://live20.bozztv.com/giatv/giatv-spikids4k2025/spikids4k2025/chunks.m3u8
 #EXTINF:-1 group-title="کوردی ناوخۆیی",Garantie tv
 https://live20.bozztv.com/giatv/giatv-halabja88garyan/halabja88garyan/chunks.m3u8
 #EXTINF:-1 group-title="کوردی ناوخۆیی",Kanali Azhalan
@@ -379,11 +371,17 @@ http://arabitv5.com:8000/Montaha.Maarouf/Maarouf.56432976/52034
 #EXTINF:-1 group-title="Kids",Gewher Kids
 https://iptv-link.short.gy/Gewher_Kids.m3u8
 
-#EXTINF:-1 group-title="Kids",Afarin HD
-http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667741&extension=ts
+#EXTINF:-1 group-title="Kids",Afarin tv
+http://afarintv.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
 
-#EXTINF:-1 group-title="Kids",Afarin Baxcha HD
-http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667742&extension=ts
+#EXTINF:-1 group-title="Kids",Afarin baxche
+http://afarintv2.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids",Znar kids
+https://live20.bozztv.com/giatv/giatv-znarkids/znarkids/chunks.m3u8
+
+#EXTINF:-1 group-title="Kids",Spi kids
+https://live20.bozztv.com/giatv/giatv-spikids4k2025/spikids4k2025/chunks.m3u8
 
 #EXTINF:-1 group-title="Kids",NRT 3 Kids
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1666459&extension=ts
