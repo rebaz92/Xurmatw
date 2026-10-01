@@ -70,8 +70,8 @@ http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129977.m3u8
 http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/312594.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|KRD| Sahar Kurdi TV" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| Sahar Kurdi TV
 http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129955.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|KRD| FOX ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| FOX ᴴᴰ
-http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/456267.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|KRD| Gewher TV" tvg-logo="" group-title="کوردی ناوخۆیی",|KRD| Gewher TV
+https://iptv-link.short.gy/Gewher.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|KRD|  Kurd TV" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD|  Kurd TV
 http://drm.mhb25.click:80/live/oj6gog9ohv/iq1wtlkwen/129887.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|KRD| KurdMax Kurmanji ᴴᴰ ku" tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg" group-title="کوردی ناوخۆیی",|KRD| KurdMax Kurmanji ᴴᴰ ku
@@ -601,7 +601,9 @@ http://arabitv5.com:8000/Montaha.Maarouf/Maarouf.56432976/52034
 
 
 
-#EXTINF:-1 group-title="  مندا?ان",
+#EXTINF:-1 group-title="Kids",Gewher Kids
+https://iptv-link.short.gy/Gewher_Kids.m3u8
+
 #EXTINF:-1 group-title="Kids",Afarin HD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667741&extension=ts
 
