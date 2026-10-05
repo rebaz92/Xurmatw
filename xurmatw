@@ -27,7 +27,7 @@ https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8
 https://live.host247.net/gk/gksat/chunklist_w615970821.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Kirkuk HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSezjBsxH5H_hbDvQQmNtQIAHGZMyCuKd_mqw0XZJPQWw&s=10" group-title="کوردی هەواڵ",Kirkuk HD
-https://live.kirkuklive.live/hls/stream/index.m3u8
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54075.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Payam HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzorO5obHvf3MFk_v3fBwO2_UtEWQpzaVh3lKf0bx0Gj0QmXXZYr7nRp8&s=10" group-title="کوردی هەواڵ",Payam HD
 https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
@@ -74,12 +74,6 @@ http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54101.ts
 http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54094.ts
 #EXTINF:-1 group-title="کوردی ناوخۆیی",ZAGROS HD PLUS
 http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54108.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",DUHOK SPORT HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/732990.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ASO SPORT HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771667.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",DASINYA SPORT HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771659.ts
 #EXTINF:-1 group-title="کوردی ناوخۆیی",MMN KIDS HD
 http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771663.ts
 #EXTINF:-1 group-title="کوردی ناوخۆیی",MMN MOVIES HD
@@ -94,7 +88,7 @@ http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/772720.ts
 http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/772721.ts
 #EXTINF:-1 group-title="کوردی ناوخۆیی",BNAR HD
 http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/772722.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Mukrian TV
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Komala TV
 http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/772719.ts
 #EXTINF:-1 group-title="کوردی ناوخۆیی",NRT 3 KIDS
 http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54114.ts
@@ -102,8 +96,6 @@ http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54114.ts
 http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771653.ts
 #EXTINF:-1 group-title="کوردی ناوخۆیی",KURDMAX (SORANI)
 http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771672.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KIRKUK TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54075.ts
 #EXTINF:-1 group-title="کوردی ناوخۆیی",K24
 http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54083.ts
 #EXTINF:-1 group-title="کوردی ناوخۆیی",MEDYA HABER TV
@@ -132,10 +124,6 @@ http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/301568.ts
 http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54071.ts
 #EXTINF:-1 group-title="کوردی ناوخۆیی",NEWMAX MUSIC TV
 http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771658.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",SEE SPORT 3
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/344542.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ZAXO SPORT
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/344543.ts
 #EXTINF:-1 group-title="کوردی ناوخۆیی",MMN SHOW TV
 http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771655.ts
 #EXTINF:-1 group-title="کوردی ناوخۆیی",MMN ACTION TV
@@ -396,8 +384,6 @@ http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034759.ts
 http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034762.ts
 #EXTINF:-1 group-title="کوردی ناوخۆیی",RENG DOCUMENT HD
 http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034763.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",LD Sport 1 HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034771.ts
 #EXTINF:-1 group-title="کوردی ناوخۆیی",Dimen HD
 http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034774.ts
 #EXTINF:-1 group-title="کوردی ناوخۆیی",KHAK HD
@@ -464,8 +450,6 @@ http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034827.ts
 http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034828.ts
 #EXTINF:-1 group-title="کوردی ناوخۆیی",BMC
 http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034830.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",DASINYA SPORT
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034834.ts
 #EXTINF:-1 group-title="کوردی ناوخۆیی",DUHOK TV
 http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034835.ts
 #EXTINF:-1 group-title="کوردی ناوخۆیی",See Sport 3 HD
@@ -535,14 +519,29 @@ http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1328374.ts
 #EXTINF:-1 tvg-name=" NRT Sport HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSl8nHshPX09y2qUBPv6ikuK25rTFP2o3sgWWFwfcNK9T7y4TSTi3IvV4&s=10" group-title="Kurdistan sports", NRT Sport HD
 http://dreamteev.xyz/live/Abdillahmaison/BMAUAWX/805984.ts
 
-#EXTINF:-1 tvg-name=" Astera Sport HD" tvg-logo="https://yt3.googleusercontent.com/yK8Z2HsvKjxgEc3mgieHhSJ2y0HbPpM-gjLN6HVxk2hlWrbJEbzhGitU_C44_43jUgBcjdES=s900-c-k-c0x00ffffff-no-rj" group-title="Kurdistan sports", Astera Sport HD
-http://sans7.org:88/02095188864772/jsmuKOEvzgSTt0M/190026
+#EXTINF:-1 tvg-name=" ASO Sport HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN4GXkPKlwvwHFEFqK24bgWFv3jlV4tea5qQ4Pm3Na2mPPrRw1ypvTR84D&s=10" group-title="Kurdistan sports", ASO Sport FHD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771667.ts
 
 #EXTINF:-1 tvg-name=" Gewher Sport HD" tvg-logo="" group-title="Kurdistan sports", Gewher Sport HD
 https://iptv-link.short.gy/Gewher_Sport.m3u8
 
 #EXTINF:-1 tvg-name=" LD Sport HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyEiyl2PhECUtt6XquVyXgqps306DA5zTE4LHr-UjlWEPd0NfXU5k2Huz_&s=10" group-title="Kurdistan sports", LD Sport HD
-http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDOTAvaWsvWHViWGljVnpVbGpSVnVPTT0
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034771.ts
+
+#EXTINF:-1 group-title="Kurdistan sports",DASINYA SPORT
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034834.ts
+
+#EXTINF:-1 group-title="Kurdistan sports",DUHOK SPORT HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/732990.ts
+
+#EXTINF:-1 tvg-name=" Astera Sport HD" tvg-logo="https://yt3.googleusercontent.com/yK8Z2HsvKjxgEc3mgieHhSJ2y0HbPpM-gjLN6HVxk2hlWrbJEbzhGitU_C44_43jUgBcjdES=s900-c-k-c0x00ffffff-no-rj" group-title="Kurdistan sports", Astera Sport HD
+http://sans7.org:88/02095188864772/jsmuKOEvzgSTt0M/190026
+
+#EXTINF:-1 group-title="Kurdistan sports",ZAXO SPORT
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/344543.ts
+
+#EXTINF:-1 group-title="Kurdistan sports",SEE SPORT 3
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/344542.ts
 
 #EXTINF:-1 tvg-name=" LD Sport Chek HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTEeLmITaTUdGNcIomeFqJaohzfMny39eymmm0IPm99Ws8ivQ-o4z0PaI&s=10" group-title="Kurdistan sports", LD Sport Chek HD
 http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDMysraURqUVNrY2VxemN4VjRWYUdQOD0
@@ -551,8 +550,6 @@ http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDMysraURqUVNrY2VxemN4VjRWYU
 #EXTINF:-1 tvg-name=" RENG Sport HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiaVOVhr9M-rAri229rONI5AgGUWEjozftqzaAdSGGu8p3eNg5f203wPhM&s=10" group-title="Kurdistan sports", RENG Sport HD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667739&extension=ts
 
-#EXTINF:-1 tvg-name=" ASO Sport FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN4GXkPKlwvwHFEFqK24bgWFv3jlV4tea5qQ4Pm3Na2mPPrRw1ypvTR84D&s=10" group-title="Kurdistan sports", ASO Sport FHD
-http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDODVWMDg0TzYya0VVUGc5QUtGWUNFTT0
 
 
 
