@@ -338,8 +338,6 @@ http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/801213.ts
 http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/803915.ts
 #EXTINF:-1 group-title="کوردی ناوخۆیی",KOMALA TV / SHORA TV
 http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/804044.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",DUHOK SPORTS
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/804064.ts
 #EXTINF:-1 group-title="کوردی ناوخۆیی",AFARIN BAXCHA TV
 http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/804207.ts
 #EXTINF:-1 group-title="کوردی ناوخۆیی",ARO FAMILY
@@ -532,7 +530,7 @@ http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034771.ts
 http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034834.ts
 
 #EXTINF:-1 group-title="Kurdistan sports",DUHOK SPORT HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/732990.ts
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/804064.ts
 
 #EXTINF:-1 tvg-name=" Astera Sport HD" tvg-logo="https://yt3.googleusercontent.com/yK8Z2HsvKjxgEc3mgieHhSJ2y0HbPpM-gjLN6HVxk2hlWrbJEbzhGitU_C44_43jUgBcjdES=s900-c-k-c0x00ffffff-no-rj" group-title="Kurdistan sports", Astera Sport HD
 http://sans7.org:88/02095188864772/jsmuKOEvzgSTt0M/190026
