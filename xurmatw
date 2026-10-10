@@ -552,34 +552,33 @@ http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=166773
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ALWAN SPORT 1 4K" tvg-logo="" group-title="ALWAN SPORT 4K A",ALWAN SPORT 1 4K
-http://het2.maxtraffic.homes/222219/tracks-v1a1/mono.m3u8
-
+http://tvline.cc:80/live/EDRJUE6/04X9JQ8/1339213.ts
 #EXTINF:-1 tvg-id="" tvg-name="ALWAN SPORT 2 4K" tvg-logo="" group-title="ALWAN SPORT 4K A",ALWAN SPORT 2 4K
-http://het2.maxtraffic.homes/222220/tracks-v1a1/mono.m3u8
+http://tvline.cc:80/live/EDRJUE6/04X9JQ8/1339214.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ALWAN SPORT 3 4K" tvg-logo="" group-title="ALWAN SPORT 4K A",ALWAN SPORT 3 4K
-http://het2.maxtraffic.homes/222221/tracks-v1a1/mono.m3u8
+http://tvline.cc:80/live/EDRJUE6/04X9JQ8/1339215.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ALWAN SPORT 4 4K" tvg-logo="" group-title="ALWAN SPORT 4K A",ALWAN SPORT 4 4K
-http://het2.maxtraffic.homes/222222/tracks-v1a1/mono.m3u8
+http://tvline.cc:80/live/EDRJUE6/04X9JQ8/1339216.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ALWAN SPORT 5 4K" tvg-logo="" group-title="ALWAN SPORT 4K A",ALWAN SPORT 5 4K
-http://het2.maxtraffic.homes/222223/tracks-v1a1/mono.m3u8
+http://tvline.cc:80/live/EDRJUE6/04X9JQ8/1339217.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ALWAN SPORT 6 4K" tvg-logo="" group-title="ALWAN SPORT 4K A",ALWAN SPORT 6 4K
-http://het2.maxtraffic.homes/222224/tracks-v1a1/mono.m3u8
+http://tvline.cc:80/live/EDRJUE6/04X9JQ8/1339218.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ALWAN SPORT 7 4K" tvg-logo="" group-title="ALWAN SPORT 4K A",ALWAN SPORT 7 4K
-http://mhiptv.com:8080/live/hk030/6985423976/241382.ts
+http://tvline.cc:80/live/EDRJUE6/04X9JQ8/1339219.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ALWAN SPORT 8 4K" tvg-logo="" group-title="ALWAN SPORT 4K A",ALWAN SPORT 8 4K
-http://mhiptv.com:8080/live/hk030/6985423976/241383.ts
+http://tvline.cc:80/live/EDRJUE6/04X9JQ8/1339220.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ALWAN SPORT 9 4K" tvg-logo="" group-title="ALWAN SPORT 4K A",ALWAN SPORT 9 4K
-http://mhiptv.com:8080/live/hk030/6985423976/241384.ts
+http://tvline.cc:80/live/EDRJUE6/04X9JQ8/1339221.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ALWAN SPORT 10 4K" tvg-logo="" group-title="ALWAN SPORT 4K A",ALWAN SPORT 10 4K
-http://mhiptv.com:8080/live/hk030/6985423976/241385.ts
+http://tvline.cc:80/live/EDRJUE6/04X9JQ8/1339222.ts
 
 
 
