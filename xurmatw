@@ -90,8 +90,6 @@ http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/772721.ts
 http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/772722.ts
 #EXTINF:-1 group-title="کوردی ناوخۆیی",Komala TV
 http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/772719.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NRT 3 KIDS
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54114.ts
 #EXTINF:-1 group-title="کوردی ناوخۆیی",KURDMAX PEPULE
 http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771653.ts
 #EXTINF:-1 group-title="کوردی ناوخۆیی",KURDMAX (SORANI)
@@ -710,10 +708,10 @@ https://live20.bozztv.com/giatv/giatv-znarkids/znarkids/chunks.m3u8
 https://live20.bozztv.com/giatv/giatv-spikids4k2025/spikids4k2025/chunks.m3u8
 
 #EXTINF:-1 group-title="Kids",NRT 3 Kids
-http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1666459&extension=ts
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54114.ts
 
 #EXTINF:-1 group-title="Kids",ONE Kids
-http://217.76.62.187/hls/kids.m3u8
+https://183.bozztv.com/giatv/giatv-onekids/onekids/chunks.m3u8
 
 #EXTINF:-1 group-title="Kids",Astera Baby HD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667743&extension=ts
