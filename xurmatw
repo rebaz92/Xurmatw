@@ -223,6 +223,10 @@ http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54116.ts
 http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54115.ts
 #EXTINF:-1 tvg-name="Soran Entertainment" group-title="کوردی ناوخۆیی",Soran Entertainment
 http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
+#EXTINF:-1 tvg-name="Hormzyar HD" group-title="کوردی ناوخۆیی",Hormzyar HD
+http://avrstream.com:1935/live/HormzyarHD/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Kalhur TV
+https://live20.bozztv.com:443/giatv/giatv-kalhurtv/kalhurtv/chunks.m3u8
 #EXTINF:-1 group-title="کوردی ناوخۆیی",KURDMAX HD KUR
 http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54113.ts
 #EXTINF:-1 group-title="کوردی ناوخۆیی",KURDMAX HD SOR
