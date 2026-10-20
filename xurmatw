@@ -775,237 +775,70 @@ https://ssl22.radyotelekom.com:8224/stream
 #EXTINF:-1 tvg-id="" tvg-name="Walla FM" tvg-logo="" group-title="Kurdish Radio",Walla Fm.
 https://cdn.karwan.tv/WALAFM/index.m3u815:02
 -----------------------------
-Ramazan Shulur Quran
------------------------------
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الفاتحة
-https://server6.mp3quran.net/shakoor/001.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة البقرة
-https://server6.mp3quran.net/shakoor/002.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة آل عمران
-https://server6.mp3quran.net/shakoor/003.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة النساء
-https://server6.mp3quran.net/shakoor/004.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة المائدة
-https://server6.mp3quran.net/shakoor/005.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الأنعام
-https://server6.mp3quran.net/shakoor/006.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الأعراف
-https://server6.mp3quran.net/shakoor/007.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الأنفال
-https://server6.mp3quran.net/shakoor/008.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة التوبة
-https://server6.mp3quran.net/shakoor/009.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة يونس
-https://server6.mp3quran.net/shakoor/010.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة هود
-https://server6.mp3quran.net/shakoor/011.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة يوسف
-https://server6.mp3quran.net/shakoor/012.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الرعد
-https://server6.mp3quran.net/shakoor/013.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة إبراهيم
-https://server6.mp3quran.net/shakoor/014.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الحجر
-https://server6.mp3quran.net/shakoor/015.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة النحل
-https://server6.mp3quran.net/shakoor/016.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الإسراء
-https://server6.mp3quran.net/shakoor/017.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الكهف
-https://server6.mp3quran.net/shakoor/018.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة مريم
-https://server6.mp3quran.net/shakoor/019.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة طه
-https://server6.mp3quran.net/shakoor/020.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الأنبياء
-https://server6.mp3quran.net/shakoor/021.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الحج
-https://server6.mp3quran.net/shakoor/022.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة المؤمنون
-https://server6.mp3quran.net/shakoor/023.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة النور
-https://server6.mp3quran.net/shakoor/024.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الفرقان
-https://server6.mp3quran.net/shakoor/025.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الشعراء
-https://server6.mp3quran.net/shakoor/026.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة النمل
-https://server6.mp3quran.net/shakoor/027.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة القصص
-https://server6.mp3quran.net/shakoor/028.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة العنكبوت
-https://server6.mp3quran.net/shakoor/029.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الروم
-https://server6.mp3quran.net/shakoor/030.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة لقمان
-https://server6.mp3quran.net/shakoor/031.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة السجدة
-https://server6.mp3quran.net/shakoor/032.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الأحزاب
-https://server6.mp3quran.net/shakoor/033.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة سبأ
-https://server6.mp3quran.net/shakoor/034.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة فاطر
-https://server6.mp3quran.net/shakoor/035.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة يس
-https://server6.mp3quran.net/shakoor/036.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الصافات
-https://server6.mp3quran.net/shakoor/037.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة ص
-https://server6.mp3quran.net/shakoor/038.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الزمر
-https://server6.mp3quran.net/shakoor/039.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة غافر
-https://server6.mp3quran.net/shakoor/040.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة فصلت
-https://server6.mp3quran.net/shakoor/041.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الشورى
-https://server6.mp3quran.net/shakoor/042.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الزخرف
-https://server6.mp3quran.net/shakoor/043.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الدخان
-https://server6.mp3quran.net/shakoor/044.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الجاثية
-https://server6.mp3quran.net/shakoor/045.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الأحقاف
-https://server6.mp3quran.net/shakoor/046.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة محمد
-https://server6.mp3quran.net/shakoor/047.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الفتح
-https://server6.mp3quran.net/shakoor/048.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الحجرات
-https://server6.mp3quran.net/shakoor/049.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة ق
-https://server6.mp3quran.net/shakoor/050.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الذاريات
-https://server6.mp3quran.net/shakoor/051.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الطور
-https://server6.mp3quran.net/shakoor/052.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة النجم
-https://server6.mp3quran.net/shakoor/053.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة القمر
-https://server6.mp3quran.net/shakoor/054.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الرحمن
-https://server6.mp3quran.net/shakoor/055.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الواقعة
-https://server6.mp3quran.net/shakoor/056.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الحديد
-https://server6.mp3quran.net/shakoor/057.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة المجادلة
-https://server6.mp3quran.net/shakoor/058.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الحشر
-https://server6.mp3quran.net/shakoor/059.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الممتحنة
-https://server6.mp3quran.net/shakoor/060.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الصف
-https://server6.mp3quran.net/shakoor/061.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الجمعة
-https://server6.mp3quran.net/shakoor/062.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة المنافقون
-https://server6.mp3quran.net/shakoor/063.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة التغابن
-https://server6.mp3quran.net/shakoor/064.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الطلاق
-https://server6.mp3quran.net/shakoor/065.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة التحريم
-https://server6.mp3quran.net/shakoor/066.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الملك
-https://server6.mp3quran.net/shakoor/067.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة القلم
-https://server6.mp3quran.net/shakoor/068.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الحاقة
-https://server6.mp3quran.net/shakoor/069.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة المعارج
-https://server6.mp3quran.net/shakoor/070.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة نوح
-https://server6.mp3quran.net/shakoor/071.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الجن
-https://server6.mp3quran.net/shakoor/072.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة المزمل
-https://server6.mp3quran.net/shakoor/073.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة المدثر
-https://server6.mp3quran.net/shakoor/074.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة القيامة
-https://server6.mp3quran.net/shakoor/075.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الإنسان
-https://server6.mp3quran.net/shakoor/076.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة المرسلات
-https://server6.mp3quran.net/shakoor/077.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة النبأ
-https://server6.mp3quran.net/shakoor/078.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة النازعات
-https://server6.mp3quran.net/shakoor/079.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة عبس
-https://server6.mp3quran.net/shakoor/080.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة التكوير
-https://server6.mp3quran.net/shakoor/081.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الانفطار
-https://server6.mp3quran.net/shakoor/082.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة المطففين
-https://server6.mp3quran.net/shakoor/083.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الانشقاق
-https://server6.mp3quran.net/shakoor/084.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة البروج
-https://server6.mp3quran.net/shakoor/085.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الطارق
-https://server6.mp3quran.net/shakoor/086.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الأعلى
-https://server6.mp3quran.net/shakoor/087.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الغاشية
-https://server6.mp3quran.net/shakoor/088.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الفجر
-https://server6.mp3quran.net/shakoor/089.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة البلد
-https://server6.mp3quran.net/shakoor/090.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الشمس
-https://server6.mp3quran.net/shakoor/091.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الليل
-https://server6.mp3quran.net/shakoor/092.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الضحى
-https://server6.mp3quran.net/shakoor/093.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الشرح
-https://server6.mp3quran.net/shakoor/094.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة التين
-https://server6.mp3quran.net/shakoor/095.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة العلق
-https://server6.mp3quran.net/shakoor/096.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة القدر
-https://server6.mp3quran.net/shakoor/097.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة البينة
-https://server6.mp3quran.net/shakoor/098.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الزلزلة
-https://server6.mp3quran.net/shakoor/099.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة العاديات
-https://server6.mp3quran.net/shakoor/100.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة القارعة
-https://server6.mp3quran.net/shakoor/101.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة التكاثر
-https://server6.mp3quran.net/shakoor/102.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة العصر
-https://server6.mp3quran.net/shakoor/103.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الهمزة
-https://server6.mp3quran.net/shakoor/104.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الفيل
-https://server6.mp3quran.net/shakoor/105.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة قريش
-https://server6.mp3quran.net/shakoor/106.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الماعون
-https://server6.mp3quran.net/shakoor/107.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الكوثر
-https://server6.mp3quran.net/shakoor/108.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الكافرون
-https://server6.mp3quran.net/shakoor/109.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة النصر
-https://server6.mp3quran.net/shakoor/110.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة المسد
-https://server6.mp3quran.net/shakoor/111.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الإخلاص
-https://server6.mp3quran.net/shakoor/112.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الفلق
-https://server6.mp3quran.net/shakoor/113.mp3
-#EXTINF:-1 group-title="Ramazan Shkur Quran",سورة الناس
-https://server6.mp3quran.net/shakoor/114.mp3
 
+
+
+
+#EXTINF:-1 group-title="القرآن الکریم",اسلام صبحي
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909118.ts
+#EXTINF:-1 group-title="القرآن الکریم",سعيد الغامدي
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909119.ts
+#EXTINF:-1 group-title="القرآن الکریم",عبدالرحمن مسعد
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909120.ts
+#EXTINF:-1 group-title="القرآن الکریم",علي الحذيفي
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909121.ts
+#EXTINF:-1 group-title="القرآن الکریم",منصور السالمي
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909122.ts
+#EXTINF:-1 group-title="القرآن الکریم",هزاع البلوشي
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909123.ts
+#EXTINF:-1 group-title="القرآن الکریم",أحمد علي العجمي
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909124.ts
+#EXTINF:-1 group-title="القرآن الکریم",احمد سعود
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909125.ts
+#EXTINF:-1 group-title="القرآن الکریم",العيون الكوشي
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909126.ts
+#EXTINF:-1 group-title="القرآن الکریم",خالد عبد الكافي
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909127.ts
+#EXTINF:-1 group-title="القرآن الکریم",خليفة الطنيجي
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909128.ts
+#EXTINF:-1 group-title="القرآن الکریم",رعد محمد الكردي
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909129.ts
+#EXTINF:-1 group-title="القرآن الکریم",رمضان شكور
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909130.ts
+#EXTINF:-1 group-title="القرآن الکریم",سامي الدوسري
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909131.ts
+#EXTINF:-1 group-title="القرآن الکریم",سعد الغامدي
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909132.ts
+#EXTINF:-1 group-title="القرآن الکریم",سعود الشريم
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909133.ts
+#EXTINF:-1 group-title="القرآن الکریم",عبد الرحمان السديس
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909134.ts
+#EXTINF:-1 group-title="القرآن الکریم",عبد الله الخياط
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909135.ts
+#EXTINF:-1 group-title="القرآن الکریم",عثمان الأنصاري
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909136.ts
+#EXTINF:-1 group-title="القرآن الکریم",علي الحذيفي
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909137.ts
+#EXTINF:-1 group-title="القرآن الکریم",علي جابر
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909138.ts
+#EXTINF:-1 group-title="القرآن الکریم",فهد الكندري
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909139.ts
+#EXTINF:-1 group-title="القرآن الکریم",فواز الكعبي
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909140.ts
+#EXTINF:-1 group-title="القرآن الکریم",ماجد العنزي
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909141.ts
+#EXTINF:-1 group-title="القرآن الکریم",ماهر المعيقلي
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909142.ts
+#EXTINF:-1 group-title="القرآن الکریم",محمد جبريل
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909143.ts
+#EXTINF:-1 group-title="القرآن الکریم",مشاري العفاسي
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909144.ts
+#EXTINF:-1 group-title="القرآن الکریم",هزاع البلوشى
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909145.ts
+#EXTINF:-1 group-title="القرآن الکریم",ياسر الدوسري
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909146.ts
+#EXTINF:-1 group-title="القرآن الکریم",يوسف الدغوش
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909147.ts
 
 
 
