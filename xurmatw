@@ -1,8 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="RealMadrid × Leipzig" tvg-logo="" group-title="ريال مدريد × لايبزيج 🏆 ٢٠/١٠/٢٠٢٦",RealMadrid × Leipzig
+#EXTINF:-1 tvg-name="RealMadrid × Leipzig" tvg-logo="" group-title="ريال مدريد × لايبزيج 🏆 ٢١/١٠/٢٠٢٦",1- RealMadrid × Leipzig
 http://arabitv5.com:8000/Montaha.Maarouf/Maarouf.56432976/52017
-#EXTINF:-1 tvg-name="RealMadrid × Leipzig" tvg-logo="" group-title="ريال مدريد × لايبزيج 🏆 ٢٠/١٠/٢٠٢٦",RealMadrid × Leipzig
+
+#EXTINF:-1 tvg-name="RealMadrid × Leipzig" tvg-logo="" group-title="ريال مدريد × لايبزيج 🏆 ٢١/١٠/٢٠٢٦",2- RealMadrid × Leipzig
+http://apk4k.org:80/elesairyahmed2025/egy20252025/112
+
+#EXTINF:-1 tvg-name="RealMadrid × Leipzig" tvg-logo="" group-title="ريال مدريد × لايبزيج 🏆 ٢١/١٠/٢٠٢٦",3- RealMadrid × Leipzig
 http://bubdrvut.store:80/live/468323235851/237536444142/483500.ts
+
+#EXTINF:-1 tvg-name="RealMadrid × Leipzig" tvg-logo="" group-title="ريال مدريد × لايبزيج 🏆 ٢١/١٠/٢٠٢٦",4- RealMadrid × Leipzig
+http://apk4k.org:80/elesairyahmed2025/egy20252025/395876
+
+
 
 #EXTINF:-1 tvg-name="Rebaz Sport 1" tvg-logo="https://solosports.b-cdn.net/wp-content/uploads/2018/06/solo_logo.png" group-title="REBAZ SPORTS 4K", Rebaz Sport 1
 http://mhiptv.com:8080/live/hk030/6985423976/288307.ts
