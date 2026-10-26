@@ -136,33 +136,64 @@ http://jpvebmf.jdigk.com:80/teyib25/7003545038/1276532
 
 
 
-
-
 #EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 1 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1411383.png" group-title="beIN Sports 4K",beIN Sports 1 4K
-http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/242255.m3u8
+http://coco3-cdn.cfd:8085/bein-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 2 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1411382.png" group-title="beIN Sports 4K",beIN Sports 2 4K
-http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/242254.m3u8
+http://coco3-cdn.cfd:8085/bein-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 3 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1411381.png" group-title="beIN Sports 4K",beIN Sports 3 4K
-http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/242253.m3u8
+http://coco3-cdn.cfd:8085/bein-3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 4 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1411380.png" group-title="beIN Sports 4K",beIN Sports 4 4K
-http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/242252.m3u8
+http://coco3-cdn.cfd:8085/bein-4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 5 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1411379.png" group-title="beIN Sports 4K",beIN Sports 5 4K
-http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/242251.m3u8
+http://coco3-cdn.cfd:8085/bein-5/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 6 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1411378.png" group-title="beIN Sports 4K",beIN Sports 6 4K
-http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/242250.m3u8
+http://coco3-cdn.cfd:8085/bein-6/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 7 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1411378.png" group-title="beIN Sports 4K",beIN Sports 7 4K
-http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/242249.m3u8
+http://coco3-cdn.cfd:8085/bein-7/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 8 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1411378.png" group-title="beIN Sports 4K",beIN Sports 8 4K
-http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/242248.m3u8
+http://coco3-cdn.cfd:8085/bein-8/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 9 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1411378.png" group-title="beIN Sports 4K",beIN Sports 9 4K
+http://coco3-cdn.cfd:8085/bein-9/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 1 HD" tvg-logo="http://51.158.145.100/picons/logos/bein/1411383.png" group-title="beIN Sports HD",beIN Sports 1 HD
+http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/242255.m3u8
+
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 2 HD" tvg-logo="http://51.158.145.100/picons/logos/bein/1411382.png" group-title="beIN Sports HD",beIN Sports 2 HD
+http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/242254.m3u8
+
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 3 HD" tvg-logo="http://51.158.145.100/picons/logos/bein/1411381.png" group-title="beIN Sports HD",beIN Sports 3 HD
+http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/242253.m3u8
+
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 4 HD" tvg-logo="http://51.158.145.100/picons/logos/bein/1411380.png" group-title="beIN Sports HD",beIN Sports 4 HD
+http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/242252.m3u8
+
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 5 HD" tvg-logo="http://51.158.145.100/picons/logos/bein/1411379.png" group-title="beIN Sports HD",beIN Sports 5 HD
+http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/242251.m3u8
+
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 6 HD" tvg-logo="http://51.158.145.100/picons/logos/bein/1411378.png" group-title="beIN Sports HD",beIN Sports 6 HD
+http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/242250.m3u8
+
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 7 HD" tvg-logo="http://51.158.145.100/picons/logos/bein/1411378.png" group-title="beIN Sports HD",beIN Sports 7 HD
+http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/242249.m3u8
+
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 8 HD" tvg-logo="http://51.158.145.100/picons/logos/bein/1411378.png" group-title="beIN Sports HD",beIN Sports 8 HD
+http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/242248.m3u8
+
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 9 HD" tvg-logo="http://51.158.145.100/picons/logos/bein/1411378.png" group-title="beIN Sports HD",beIN Sports 9 HD
 http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/242247.m3u8
 
 
