@@ -324,6 +324,8 @@ http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/601413.ts
 https://live.host247.net/gk/gksat/chunklist_w1044399986.m3u8
 #EXTINF:-1 group-title="کوردی ناوخۆیی vip",Halabja TV
 http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",RANYA HD
+https://ranyatv.avrstream.com/RanyaTV/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="کوردی ناوخۆیی vip",Animal Box
 https://live20.bozztv.com/giatv/giatv-animalbox/animalbox/chunks.m3u8
 #EXTINF:-1 group-title="کوردی ناوخۆیی vip",Kalhur TV
