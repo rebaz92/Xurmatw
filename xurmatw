@@ -216,6 +216,9 @@ http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1328374.ts
 #EXTINF:-1 tvg-name=" NRT Sport HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSl8nHshPX09y2qUBPv6ikuK25rTFP2o3sgWWFwfcNK9T7y4TSTi3IvV4&s=10" group-title="Kurdistan sports", NRT Sport HD
 http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805984.ts
 
+#EXTINF:-1 group-title="Kurdistan sports",Qallam Sport
+https://koflixstreamtv.site/live/caf6f5bfae7b4e768dec16d1c11efd11.m3u8
+
 #EXTINF:-1 tvg-name=" ASO Sport HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN4GXkPKlwvwHFEFqK24bgWFv3jlV4tea5qQ4Pm3Na2mPPrRw1ypvTR84D&s=10" group-title="Kurdistan sports", ASO Sport FHD
 http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771667.ts
 
