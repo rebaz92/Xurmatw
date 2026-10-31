@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BAY×BVB⁰⁹ + BAR×ALA" tvg-logo="" group-title="اهم بماریات الیوم . گرنگترین یاریەکانی ئەمڕۆ 31/10/2026"
+#EXTINF:-1 tvg-id="" tvg-name="بارشلونه  ×  الافيس" tvg-logo="" group-title="اهم بماریات الیوم . گرنگترین یاریەکانی ئەمڕۆ 31/10/2026"
 https://raw.githubusercontent.com/ghooooooooooodfer/my-stream/refs/heads/main/Alwansp3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BAY×BVB⁰⁹ + BAR×ALA" tvg-logo="" group-title="اهم بماریات الیوم . گرنگترین یاریەکانی ئەمڕۆ 31/10/2026"
-https://sweet-cell-8a78.yusf-dara1000.workers.dev/playlist.m3u8?url=https://ok.ru/video/17343596011139
+
 
 #EXTINF:-1 tvg-id="" tvg-name="ديربي ميلان . Inter × AC Milan" tvg-logo="" group-title="اهم بماریات الیوم . گرنگترین یاریەکانی ئەمڕۆ 31/10/2026"
-http://get.acccesclassico.qpon:80/play/JhvkVpYajMsDGptTBGQU5qwFnqKO96oxHhvOgqaWJ0c
+
 
 #EXTINF:-1 tvg-id="" tvg-name="ديربي ميلان . Inter × AC Milan" tvg-logo="" group-title="اهم بماریات الیوم . گرنگترین یاریەکانی ئەمڕۆ 31/10/2026"
-http://eaglevnew.top/live/890608893636/957330157995/757047.m3u8
+
 
 
 
@@ -203,17 +203,34 @@ http://mag.tiger-ott.net/live/KEBD2U/7F8W2T/242247.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="خولی تورکی بۆ یاریەکانی ئامەدی کوردان",Bein Sport 1 FHD Turki
-http://arabitv5.com:8000/Montaha.Maarouf/Maarouf.56432976/42631
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="خولی تورکی بۆ یاریەکانی ئامەدی کوردان",Bein Sport 2 FHD Turki
-http://arabitv5.com:8000/Montaha.Maarouf/Maarouf.56432976/42629
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 1 SD" tvg-logo="" group-title="beIN Sports SD",beIN Sports 1 SD
+http://get.acccesclassico.qpon:80/play/JhvkVpYajMsDGptTBGQU5iMjKuAi03Mn2S34E0bNCL0
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="خولی تورکی بۆ یاریەکانی ئامەدی کوردان",Bein Sport 3 FHD Turki
-http://arabitv5.com:8000/Montaha.Maarouf/Maarouf.56432976/42627
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 2 SD" tvg-logo="" group-title="beIN Sports SD",beIN Sports 2 SD
+http://get.acccesclassico.qpon:80/play/JhvkVpYajMsDGptTBGQU5vR4cHjr3e4MqNFhiDc3KSc
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="خولی تورکی بۆ یاریەکانی ئامەدی کوردان",Bein Sport 4 FHD Turki
-http://arabitv5.com:8000/Montaha.Maarouf/Maarouf.56432976/42625
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 3 SD" tvg-logo="" group-title="beIN Sports SD",beIN Sports 3 SD
+http://get.acccesclassico.qpon:80/play/JhvkVpYajMsDGptTBGQU5qcYR3AdEMDpb3hJfE-Wh9w
+
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 4 SD" tvg-logo="" group-title="beIN Sports SD",beIN Sports 4 SD
+http://get.acccesclassico.qpon:80/play/JhvkVpYajMsDGptTBGQU5tzQfh-lr0eAgK-J055ObHs
+
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 5 SD" tvg-logo="" group-title="beIN Sports SD",beIN Sports 5 SD
+http://get.acccesclassico.qpon:80/play/JhvkVpYajMsDGptTBGQU5jhcqlWf4ytXIAUJyZ-ZQnE
+
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 6 SD" tvg-logo="" group-title="beIN Sports SD",beIN Sports 6 SD
+http://get.acccesclassico.qpon:80/play/JhvkVpYajMsDGptTBGQU5vaVoCN85u7nrULE92Qbg34
+
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 7 SD" tvg-logo="" group-title="beIN Sports SD",beIN Sports 7 SD
+http://get.acccesclassico.qpon:80/play/JhvkVpYajMsDGptTBGQU5ojEKmi2imfDFVuz2EBoc_0
+
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 8 SD" tvg-logo="" group-title="beIN Sports SD",beIN Sports 8 SD
+http://get.acccesclassico.qpon:80/play/JhvkVpYajMsDGptTBGQU5jMZTEEVzHjj7MEVWu9XaZs
+
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 9 SD" tvg-logo="" group-title="beIN Sports SD",beIN Sports 9 SD
+http://get.acccesclassico.qpon:80/play/JhvkVpYajMsDGptTBGQU5o3OCDxobFeICkK7yjVdDtw
+
 
 
 
