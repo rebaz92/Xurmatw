@@ -14,6 +14,31 @@ https://raw.githubusercontent.com/ghooooooooooodfer/my-stream/refs/heads/main/Al
 #EXTINF:-1 tvg-name="الــــوان الــریـاضیة ٢" group-title="اهم مباریات الیوم  3/11/2026"
 https://raw.githubusercontent.com/ghooooooooooodfer/my-stream/refs/heads/main/Alwansp2.m3u8
 
+
+
+#EXTINF:-1 tvg-name="بیــن ســـــبورت ١" group-title="اهم مباریات الیوم  3/11/2026"
+http://five5.biz/live/Md5353/rr505515353rr/135623.ts
+
+#EXTINF:-1 tvg-name="بیــن ســـــبورت ٢" group-title="اهم مباریات الیوم  3/11/2026"
+http://five5.biz/live/Md5353/rr505515353rr/135624.ts
+
+#EXTINF:-1 tvg-name="بیــن ســـــبورت ٣" group-title="اهم مباریات الیوم  3/11/2026"
+http://five5.biz/live/Md5353/rr505515353rr/135625.ts
+
+#EXTINF:-1 tvg-name="بیــن ســـــبورت ٤" group-title="اهم مباریات الیوم  3/11/2026"
+http://five5.biz/live/Md5353/rr505515353rr/135626.ts
+
+#EXTINF:-1 tvg-name="بیــن ســـــبورت ٥" group-title="اهم مباریات الیوم  3/11/2026"
+http://five5.biz/live/Md5353/rr505515353rr/135627.ts
+
+#EXTINF:-1 tvg-name="بیــن ســـــبورت ٦" group-title="اهم مباریات الیوم  3/11/2026"
+http://five5.biz/live/Md5353/rr505515353rr/135628.ts
+
+#EXTINF:-1 tvg-name="بیــن ســـــبورت ٧" group-title="اهم مباریات الیوم  3/11/2026"
+http://five5.biz/live/Md5353/rr505515353rr/135629.ts
+
+
+
 #EXTINF:-1 tvg-name="بیــن ســـــبورت ١" group-title="اهم مباریات الیوم  3/11/2026"
 http://sans7.org:88/02095188864772/jsmuKOEvzgSTt0M/2771137
 
@@ -28,6 +53,8 @@ http://sans7.org:88/02095188864772/jsmuKOEvzgSTt0M/2771140
 
 #EXTINF:-1 tvg-name="بیــن ســـــبورت ٥" group-title="اهم مباریات الیوم  3/11/2026"
 http://sans7.org:88/02095188864772/jsmuKOEvzgSTt0M/2771141
+
+
 
 #EXTINF:-1 tvg-name="بیــن ســـــبورت ١" group-title="اهم مباریات الیوم  3/11/2026"
 http://silka.m3um9xplus.org:2052/live/23763157568088/22844041149008/677039.ts
