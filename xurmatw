@@ -236,6 +236,9 @@ http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1328374.ts
 #EXTINF:-1 tvg-name=" NRT Sport HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSl8nHshPX09y2qUBPv6ikuK25rTFP2o3sgWWFwfcNK9T7y4TSTi3IvV4&s=10" group-title="Kurdistan sports", NRT Sport HD
 http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805984.ts
 
+#EXTINF:-1 group-title="Kurdistan sports",BiNER ZAXO
+https://lbgo.bozztv.com/ssh101/live/biner-zaxo/playlist.m3u8
+
 #EXTINF:-1 group-title="Kurdistan sports",Qallam Sport
 https://koflixstreamtv.site/live/caf6f5bfae7b4e768dec16d1c11efd11.m3u8
 
@@ -270,11 +273,18 @@ http://asmrasmr.live:8080/STdYbUVoVkVFanM0ckxPSldFKzNDMysraURqUVNrY2VxemN4VjRWYU
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667739&extension=ts
 
 
+
+
+
 #EXTINF:-1 group-title="خولی نایابی تورکی",Bein Sport 1 FHD Turkish
 http://sans7.org:88/02061279269686/goYIRhCqvmOdnnI/99226
 
 #EXTINF:-1 group-title="خولی نایابی تورکی",Bein Sport 2 FHD Turkish
 http://sans7.org:88/02061279269686/goYIRhCqvmOdnnI/99227
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Rudaw HD" tvg-logo="https://photos.smugmug.com/Rudaw-logo/i-7WVWZvk/0/KpP92MzbzGV2SX3ftc2J6RdbjN27V7GGc6hhgG2FZ/L/unnamed-L.png" group-title="کوردی هەواڵ",Rudaw HD
@@ -343,6 +353,8 @@ https://www.speda2.site/upload/images/spedahd.m3u8
 http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/601413.ts
 #EXTINF:-1 group-title="کوردی ناوخۆیی vip",Gali Kurdistan
 https://live.host247.net/gk/gksat/chunklist_w1044399986.m3u8
+#EXTINF:-1 group-title="Kurdistan sports",BiNER TV
+https://lbgo.bozztv.com/ssh101/live/biner-zaxo/playlist.m3u8
 #EXTINF:-1 group-title="کوردی ناوخۆیی vip",Halabja TV
 http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
 #EXTINF:-1 group-title="کوردی ناوخۆیی vip",RANYA HD
