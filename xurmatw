@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="REBAZ TV",🇹🇯REBAZ TV🇹🇯
-https://dl.dropboxusercontent.com/scl/fi/jmfsw55fat9ue5nwnjxnp/km_20261101_720p_30f_20261101_143018.mp4?rlkey=xdi0m7ad8exa5dj5kj04xwjhy&st=vjdsopq3
-
-
-#EXTINF:-1 tvg-name="الــــوان الــریـاضیة ١" group-title="Realmadrid × Valencia"
-https://raw.githubusercontent.com/ghooooooooooodfer/my-stream/refs/heads/main/Alwansp3.m3u8
+#EXTINF:-1 tvg-name="جدول اهم مباريات اليوم" group-title="اهم مباریات الیوم  4/11/2026"
+http://sans7.org:88/02095188864772/jsmuKOEvzgSTt0M/2298508
 
 
 #EXTINF:-1 tvg-name="Rebaz Sport 1" tvg-logo="https://solosports.b-cdn.net/wp-content/uploads/2018/06/solo_logo.png" group-title="REBAZ SPORTS 4K", Rebaz Sport 1
