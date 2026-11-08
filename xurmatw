@@ -166,31 +166,58 @@ http://jpvebmf.jdigk.com:80/teyib25/7003545038/1276532
 
 
 
-#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 1 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1411383.png" group-title="beIN Sports 4K+HD+SD",beIN Sports 1 4K
+#EXTINF:-1 group-title="beIN Sports 4K+HD+SD",beIN Sports 1 4K¹
+http://pzrufzfq.wppnn.com:80/ADILOS/5SFAXCNB/2251
+
+#EXTINF:-1 group-title="beIN Sports 4K+HD+SD",beIN Sports 1 4K²
 http://1010-2026.pro:8089/live/8589847614306/9041607812097/26806.m3u8
 
-#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 2 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1411382.png" group-title="beIN Sports 4K+HD+SD",beIN Sports 2 4K
+#EXTINF:-1 group-title="beIN Sports 4K+HD+SD",beIN Sports 2 4K¹
+http://pzrufzfq.wppnn.com:80/ADILOS/5SFAXCNB/2250
+
+#EXTINF:-1 group-title="beIN Sports 4K+HD+SD",beIN Sports 2 4K²
 http://1010-2026.pro:8089/live/8589847614306/9041607812097/26805.m3u8
 
-#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 3 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1411381.png" group-title="beIN Sports 4K+HD+SD",beIN Sports 3 4K
+#EXTINF:-1 group-title="beIN Sports 4K+HD+SD",beIN Sports 3 4K¹
+http://pzrufzfq.wppnn.com:80/ADILOS/5SFAXCNB/5062
+
+#EXTINF:-1 group-title="beIN Sports 4K+HD+SD",beIN Sports 3 4K²
 http://1010-2026.pro:8089/live/8589847614306/9041607812097/26804.m3u8
 
-#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 4 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1411380.png" group-title="beIN Sports 4K+HD+SD",beIN Sports 4 4K
+#EXTINF:-1 group-title="beIN Sports 4K+HD+SD",beIN Sports 4 4K¹
+http://pzrufzfq.wppnn.com:80/ADILOS/5SFAXCNB/5061
+
+#EXTINF:-1 group-title="beIN Sports 4K+HD+SD",beIN Sports 4 4K²
 http://1010-2026.pro:8089/live/8589847614306/9041607812097/26803.m3u8
 
-#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 5 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1411379.png" group-title="beIN Sports 4K+HD+SD",beIN Sports 5 4K
+#EXTINF:-1 group-title="beIN Sports 4K+HD+SD",beIN Sports 5 4K¹
+http://pzrufzfq.wppnn.com:80/ADILOS/5SFAXCNB/5060
+
+#EXTINF:-1 group-title="beIN Sports 4K+HD+SD",beIN Sports 5 4K²
 http://1010-2026.pro:8089/live/8589847614306/9041607812097/26802.m3u8
 
-#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 6 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1411378.png" group-title="beIN Sports 4K+HD+SD",beIN Sports 6 4K
+#EXTINF:-1 group-title="beIN Sports 4K+HD+SD",beIN Sports 6 4K¹
+http://pzrufzfq.wppnn.com:80/ADILOS/5SFAXCNB/5059
+
+#EXTINF:-1 group-title="beIN Sports 4K+HD+SD",beIN Sports 6 4K²
 http://1010-2026.pro:8089/live/8589847614306/9041607812097/26801.m3u8
 
-#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 7 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1411378.png" group-title="beIN Sports 4K+HD+SD",beIN Sports 7 4K
+#EXTINF:-1 group-title="beIN Sports 4K+HD+SD",beIN Sports 7 4K¹
+http://pzrufzfq.wppnn.com:80/ADILOS/5SFAXCNB/5058
+
+#EXTINF:-1 group-title="beIN Sports 4K+HD+SD",beIN Sports 7 4K²
 http://1010-2026.pro:8089/live/8589847614306/9041607812097/26800.m3u8
 
-#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 8 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1411378.png" group-title="beIN Sports 4K+HD+SD",beIN Sports 8 4K
+#EXTINF:-1 group-title="beIN Sports 4K+HD+SD",beIN Sports 8 4K¹
+http://pzrufzfq.wppnn.com:80/ADILOS/5SFAXCNB/5057
+
+#EXTINF:-1 group-title="beIN Sports 4K+HD+SD",beIN Sports 8 4K²
 http://1010-2026.pro:8089/live/8589847614306/9041607812097/26799.m3u8
 
-#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN Sports 9 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/1411378.png" group-title="beIN Sports 4K+HD+SD",beIN Sports 9 4K
+#EXTINF:-1 group-title="beIN Sports 4K+HD+SD",beIN Sports 9 4K¹
+http://pzrufzfq.wppnn.com:80/ADILOS/5SFAXCNB/5056
+
+#EXTINF:-1 group-title="beIN Sports 4K+HD+SD",beIN Sports 9 4K²
 http://1010-2026.pro:8089/live/8589847614306/9041607812097/26798.m3u8
 
 
