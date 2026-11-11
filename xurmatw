@@ -422,6 +422,8 @@ https://lbgo.bozztv.com/ssh101/live/biner-zaxo/playlist.m3u8
 http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
 #EXTINF:-1 group-title="کوردی ناوخۆیی vip",RANYA HD
 https://ranyatv.avrstream.com/RanyaTV/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",ONE Plus
+https://183.giatvcdn.com/giatv/giatv-oneplus/oneplus/chunks.m3u8
 #EXTINF:-1 group-title="کوردی ناوخۆیی vip",Animal Box
 https://live20.bozztv.com/giatv/giatv-animalbox/animalbox/chunks.m3u8
 #EXTINF:-1 group-title="کوردی ناوخۆیی vip",Kalhur TV
@@ -452,8 +454,10 @@ http://shnatv.ddns.net:1935/live/shnatv/playlist.m3u8
 https://www.speda2.site/upload/images/spedadrama.m3u8
 #EXTINF:-1 group-title="کوردی ناوخۆیی vip",Dunya TV
 http://dunyahd.ddns.net/live/DunyaHd/index.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",TV SUNNAT
+https://183.giatvcdn.com/giatv/giatv-rsunnat/rsunnat/chunks.m3u8
 #EXTINF:-1 group-title="کوردی ناوخۆیی vip",Komal TV
-https://lbgo.bozztv.com/ssh101/ssh101/onetvkomall/chunks.m3u8
+https://183.giatvcdn.com/ssh101/ssh101/onetvkomall/chunks.m3u8
 #EXTINF:-1 group-title="کوردی ناوخۆیی vip",IMK TV
 http://imkhd.ddns.net:1935/live/imkhd/playlist.m3u8
 #EXTINF:-1 group-title="کوردی ناوخۆیی vip",Mihrab TV
@@ -1061,7 +1065,7 @@ https://live20.bozztv.com/giatv/giatv-spikids4k2025/spikids4k2025/chunks.m3u8
 http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54114.ts
 
 #EXTINF:-1 group-title="منداڵان",ONE Kids
-https://183.bozztv.com/giatv/giatv-onekids/onekids/chunks.m3u8
+https://183.giatvcdn.com/giatv/giatv-onekids/onekids/chunks.m3u8
 
 #EXTINF:-1 group-title="منداڵان",Astera Baby HD
 http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667743&extension=ts
@@ -1084,9 +1088,11 @@ http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=638746
 کەناڵی قورئان
 --------------------------
 #EXTINF:-1 group-title="القرآن الکریم",نور القرآن
-https://183.bozztv.com/giatv/giatv-onetvnoor/onetvnoor/chunks.m3u8
+https://183.giatvcdn.com/giatv/giatv-onetvnoor/onetvnoor/chunks.m3u8
 #EXTINF:-1 group-title="القرآن الکریم",ئەکادیمیای ئامۆژگاری . قورئان
 https://app-live.org/live/a267c1b3/index.m3u8
+#EXTINF:-1 group-title="القرآن الکریم",دەنگی قورئان
+https://183.giatvcdn.com/giatv/giatv-Quran/Quran/chunks.m3u8
 #EXTINF:-1 group-title="القرآن الکریم",اسلام صبحي
 http://sxstreem.net/live/199199545699768/46JDgzRE68/909118.ts
 #EXTINF:-1 group-title="القرآن الکریم",سعد الغامدي
