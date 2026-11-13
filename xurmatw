@@ -442,6 +442,8 @@ http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
 https://ranyatv.avrstream.com/RanyaTV/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="کوردی ناوخۆیی vip",ONE Plus
 https://183.giatvcdn.com/giatv/giatv-oneplus/oneplus/chunks.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Zhin Film
+https://183.giatvcdn.com/giatv/giatv-zhintv/zhintv/chunks.m3u8
 #EXTINF:-1 group-title="کوردی ناوخۆیی vip",Animal Box
 https://live20.bozztv.com/giatv/giatv-animalbox/animalbox/chunks.m3u8
 #EXTINF:-1 group-title="کوردی ناوخۆیی vip",Kalhur TV
