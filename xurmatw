@@ -1,4 +1,822 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Rudaw HD" tvg-logo="https://photos.smugmug.com/Rudaw-logo/i-7WVWZvk/0/KpP92MzbzGV2SX3ftc2J6RdbjN27V7GGc6hhgG2FZ/L/unnamed-L.png" group-title="کوردی هەواڵ",Rudaw HD
+https://live.rudaw.net/hls/rudaw-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AVA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW8BL2ebhHADUaILRfQnwMa0chSUZot349msgwavJ079ma64oSeWj4zP19&s=10" group-title="کوردی هەواڵ",AVA HD
+http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NRT HD" tvg-logo="https://img.utdstc.com/icon/08f/407/08f407a57aca253802765a647fa7c951fa6db10639fab3004efc1050eef6f254:600" group-title="کوردی هەواڵ",NRT HD
+https://live20.bozztv.com/giatv/giatv-nrt/nrt/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="K24 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB7aiDpMCXd41px75ZY2eAnUt48GjxfsRjW3kFjljZMgsOpCQLy8525xQK&s=10" group-title="کوردی هەواڵ",K24 HD
+https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Channel 8 HD" tvg-logo="https://play-lh.googleusercontent.com/L2ti94G0LEg0-46J8Q-HO28H0Pge0W5O1tuaKGj2qhcrHf7U230UsCKsKTChpYZvMIDhZ-1PPEN0D2tcfgo5RQ=w240-h480-rw" group-title="کوردی هەواڵ",Channel 8 HD
+https://live.channel8.com/Channel8-Kurdish/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="KurdSat News HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIM9eLMWd-SXcLnhYqBi5IKT3feFLCmdvQjUzP36i5Ic19tTNTYlyXYu3f&s=10" group-title="کوردی هەواڵ",KurdSat News HD
+https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="KurdSat HD" tvg-logo="https://yt3.googleusercontent.com/0B6TAjU4z0dQhMQBrbBDnDfX17391kCrQHlW3XPuotnbCX4UB9qf1yjDkmhEeO39gGpJRB4KlA=s900-c-k-c0x00ffffff-no-rj" group-title="کوردی هەواڵ",KurdSat HD
+https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD-avc1_2500000=10002.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Kurdistan TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkShbT4htYPjbqjm56vDN0GHY9TaWmdKfTbOUb46swTTl7tpEVjsrpOG6u&s=10" group-title="کوردی هەواڵ",Kurdistan TV HD
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Gali Kurdistan HD" tvg-logo="https://marsaddaily.com/images/gk.png" group-title="کوردی هەواڵ",Gali Kurdistan HD
+https://live.host247.net/gk/gksat/chunklist_w615970821.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Kirkuk HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSezjBsxH5H_hbDvQQmNtQIAHGZMyCuKd_mqw0XZJPQWw&s=10" group-title="کوردی هەواڵ",Kirkuk HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54075.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Payam HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzorO5obHvf3MFk_v3fBwO2_UtEWQpzaVh3lKf0bx0Gj0QmXXZYr7nRp8&s=10" group-title="کوردی هەواڵ",Payam HD
+https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Speda HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Speda_TV_Logo.jpg" group-title="کوردی هەواڵ",Speda HD
+https://speda1.site/upload/images/spedahd.m3u8
+
+
+
+
+
+ـــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+کوردی ناوخۆیی vip
+ــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Kurdsat TV
+https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD-avc1_2500000=10002,mp4a_128000=20000.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Kurdsat News TV
+https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS-avc1_2500000=10002,mp4a_128000=20000.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Ava TV
+http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV-avc1_2500000=10002,mp4a_128000=20000.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Rudaw TV
+https://live.rudaw.net/hls/rudaw-tv/master.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Kurdmax TV
+http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/601420.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Kurdmax Show
+http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/601422.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Channel 8
+https://live.channel8.com/Channel8-Kurdish/tracks-v4a1/mono.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Kurdistan 24
+https://hlspackager.akamaized.net/live/DB/K24/HLS/K24-avc1_2500000=10002,mp4a_128000=20000.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Payam TV
+https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV-avc1_2500000=10002,mp4a_128000=20000.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Speda TV
+https://www.speda2.site/upload/images/spedahd.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Kirkuk TV
+http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/601413.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Gali Kurdistan
+https://live.host247.net/gk/gksat/chunklist_w1044399986.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",BiNER TV
+https://lbgo.bozztv.com/ssh101/live/biner-zaxo/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Halabja TV
+http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",RANYA HD
+https://ranyatv.avrstream.com/RanyaTV/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",ONE Plus
+https://183.giatvcdn.com/giatv/giatv-oneplus/oneplus/chunks.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Zhin Film
+https://183.giatvcdn.com/giatv/giatv-zhintv/zhintv/chunks.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Animal Box
+https://live20.bozztv.com/giatv/giatv-animalbox/animalbox/chunks.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Kalhur TV
+https://live20.bozztv.com/giatv/giatv-kalhurtv/kalhurtv/chunks.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Khak TV
+http://khakhd.ddns.net:1935/stream/khakhd/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Kurdistan TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w847921336_b1700000_sleng_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Rozhelat TV
+https://hlspackager.akamaized.net/live/DB/ROJHELAT/HLS/ROJHELAT-avc1_2500000=10002,mp4a_128000=20000.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",IRIB Kurdistan
+https://ncdn.telewebion.ir/kordestan/live/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Mahabad TV
+https://ncdn.telewebion.ir/mahabad/live/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Kermanshah TV
+https://live-aburayhan1101.telewebion.ir/ek/zagros/live/576p/index.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Afra Film TV
+https://afrafhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Avar TV
+http://avrstream.com:1935/live/AvarTv/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Euro Kurd Tv
+http://baskhd.ddns.net:40/live/Eurokurd/index.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Soran TV
+http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Shna TV
+http://shnatv.ddns.net:1935/live/shnatv/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Speda Drama TV
+https://www.speda2.site/upload/images/spedadrama.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Dunya TV
+http://dunyahd.ddns.net/live/DunyaHd/index.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",TV SUNNAT
+https://183.giatvcdn.com/giatv/giatv-rsunnat/rsunnat/chunks.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Komal TV
+https://183.giatvcdn.com/ssh101/ssh101/onetvkomall/chunks.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",IMK TV
+http://imkhd.ddns.net:1935/live/imkhd/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Mihrab TV
+http://baskhd.ddns.net:40/live/MihrabTV/playlist.m3u8?checkedby:Halabja88
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Derin TV
+http://baskhd.ddns.net:40/live/Derin/index.m3u8?checkedby:Halabja88
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Shar Family TV
+http://avrstream.com:1935/live/SHARTV/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Infinity TV
+https://cdn.karwan.tv/infinity-tv/index.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Parwarday Slemany
+https://183.bozztv.com/giatv/giatv-parwardasuli/parwardasuli/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Mix Kurdy TV
+http://avrstream.com:1935/live/Mix-kurdy/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Garyan TV
+https://live20.bozztv.com/giatv/giatv-halabja88garyan/halabja88garyan/chunks.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Iraqia Kurd TV
+https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",War TV
+https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Eman TV
+http://avrstream.com:1935/live/emantv/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Esra TV
+https://live20.bozztv.com/giatv/giatv-ESRAHD/ESRAHD/chunks.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Afarin TV
+http://afarintv.flashmediacast.com:1935/afarinTV/livestream/chunklist_w1505309502.m3u8?nimblesessionid=574377&amp;
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Afarin Baxcha TV
+http://afarintv2.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Zarok TV
+https://zindisorani.zaroktv.com.tr/hls/0/stream.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Rewi u Kalasher
+https://zindisorani.zaroktv.com.tr/hls/0/stream.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Kidko TV
+http://avrstream.com:1935/live/kidcohd/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Minika Go
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Baby Shark
+https://newidco-babysharktv-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",PBS Kids
+https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",One Kids
+https://lbgo.bozztv.com/ssh101/ssh101/onekids4k/chunks.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Maraya Kids
+https://live.kwikmotion.com/smckidslive/tjkids1.smil/smckidspublish/tjkids1_source/chunks.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Roya Kids
+https://fast.kwikmotion.com/roya/kids/playlist/kmfast_2.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Super Kids
+https://super.krd/live/kids.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Afarin TV
+https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Fishing TV
+https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",MMN Documentary
+http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Gewhar TV
+https://iptv-link.short.gy/Gewher.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",RED TV
+http://avrstream.com:1935/live/REDTV/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Animal Box
+https://live20.bozztv.com/giatv/giatv-animalbox/animalbox/chunks.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Nat Gio Wild
+http://silka.m3um9xplus.org:2052/live/17348628947896/34839548609025/191751.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Al Jazeera Documentary
+https://live-hls-web-ajd.getaj.net/AJD/01.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",IRIB Mostanad
+https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Animal Planet
+http://4.30.180.36:8420/animal/index.m3u8?token=test
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",BBC Earth
+https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",RT Documentary
+http://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",MMN Show
+http://mmn.mypsx.net:1935/live/mmnhddshow/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",MMN News
+http://mmn.mypsx.net:1935/live/mmnhdnews/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",MMN Drama
+http://mmn.mypsx.net:1935/live/mmnhddrama/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",MMN Action
+http://mmn.mypsx.net:1935/live/mmnhdaction/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",MMN Movies
+http://mmn.mypsx.net:1935/live/mmnhdmovies/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",MMN Quran
+http://mmn.mypsx.net:1935/live/mmnhdquran/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Walla TV
+https://cdn.karwan.tv/wallatv/index.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",SPI TV
+https://183.bozztv.com/giatv/giatv-spihd_2022/spihd_2022/chunks.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",SPI Quran
+https://live20.bozztv.com/giatv/giatv-spi_quran_hd/spi_quran_hd/chunks.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",AL Jazeera TV
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",AL Arabiya TV
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",AL Hadath TV
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Khabar TV
+https://live-aburayhan1104.telewebion.ir/ek/irinn/live/720p/index.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",AL Jazeera Documentary
+https://live-hls-web-ajd.getaj.net/AJD/01.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Amozhgary TV
+https://app-live.org/live/3268334b/index.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Bangawaz TV
+http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8
+
+
+
+
+--------------------------
+Kurdish Local
+--------------------------
+#EXTINF:-1 group-title="کوردی ناوخۆیی",NRT HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54117.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",NRT 2 HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54116.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",NRT 2 HD  (B)
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54115.ts
+#EXTINF:-1 tvg-name="Soran Entertainment" group-title="کوردی ناوخۆیی",Soran Entertainment
+http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
+#EXTINF:-1 tvg-name="Hormzyar HD" group-title="کوردی ناوخۆیی",Hormzyar HD
+http://avrstream.com:1935/live/HormzyarHD/playlist.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Kalhur TV
+https://live20.bozztv.com:443/giatv/giatv-kalhurtv/kalhurtv/chunks.m3u8
+#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDMAX HD KUR
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54113.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDMAX HD SOR
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54112.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDMAX SHOW HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54111.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDSAT HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54106.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDISTAN TV HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54107.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDSAT NEWS HD PLUS
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54098.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",K24 HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54082.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",WAAR TV HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54103.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",WAAR TV HD PLUS
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54080.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",DEVER TV HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771668.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",ZAROK TV HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771669.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",RUDAW HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54101.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",TRT KURDI HD PLUS
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54094.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",ZAGROS HD PLUS
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54108.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",DUHOK SPORT HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/732990.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",ASO SPORT HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771667.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",DASINYA SPORT HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771659.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",MMN KIDS HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771663.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",MMN MOVIES HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771664.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",MMN CLASSICAL MUSIC HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771666.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",MINARA HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/772718.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",MMN Action HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/772720.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",MMN Quran HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/772721.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",BNAR HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/772722.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",KOMALA TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/772719.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",NRT 3 KIDS
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54114.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDMAX PEPULE
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771653.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDMAX (SORANI)
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771672.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",KIRKUK TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54075.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",K24
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54083.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",MEDYA HABER TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54093.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",ARYEN TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54090.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",CIRA TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54081.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",GK TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54088.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",KNN TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/262092.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",ROJAVA TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54076.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",RONAHI TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54097.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",STERK TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54095.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",SPEDA TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54072.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",KURD CHANNEL
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/301569.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",SADA TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/301568.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",ZAGROS TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54071.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",NEWMAX MUSIC TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771658.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",SEE SPORT 3
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/344542.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",ZAXO SPORT
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/344543.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",MMN SHOW TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771655.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",MMN ACTION TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771656.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",MMN CLIP TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771662.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",MMN RADIO TURK
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771654.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",EMAN TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/772725.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",KIRKUK QURAN TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/772726.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",NÛCE TV FHD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/362496.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",#### KU VIP - Badini ####
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/154168.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",KRD WWE HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/155299.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",DASINYA MUSIC HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/56433.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",DASINYA KIDS HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/258553.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",KURD TV HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/150125.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",DUHOK TV HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/56437.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",WAAR HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/111630.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",ATV HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/56436.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",NUBAR TV HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/84297.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",ISHTAR HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/76735.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",##### KU -NETEWEYÊ #####
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54067.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",ASTERA FAMILY HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54062.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",NEWLINE HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54032.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",NEWLINE2 HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54031.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",NIGA KIDS HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54029.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",NIGA KIDS HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/732983.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",BARIN QURAN HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/732991.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",ASMAN HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54065.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",QALAT HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54026.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",NUJEN TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/732981.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",MED MUZIK TV HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/732984.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",LIFE HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/732985.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDISTAN 24 FHD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/732986.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",JIN HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/732988.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",HORMZYAR HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/732989.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",BARIN FAMILY HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/732992.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",BARIN HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/732993.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",PSHDAR HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771657.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",CIHAN HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771661.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",ROJGAR HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771665.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",NIROJ HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771670.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",BEFRIN HD (ONLY LIVE)
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/732996.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",ASTERA SPORT
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54059.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",DAHEN TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54050.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",NISHTIMANY MN
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54027.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",U TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54016.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",EZDAN TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/301541.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",SAHAR KURDISH
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/732978.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",DUHOK PARWADA
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771671.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",##### KU VIP #####
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/56438.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",#### KU VIP - SORANI ####
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/154169.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDMAX SHOW HD (KUR)
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/111637.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDMAX HD (KUR)
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/111635.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",4KURD HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/160954.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",NOHADRA HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/150230.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDMAX SHOW (SOR)
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/111636.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",AVA ENTERTAIMENT
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/64902.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",AMOZHGARY 2
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/97030.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",WAAR
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/76730.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",IRAQIYA KURDISH
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/82576.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",NRT 4 UHD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/801203.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",PAYAM TV UHD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/801214.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",RENG DOCUMENTARY HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/803931.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",ZED TV HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/803933.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",HELHELOK HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/804038.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDISTAN HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/804077.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDISTAN 24 HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/804079.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",GELI KURDISTAN TV HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/804091.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",AVA ENTERTAIMENT HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805750.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",AZHIN HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805751.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",Barin Movies HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805752.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",BK4 HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805753.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",DASINYA TV HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805754.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",DELAL TV HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805755.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",EURO KURD HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805756.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",FIRST HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805757.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",GEWHER HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805758.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",HALABJA HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805759.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",IRAQIA KURDI HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805760.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",JAMAWAR TV HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805761.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",K24 DOCUMENTARY HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805762.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",KHAK HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805764.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",KURD MOVIES 2 HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805766.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",NEWLINE 2 HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805770.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",NEWLINE KIDS HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805771.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",NEWLINE MOVIES HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805772.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",NEWLINE SPORT HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805773.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",NEWLINE BOLLYWOOD HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805774.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",NIGA FAMILY HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805776.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",NIGA MOVIES HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805981.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",NISHTIMANI MN HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805982.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",NUBAR SPORT  HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805986.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",ONE HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805987.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",RANYA HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805988.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",RENG HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805990.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",BARIN MOVIES HD
+#EXTINF:-1 group-title="کوردی ناوخۆیی",ROZH HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805992.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",SIMA DOCUMENTARY HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805993.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",SIMA MOVIES HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805994.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",SLEMANI HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805996.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",WASELA QURAN HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805999.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",ZAXO HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/806000.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",ZNAR HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/806002.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",QALLAM AYINI HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/806005.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",SHAISTA HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/809115.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",DERWAZE MUSIC
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/803959.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",GALI KURDISTAN
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/804030.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",SUROYO TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/801210.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",SUBORO TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/801211.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",BANGWAZ TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/801213.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",JIN TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/803915.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",KOMALA TV / SHORA TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/804044.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",DUHOK SPORTS
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/804064.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",AFARIN BAXCHA TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/804207.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",ARO FAMILY
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/804678.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",ARO KIDS
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/804791.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",KALAPOR TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805763.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",LD SPORT
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805768.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",MIHRAB TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805769.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",NRT 2 SORANI
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805983.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",NRT SPORT
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805984.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",NUBAR PLUS
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805985.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",ROJHELAT TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805991.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",ZED PLUS
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/806001.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",DERIN TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/301560.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",AFARIN TV HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034751.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",NRT 1 TV FHD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034753.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",NRT2 SORANI HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034754.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",NRT 3 KIDS HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034755.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",NRT 4 HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034756.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",K24 HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034757.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",KURD CHANNEL HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034758.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",RUDAW TV HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034759.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",RENG HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034762.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",RENG DOCUMENT HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034763.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",VAN 1 HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034771.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",K4U MUSIC HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034774.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",KHAK HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034776.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",KRD CARTOON 2 HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034777.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",KRD WILD LIFE HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034779.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",KURD SHOW HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034781.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDCINEMA ACTION HD2
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034782.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDISTAN TV HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034783.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDMAX HD KURMANJI
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034784.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDMAX SHOW HD SORANI
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034785.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDSHOW HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034786.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",LIVEDREAM HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034787.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",MED MUSIC TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034790.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",MEDYA HABER
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034791.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",MINARA TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034792.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",RASAN HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034803.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",ROJAVA
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034804.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",RONAHI TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034805.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",SAHAR TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034806.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",SAUDI SUNNAH
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034807.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",SPEDA TV HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034810.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",STERK TV HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034811.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",TRT KURDI
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034812.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",STERK TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034813.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",U TV HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034814.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",WAAR TV HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034815.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",ZAROK SORANI
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034816.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",ZAROK TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034817.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",ZHYAR
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034818.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",AFARIN KIDS HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034823.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",AMOZHGARY TV HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034824.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",ARYEN TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034827.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",AVA TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034828.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",BMC
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034830.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",DASINYA SPORT
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034834.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",DUHOK TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034835.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",EURO KURD HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034836.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",GALI KURDISTAN TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034837.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",HELHELOK TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034838.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",IRAQIA KURD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034839.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",ISHTAR TV
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034840.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",AFARIN BAXCHA
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034841.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",ZAGROS HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034843.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",BANGXWAZEN BADINAN
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034849.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",KHAK HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034851.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",BASK TV HD
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034858.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",CHANNEL 8
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1328373.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",AVA SPORT
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1328374.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",PARWARDAI
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1403766.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",PARWARDAI HAWLER
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1403767.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",PARWARDAI DUHOK
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1403768.ts
+#EXTINF:-1 group-title="کوردی ناوخۆیی",ARO DRAMA
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/804273.ts
+
+
+
+
+
+--------------------------
+کەناڵی منداڵان
+--------------------------
+#EXTINF:-1 group-title="کوردی منداڵان",Gewher Kids
+https://iptv-link.short.gy/Gewher_Kids.m3u8
+
+#EXTINF:-1 group-title="کوردی منداڵان",Afarin tv
+http://afarintv.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="کوردی منداڵان",Afarin baxche
+http://afarintv2.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="کوردی منداڵان",rewi u kalasher
+https://live20.bozztv.com/giatv/giatv-znarkids/znarkids/chunks.m3u8
+
+#EXTINF:-1 group-title="کوردی منداڵان",Spi kids
+https://live20.bozztv.com/giatv/giatv-spikids4k2025/spikids4k2025/chunks.m3u8
+
+#EXTINF:-1 group-title="کوردی منداڵان",NRT 3 Kids
+http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54114.ts
+
+#EXTINF:-1 group-title="کوردی منداڵان",ONE Kids
+https://183.giatvcdn.com/giatv/giatv-onekids/onekids/chunks.m3u8
+
+#EXTINF:-1 group-title="کوردی منداڵان",Astera Baby HD
+http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667743&extension=ts
+
+#EXTINF:-1 group-title="کوردی منداڵان",Newline Kids HD
+https://shorter.me/zdxRN
+
+#EXTINF:-1 group-title="کوردی منداڵان",Kidco
+http://avrstream.com:1935/live/kidcohd/playlist.m3u8
+
+#EXTINF:-1 group-title="کوردی منداڵان",NIGA Kids HD
+http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=638709&extension=ts
+
+#EXTINF:-1 group-title="کوردی منداڵان",Kurdmax Pepule HD
+http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=638746&extension=ts
+
+
+
+
+--------------------------
+کەناڵی قورئان
+--------------------------
+#EXTINF:-1 group-title="القرآن الکریم",نور القرآن
+https://183.giatvcdn.com/giatv/giatv-onetvnoor/onetvnoor/chunks.m3u8
+#EXTINF:-1 group-title="القرآن الکریم",ئەکادیمیای ئامۆژگاری . قورئان
+https://app-live.org/live/a267c1b3/index.m3u8
+#EXTINF:-1 group-title="القرآن الکریم",دەنگی قورئان
+https://183.giatvcdn.com/giatv/giatv-Quran/Quran/chunks.m3u8
+#EXTINF:-1 group-title="القرآن الکریم",اسلام صبحي
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909118.ts
+#EXTINF:-1 group-title="القرآن الکریم",سعد الغامدي
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909119.ts
+#EXTINF:-1 group-title="القرآن الکریم",عبدالرحمن مسعد
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909120.ts
+#EXTINF:-1 group-title="القرآن الکریم",علي الحذيفي
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909121.ts
+#EXTINF:-1 group-title="القرآن الکریم",منصور السالمي
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909122.ts
+#EXTINF:-1 group-title="القرآن الکریم",هزاع البلوشي
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909123.ts
+#EXTINF:-1 group-title="القرآن الکریم",أحمد علي العجمي
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909124.ts
+#EXTINF:-1 group-title="القرآن الکریم",احمد سعود
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909125.ts
+#EXTINF:-1 group-title="القرآن الکریم",العيون الكوشي
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909126.ts
+#EXTINF:-1 group-title="القرآن الکریم",خالد عبد الكافي
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909127.ts
+#EXTINF:-1 group-title="القرآن الکریم",خليفة الطنيجي
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909128.ts
+#EXTINF:-1 group-title="القرآن الکریم",رعد محمد الكردي
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909129.ts
+#EXTINF:-1 group-title="القرآن الکریم",رمضان شكور
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909130.ts
+#EXTINF:-1 group-title="القرآن الکریم",سامي الدوسري
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909131.ts
+#EXTINF:-1 group-title="القرآن الکریم",سعد الغامدي
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909132.ts
+#EXTINF:-1 group-title="القرآن الکریم",سعود الشريم
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909133.ts
+#EXTINF:-1 group-title="القرآن الکریم",عبد الرحمان السديس
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909134.ts
+#EXTINF:-1 group-title="القرآن الکریم",عبد الله الخياط
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909135.ts
+#EXTINF:-1 group-title="القرآن الکریم",عثمان الأنصاري
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909136.ts
+#EXTINF:-1 group-title="القرآن الکریم",علي الحذيفي
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909137.ts
+#EXTINF:-1 group-title="القرآن الکریم",علي جابر
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909138.ts
+#EXTINF:-1 group-title="القرآن الکریم",فهد الكندري
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909139.ts
+#EXTINF:-1 group-title="القرآن الکریم",فواز الكعبي
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909140.ts
+#EXTINF:-1 group-title="القرآن الکریم",ماجد العنزي
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909141.ts
+#EXTINF:-1 group-title="القرآن الکریم",ماهر المعيقلي
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909142.ts
+#EXTINF:-1 group-title="القرآن الکریم",محمد جبريل
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909143.ts
+#EXTINF:-1 group-title="القرآن الکریم",مشاري العفاسي
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909144.ts
+#EXTINF:-1 group-title="القرآن الکریم",هزاع البلوشى
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909145.ts
+#EXTINF:-1 group-title="القرآن الکریم",ياسر الدوسري
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909146.ts
+#EXTINF:-1 group-title="القرآن الکریم",يوسف الدغوش
+http://sxstreem.net/live/199199545699768/46JDgzRE68/909147.ts
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-name="جدول اهم مباريات اليوم" group-title="اهم مباریات الیوم"
 http://sans7.org:88/02095188864772/jsmuKOEvzgSTt0M/2298508
 
@@ -364,815 +1182,6 @@ http://sans7.org:88/02061279269686/goYIRhCqvmOdnnI/99226
 http://sans7.org:88/02061279269686/goYIRhCqvmOdnnI/99227
 
 
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Rudaw HD" tvg-logo="https://photos.smugmug.com/Rudaw-logo/i-7WVWZvk/0/KpP92MzbzGV2SX3ftc2J6RdbjN27V7GGc6hhgG2FZ/L/unnamed-L.png" group-title="کوردی هەواڵ",Rudaw HD
-https://live.rudaw.net/hls/rudaw-tv/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="AVA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW8BL2ebhHADUaILRfQnwMa0chSUZot349msgwavJ079ma64oSeWj4zP19&s=10" group-title="کوردی هەواڵ",AVA HD
-http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NRT HD" tvg-logo="https://img.utdstc.com/icon/08f/407/08f407a57aca253802765a647fa7c951fa6db10639fab3004efc1050eef6f254:600" group-title="کوردی هەواڵ",NRT HD
-https://live20.bozztv.com/giatv/giatv-nrt/nrt/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="K24 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB7aiDpMCXd41px75ZY2eAnUt48GjxfsRjW3kFjljZMgsOpCQLy8525xQK&s=10" group-title="کوردی هەواڵ",K24 HD
-https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Channel 8 HD" tvg-logo="https://play-lh.googleusercontent.com/L2ti94G0LEg0-46J8Q-HO28H0Pge0W5O1tuaKGj2qhcrHf7U230UsCKsKTChpYZvMIDhZ-1PPEN0D2tcfgo5RQ=w240-h480-rw" group-title="کوردی هەواڵ",Channel 8 HD
-https://live.channel8.com/Channel8-Kurdish/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="KurdSat News HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIM9eLMWd-SXcLnhYqBi5IKT3feFLCmdvQjUzP36i5Ic19tTNTYlyXYu3f&s=10" group-title="کوردی هەواڵ",KurdSat News HD
-https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="KurdSat HD" tvg-logo="https://yt3.googleusercontent.com/0B6TAjU4z0dQhMQBrbBDnDfX17391kCrQHlW3XPuotnbCX4UB9qf1yjDkmhEeO39gGpJRB4KlA=s900-c-k-c0x00ffffff-no-rj" group-title="کوردی هەواڵ",KurdSat HD
-https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD-avc1_2500000=10002.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Kurdistan TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkShbT4htYPjbqjm56vDN0GHY9TaWmdKfTbOUb46swTTl7tpEVjsrpOG6u&s=10" group-title="کوردی هەواڵ",Kurdistan TV HD
-https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Gali Kurdistan HD" tvg-logo="https://marsaddaily.com/images/gk.png" group-title="کوردی هەواڵ",Gali Kurdistan HD
-https://live.host247.net/gk/gksat/chunklist_w615970821.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Kirkuk HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSezjBsxH5H_hbDvQQmNtQIAHGZMyCuKd_mqw0XZJPQWw&s=10" group-title="کوردی هەواڵ",Kirkuk HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54075.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Payam HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzorO5obHvf3MFk_v3fBwO2_UtEWQpzaVh3lKf0bx0Gj0QmXXZYr7nRp8&s=10" group-title="کوردی هەواڵ",Payam HD
-https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Speda HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Speda_TV_Logo.jpg" group-title="کوردی هەواڵ",Speda HD
-https://speda1.site/upload/images/spedahd.m3u8
-
-
-
-ـــــــــــــــــــــــــــــــــــــــــــــــــــــــ
-کوردی ناوخۆیی vip
-ــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
-
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Kurdsat TV
-https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD-avc1_2500000=10002,mp4a_128000=20000.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Kurdsat News TV
-https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS-avc1_2500000=10002,mp4a_128000=20000.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Ava TV
-http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV-avc1_2500000=10002,mp4a_128000=20000.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Rudaw TV
-https://live.rudaw.net/hls/rudaw-tv/master.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Kurdmax TV
-http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/601420.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Kurdmax Show
-http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/601422.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Channel 8
-https://live.channel8.com/Channel8-Kurdish/tracks-v4a1/mono.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Kurdistan 24
-https://hlspackager.akamaized.net/live/DB/K24/HLS/K24-avc1_2500000=10002,mp4a_128000=20000.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Payam TV
-https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV-avc1_2500000=10002,mp4a_128000=20000.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Speda TV
-https://www.speda2.site/upload/images/spedahd.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Kirkuk TV
-http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/601413.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Gali Kurdistan
-https://live.host247.net/gk/gksat/chunklist_w1044399986.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",BiNER TV
-https://lbgo.bozztv.com/ssh101/live/biner-zaxo/playlist.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Halabja TV
-http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",RANYA HD
-https://ranyatv.avrstream.com/RanyaTV/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",ONE Plus
-https://183.giatvcdn.com/giatv/giatv-oneplus/oneplus/chunks.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Zhin Film
-https://183.giatvcdn.com/giatv/giatv-zhintv/zhintv/chunks.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Animal Box
-https://live20.bozztv.com/giatv/giatv-animalbox/animalbox/chunks.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Kalhur TV
-https://live20.bozztv.com/giatv/giatv-kalhurtv/kalhurtv/chunks.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Khak TV
-http://khakhd.ddns.net:1935/stream/khakhd/playlist.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Kurdistan TV
-https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w847921336_b1700000_sleng_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Rozhelat TV
-https://hlspackager.akamaized.net/live/DB/ROJHELAT/HLS/ROJHELAT-avc1_2500000=10002,mp4a_128000=20000.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",IRIB Kurdistan
-https://ncdn.telewebion.ir/kordestan/live/playlist.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Mahabad TV
-https://ncdn.telewebion.ir/mahabad/live/playlist.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Kermanshah TV
-https://live-aburayhan1101.telewebion.ir/ek/zagros/live/576p/index.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Afra Film TV
-https://afrafhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Avar TV
-http://avrstream.com:1935/live/AvarTv/playlist.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Euro Kurd Tv
-http://baskhd.ddns.net:40/live/Eurokurd/index.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Soran TV
-http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Shna TV
-http://shnatv.ddns.net:1935/live/shnatv/playlist.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Speda Drama TV
-https://www.speda2.site/upload/images/spedadrama.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Dunya TV
-http://dunyahd.ddns.net/live/DunyaHd/index.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",TV SUNNAT
-https://183.giatvcdn.com/giatv/giatv-rsunnat/rsunnat/chunks.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Komal TV
-https://183.giatvcdn.com/ssh101/ssh101/onetvkomall/chunks.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",IMK TV
-http://imkhd.ddns.net:1935/live/imkhd/playlist.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Mihrab TV
-http://baskhd.ddns.net:40/live/MihrabTV/playlist.m3u8?checkedby:Halabja88
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Derin TV
-http://baskhd.ddns.net:40/live/Derin/index.m3u8?checkedby:Halabja88
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Shar Family TV
-http://avrstream.com:1935/live/SHARTV/playlist.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Infinity TV
-https://cdn.karwan.tv/infinity-tv/index.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Parwarday Slemany
-https://183.bozztv.com/giatv/giatv-parwardasuli/parwardasuli/playlist.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Mix Kurdy TV
-http://avrstream.com:1935/live/Mix-kurdy/playlist.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Garyan TV
-https://live20.bozztv.com/giatv/giatv-halabja88garyan/halabja88garyan/chunks.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Iraqia Kurd TV
-https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",War TV
-https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Eman TV
-http://avrstream.com:1935/live/emantv/playlist.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Esra TV
-https://live20.bozztv.com/giatv/giatv-ESRAHD/ESRAHD/chunks.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Afarin TV
-http://afarintv.flashmediacast.com:1935/afarinTV/livestream/chunklist_w1505309502.m3u8?nimblesessionid=574377&amp;
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Afarin Baxcha TV
-http://afarintv2.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Zarok TV
-https://zindisorani.zaroktv.com.tr/hls/0/stream.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Rewi u Kalasher
-https://zindisorani.zaroktv.com.tr/hls/0/stream.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Kidko TV
-http://avrstream.com:1935/live/kidcohd/playlist.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Minika Go
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Baby Shark
-https://newidco-babysharktv-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",PBS Kids
-https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",One Kids
-https://lbgo.bozztv.com/ssh101/ssh101/onekids4k/chunks.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Maraya Kids
-https://live.kwikmotion.com/smckidslive/tjkids1.smil/smckidspublish/tjkids1_source/chunks.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Roya Kids
-https://fast.kwikmotion.com/roya/kids/playlist/kmfast_2.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Super Kids
-https://super.krd/live/kids.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Afarin TV
-https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Fishing TV
-https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist_1280x720.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",MMN Documentary
-http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Gewhar TV
-https://iptv-link.short.gy/Gewher.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",RED TV
-http://avrstream.com:1935/live/REDTV/playlist.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Animal Box
-https://live20.bozztv.com/giatv/giatv-animalbox/animalbox/chunks.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Nat Gio Wild
-http://silka.m3um9xplus.org:2052/live/17348628947896/34839548609025/191751.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Al Jazeera Documentary
-https://live-hls-web-ajd.getaj.net/AJD/01.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",IRIB Mostanad
-https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Animal Planet
-http://4.30.180.36:8420/animal/index.m3u8?token=test
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Wild Earth
-https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",BBC Earth
-https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",RT Documentary
-http://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",MMN Show
-http://mmn.mypsx.net:1935/live/mmnhddshow/playlist.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",MMN News
-http://mmn.mypsx.net:1935/live/mmnhdnews/playlist.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",MMN Drama
-http://mmn.mypsx.net:1935/live/mmnhddrama/playlist.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",MMN Action
-http://mmn.mypsx.net:1935/live/mmnhdaction/playlist.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",MMN Movies
-http://mmn.mypsx.net:1935/live/mmnhdmovies/playlist.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",MMN Quran
-http://mmn.mypsx.net:1935/live/mmnhdquran/playlist.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Walla TV
-https://cdn.karwan.tv/wallatv/index.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",SPI TV
-https://183.bozztv.com/giatv/giatv-spihd_2022/spihd_2022/chunks.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",SPI Quran
-https://live20.bozztv.com/giatv/giatv-spi_quran_hd/spi_quran_hd/chunks.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",AL Jazeera TV
-https://live-hls-web-aja.getaj.net/AJA/01.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",AL Arabiya TV
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",AL Hadath TV
-https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Khabar TV
-https://live-aburayhan1104.telewebion.ir/ek/irinn/live/720p/index.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",AL Jazeera Documentary
-https://live-hls-web-ajd.getaj.net/AJD/01.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Amozhgary TV
-https://app-live.org/live/3268334b/index.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی vip",Bangawaz TV
-http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8
-
-
-
-
-
-
---------------------------
-Kurdish Local
---------------------------
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NRT HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54117.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NRT 2 HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54116.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NRT 2 HD  (B)
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54115.ts
-#EXTINF:-1 tvg-name="Soran Entertainment" group-title="کوردی ناوخۆیی",Soran Entertainment
-http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
-#EXTINF:-1 tvg-name="Hormzyar HD" group-title="کوردی ناوخۆیی",Hormzyar HD
-http://avrstream.com:1935/live/HormzyarHD/playlist.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی",Kalhur TV
-https://live20.bozztv.com:443/giatv/giatv-kalhurtv/kalhurtv/chunks.m3u8
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDMAX HD KUR
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54113.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDMAX HD SOR
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54112.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDMAX SHOW HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54111.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDSAT HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54106.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDISTAN TV HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54107.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDSAT NEWS HD PLUS
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54098.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",K24 HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54082.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",WAAR TV HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54103.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",WAAR TV HD PLUS
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54080.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",DEVER TV HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771668.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ZAROK TV HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771669.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",RUDAW HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54101.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",TRT KURDI HD PLUS
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54094.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ZAGROS HD PLUS
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54108.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",DUHOK SPORT HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/732990.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ASO SPORT HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771667.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",DASINYA SPORT HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771659.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",MMN KIDS HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771663.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",MMN MOVIES HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771664.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",MMN CLASSICAL MUSIC HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771666.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",MINARA HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/772718.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",MMN Action HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/772720.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",MMN Quran HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/772721.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",BNAR HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/772722.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KOMALA TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/772719.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NRT 3 KIDS
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54114.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDMAX PEPULE
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771653.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDMAX (SORANI)
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771672.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KIRKUK TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54075.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",K24
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54083.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",MEDYA HABER TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54093.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ARYEN TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54090.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",CIRA TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54081.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",GK TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54088.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KNN TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/262092.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ROJAVA TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54076.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",RONAHI TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54097.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",STERK TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54095.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",SPEDA TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54072.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KURD CHANNEL
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/301569.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",SADA TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/301568.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ZAGROS TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54071.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NEWMAX MUSIC TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771658.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",SEE SPORT 3
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/344542.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ZAXO SPORT
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/344543.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",MMN SHOW TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771655.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",MMN ACTION TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771656.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",MMN CLIP TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771662.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",MMN RADIO TURK
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771654.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",EMAN TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/772725.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KIRKUK QURAN TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/772726.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NÛCE TV FHD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/362496.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",#### KU VIP - Badini ####
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/154168.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KRD WWE HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/155299.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",DASINYA MUSIC HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/56433.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",DASINYA KIDS HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/258553.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KURD TV HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/150125.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",DUHOK TV HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/56437.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",WAAR HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/111630.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ATV HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/56436.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NUBAR TV HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/84297.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ISHTAR HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/76735.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",##### KU -NETEWEYÊ #####
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54067.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ASTERA FAMILY HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54062.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NEWLINE HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54032.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NEWLINE2 HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54031.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NIGA KIDS HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54029.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NIGA KIDS HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/732983.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",BARIN QURAN HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/732991.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ASMAN HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54065.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",QALAT HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54026.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NUJEN TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/732981.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",MED MUZIK TV HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/732984.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",LIFE HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/732985.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDISTAN 24 FHD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/732986.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",JIN HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/732988.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",HORMZYAR HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/732989.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",BARIN FAMILY HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/732992.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",BARIN HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/732993.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",PSHDAR HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771657.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",CIHAN HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771661.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ROJGAR HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771665.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NIROJ HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771670.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",BEFRIN HD (ONLY LIVE)
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/732996.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ASTERA SPORT
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54059.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",DAHEN TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54050.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NISHTIMANY MN
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54027.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",U TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54016.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",EZDAN TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/301541.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",SAHAR KURDISH
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/732978.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",DUHOK PARWADA
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/771671.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",##### KU VIP #####
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/56438.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",#### KU VIP - SORANI ####
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/154169.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDMAX SHOW HD (KUR)
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/111637.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDMAX HD (KUR)
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/111635.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",4KURD HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/160954.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NOHADRA HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/150230.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDMAX SHOW (SOR)
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/111636.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",AVA ENTERTAIMENT
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/64902.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",AMOZHGARY 2
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/97030.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",WAAR
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/76730.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",IRAQIYA KURDISH
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/82576.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NRT 4 UHD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/801203.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",PAYAM TV UHD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/801214.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",RENG DOCUMENTARY HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/803931.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ZED TV HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/803933.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",HELHELOK HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/804038.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDISTAN HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/804077.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDISTAN 24 HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/804079.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",GELI KURDISTAN TV HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/804091.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",AVA ENTERTAIMENT HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805750.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",AZHIN HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805751.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",BARIN MOVIES HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805752.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",BK4 HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805753.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",DASINYA TV HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805754.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",DELAL TV HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805755.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",EURO KURD HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805756.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",FIRST HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805757.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",GEWHER HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805758.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",HALABJA HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805759.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",IRAQIA KURDI HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805760.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",JAMAWAR TV HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805761.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",K24 DOCUMENTARY HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805762.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KHAK HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805764.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KURD MOVIES 2 HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805766.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NEWLINE 2 HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805770.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NEWLINE KIDS HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805771.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NEWLINE MOVIES HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805772.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NEWLINE SPORT HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805773.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NEWLINE BOLLYWOOD HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805774.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NIGA FAMILY HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805776.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NIGA MOVIES HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805981.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NISHTIMANI MN HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805982.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NUBAR SPORT  HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805986.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ONE HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805987.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",RANYA HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805988.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",RENG HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805990.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ROZH HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805992.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",SIMA DOCUMENTARY HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805993.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",SIMA MOVIES HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805994.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",SLEMANI HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805996.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",WASELA QURAN HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805999.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ZAXO HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/806000.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ZNAR HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/806002.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",QALLAM AYINI HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/806005.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",SHAISTA HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/809115.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",DERWAZE MUSIC
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/803959.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",GALI KURDISTAN
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/804030.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",SUROYO TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/801210.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",SUBORO TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/801211.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",BANGWAZ TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/801213.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",JIN TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/803915.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KOMALA TV / SHORA TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/804044.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",DUHOK SPORTS
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/804064.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",AFARIN BAXCHA TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/804207.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ARO FAMILY
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/804678.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ARO KIDS
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/804791.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KALAPOR TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805763.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",LD SPORT
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805768.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",MIHRAB TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805769.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NRT 2 SORANI
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805983.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NRT SPORT
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805984.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NUBAR PLUS
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805985.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ROJHELAT TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/805991.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ZED PLUS
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/806001.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",DERIN TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/301560.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",AFARIN TV HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034751.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NRT 1 TV FHD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034753.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NRT2 SORANI HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034754.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NRT 3 KIDS HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034755.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",NRT 4 HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034756.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",K24 HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034757.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KURD CHANNEL HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034758.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",RUDAW TV HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034759.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",RENG HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034762.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",RENG DOCUMENT HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034763.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",VAN 1 HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034771.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",K4U MUSIC HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034774.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KHAK HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034776.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KRD CARTOON 2 HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034777.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KRD WILD LIFE HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034779.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KURD SHOW HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034781.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDCINEMA ACTION HD2
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034782.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDISTAN TV HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034783.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDMAX HD KURMANJI
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034784.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDMAX SHOW HD SORANI
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034785.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KURDSHOW HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034786.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",LIVEDREAM HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034787.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",MED MUSIC TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034790.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",MEDYA HABER
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034791.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",MINARA TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034792.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",RASAN HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034803.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ROJAVA
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034804.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",RONAHI TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034805.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",SAHAR TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034806.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",SAUDI SUNNAH
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034807.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",SPEDA TV HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034810.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",STERK TV HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034811.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",TRT KURDI
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034812.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",STERK TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034813.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",U TV HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034814.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",WAAR TV HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034815.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ZAROK SORANI
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034816.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ZAROK TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034817.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ZHYAR
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034818.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",AFARIN KIDS HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034823.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",AMOZHGARY TV HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034824.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ARYEN TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034827.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",AVA TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034828.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",BMC
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034830.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",DASINYA SPORT
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034834.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",DUHOK TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034835.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",EURO KURD HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034836.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",GALI KURDISTAN TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034837.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",HELHELOK TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034838.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",IRAQIA KURD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034839.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ISHTAR TV
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034840.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",AFARIN BAXCHA
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034841.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ZAGROS HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034843.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",BANGXWAZEN BADINAN
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034849.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",KHAK HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034851.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",BASK TV HD
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1034858.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",CHANNEL 8
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1328373.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",AVA SPORT
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1328374.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",PARWARDAI
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1403766.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",PARWARDAI HAWLER
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1403767.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",PARWARDAI DUHOK
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/1403768.ts
-#EXTINF:-1 group-title="کوردی ناوخۆیی",ARO DRAMA
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/804273.ts
-
-
---------------------------
-کەناڵی منداڵان
---------------------------
-#EXTINF:-1 group-title="منداڵان",Gewher Kids
-https://iptv-link.short.gy/Gewher_Kids.m3u8
-
-#EXTINF:-1 group-title="منداڵان",Afarin tv
-http://afarintv.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
-
-#EXTINF:-1 group-title="منداڵان",Afarin baxche
-http://afarintv2.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
-
-#EXTINF:-1 group-title="منداڵان",rewi u kalasher
-https://live20.bozztv.com/giatv/giatv-znarkids/znarkids/chunks.m3u8
-
-#EXTINF:-1 group-title="منداڵان",Spi kids
-https://live20.bozztv.com/giatv/giatv-spikids4k2025/spikids4k2025/chunks.m3u8
-
-#EXTINF:-1 group-title="منداڵان",NRT 3 Kids
-http://ottcdn.site/live/MAG68K5PCK/MAGN24G3CK/54114.ts
-
-#EXTINF:-1 group-title="منداڵان",ONE Kids
-https://183.giatvcdn.com/giatv/giatv-onekids/onekids/chunks.m3u8
-
-#EXTINF:-1 group-title="منداڵان",Astera Baby HD
-http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1667743&extension=ts
-
-#EXTINF:-1 group-title="منداڵان",Newline Kids HD
-https://shorter.me/zdxRN
-
-#EXTINF:-1 group-title="منداڵان",Kidco
-http://avrstream.com:1935/live/kidcohd/playlist.m3u8
-
-#EXTINF:-1 group-title="منداڵان",NIGA Kids HD
-http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=638709&extension=ts
-
-#EXTINF:-1 group-title="منداڵان",Kurdmax Pepule HD
-http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=638746&extension=ts
-
-
-
---------------------------
-کەناڵی قورئان
---------------------------
-#EXTINF:-1 group-title="القرآن الکریم",نور القرآن
-https://183.giatvcdn.com/giatv/giatv-onetvnoor/onetvnoor/chunks.m3u8
-#EXTINF:-1 group-title="القرآن الکریم",ئەکادیمیای ئامۆژگاری . قورئان
-https://app-live.org/live/a267c1b3/index.m3u8
-#EXTINF:-1 group-title="القرآن الکریم",دەنگی قورئان
-https://183.giatvcdn.com/giatv/giatv-Quran/Quran/chunks.m3u8
-#EXTINF:-1 group-title="القرآن الکریم",اسلام صبحي
-http://sxstreem.net/live/199199545699768/46JDgzRE68/909118.ts
-#EXTINF:-1 group-title="القرآن الکریم",سعد الغامدي
-http://sxstreem.net/live/199199545699768/46JDgzRE68/909119.ts
-#EXTINF:-1 group-title="القرآن الکریم",عبدالرحمن مسعد
-http://sxstreem.net/live/199199545699768/46JDgzRE68/909120.ts
-#EXTINF:-1 group-title="القرآن الکریم",علي الحذيفي
-http://sxstreem.net/live/199199545699768/46JDgzRE68/909121.ts
-#EXTINF:-1 group-title="القرآن الکریم",منصور السالمي
-http://sxstreem.net/live/199199545699768/46JDgzRE68/909122.ts
-#EXTINF:-1 group-title="القرآن الکریم",هزاع البلوشي
-http://sxstreem.net/live/199199545699768/46JDgzRE68/909123.ts
-#EXTINF:-1 group-title="القرآن الکریم",أحمد علي العجمي
-http://sxstreem.net/live/199199545699768/46JDgzRE68/909124.ts
-#EXTINF:-1 group-title="القرآن الکریم",احمد سعود
-http://sxstreem.net/live/199199545699768/46JDgzRE68/909125.ts
-#EXTINF:-1 group-title="القرآن الکریم",العيون الكوشي
-http://sxstreem.net/live/199199545699768/46JDgzRE68/909126.ts
-#EXTINF:-1 group-title="القرآن الکریم",خالد عبد الكافي
-http://sxstreem.net/live/199199545699768/46JDgzRE68/909127.ts
-#EXTINF:-1 group-title="القرآن الکریم",خليفة الطنيجي
-http://sxstreem.net/live/199199545699768/46JDgzRE68/909128.ts
-#EXTINF:-1 group-title="القرآن الکریم",رعد محمد الكردي
-http://sxstreem.net/live/199199545699768/46JDgzRE68/909129.ts
-#EXTINF:-1 group-title="القرآن الکریم",رمضان شكور
-http://sxstreem.net/live/199199545699768/46JDgzRE68/909130.ts
-#EXTINF:-1 group-title="القرآن الکریم",سامي الدوسري
-http://sxstreem.net/live/199199545699768/46JDgzRE68/909131.ts
-#EXTINF:-1 group-title="القرآن الکریم",سعد الغامدي
-http://sxstreem.net/live/199199545699768/46JDgzRE68/909132.ts
-#EXTINF:-1 group-title="القرآن الکریم",سعود الشريم
-http://sxstreem.net/live/199199545699768/46JDgzRE68/909133.ts
-#EXTINF:-1 group-title="القرآن الکریم",عبد الرحمان السديس
-http://sxstreem.net/live/199199545699768/46JDgzRE68/909134.ts
-#EXTINF:-1 group-title="القرآن الکریم",عبد الله الخياط
-http://sxstreem.net/live/199199545699768/46JDgzRE68/909135.ts
-#EXTINF:-1 group-title="القرآن الکریم",عثمان الأنصاري
-http://sxstreem.net/live/199199545699768/46JDgzRE68/909136.ts
-#EXTINF:-1 group-title="القرآن الکریم",علي الحذيفي
-http://sxstreem.net/live/199199545699768/46JDgzRE68/909137.ts
-#EXTINF:-1 group-title="القرآن الکریم",علي جابر
-http://sxstreem.net/live/199199545699768/46JDgzRE68/909138.ts
-#EXTINF:-1 group-title="القرآن الکریم",فهد الكندري
-http://sxstreem.net/live/199199545699768/46JDgzRE68/909139.ts
-#EXTINF:-1 group-title="القرآن الکریم",فواز الكعبي
-http://sxstreem.net/live/199199545699768/46JDgzRE68/909140.ts
-#EXTINF:-1 group-title="القرآن الکریم",ماجد العنزي
-http://sxstreem.net/live/199199545699768/46JDgzRE68/909141.ts
-#EXTINF:-1 group-title="القرآن الکریم",ماهر المعيقلي
-http://sxstreem.net/live/199199545699768/46JDgzRE68/909142.ts
-#EXTINF:-1 group-title="القرآن الکریم",محمد جبريل
-http://sxstreem.net/live/199199545699768/46JDgzRE68/909143.ts
-#EXTINF:-1 group-title="القرآن الکریم",مشاري العفاسي
-http://sxstreem.net/live/199199545699768/46JDgzRE68/909144.ts
-#EXTINF:-1 group-title="القرآن الکریم",هزاع البلوشى
-http://sxstreem.net/live/199199545699768/46JDgzRE68/909145.ts
-#EXTINF:-1 group-title="القرآن الکریم",ياسر الدوسري
-http://sxstreem.net/live/199199545699768/46JDgzRE68/909146.ts
-#EXTINF:-1 group-title="القرآن الکریم",يوسف الدغوش
-http://sxstreem.net/live/199199545699768/46JDgzRE68/909147.ts
 
 
 
