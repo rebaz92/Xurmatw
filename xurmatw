@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="بیــن ســـــبورت ٢" group-title="test"
-http://restreamott.xyz/restreamtreetv/Arenatomas11/1024210
-
 #EXTINF:-1 tvg-id="" tvg-name="Rudaw HD" tvg-logo="https://photos.smugmug.com/Rudaw-logo/i-7WVWZvk/0/KpP92MzbzGV2SX3ftc2J6RdbjN27V7GGc6hhgG2FZ/L/unnamed-L.png" group-title="کوردی هەواڵ",Rudaw HD
 https://live.rudaw.net/hls/rudaw-tv/master.m3u8
 
