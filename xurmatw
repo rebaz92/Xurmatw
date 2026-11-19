@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="بیــن ســـــبورت ١" group-title="اهم مباریات الیوم  4/11/2026"
-https://alwanlive.stream/proxy?url=http%3A%2F%2Fdashcloudflare.ddns.net%2Flive%2Far%2Fqa%2Fbein%2Fbein_sport_1_hd%2Ftracks-v1a1%2Fmono.ts.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Rudaw HD" tvg-logo="https://photos.smugmug.com/Rudaw-logo/i-7WVWZvk/0/KpP92MzbzGV2SX3ftc2J6RdbjN27V7GGc6hhgG2FZ/L/unnamed-L.png" group-title="کوردی هەواڵ",Rudaw HD
 https://live.rudaw.net/hls/rudaw-tv/master.m3u8
 
